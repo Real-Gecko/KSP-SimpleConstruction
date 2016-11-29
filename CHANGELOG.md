@@ -1,3 +1,20 @@
+### Version 3.4 [KSP 1.2.1] []
+- Fixed duplicate ExWorkshop definition for ModuleScienceLab
+- Rely on CrewCapacity instead of minimumCrew
+- Unified crew pods patch, every mannable pod is now ExWorkshop
+- Reorganized file structure
+- ExtraplanetaryLaunchpads icons are bundled with SimpleConstruction inside ExtraplanetaryLaunchpads folder
+- IFS and MM are not bundled
+- Unified ISRU patch, so metal refining rate corresponds to stock values, Convert-O-Tron 125 is now spendthrift :D
+- Diminished ore input rate and metal output rate twice, so Convert-O-Tron 250 will consume 0.5/sec and output 0.25/sec
+- Clamp-O-Tron Docking Port Jr. is not renamed to Construction Port anymore
+- Clamp-O-Tron Docking Port and Clamp-O-Tron Docking Port Sr. can be used for construction too
+- Only engineers have construction skill
+- Extended KPBS support
+- SME support
+- Added AVC support
+- Changed metal density to 0.0078 (~11.5% higher) to be equal to CRP metals and divisible by EL metal density. Makes integration with [KDVA](http://forum.kerbalspaceprogram.com/index.php?/topic/116987-wip121-keridian-dynamics-dev-thread-last-update-2016-11-28/) easier
+
 ### Version Version_3.3 [KSP 1.2.1] [2016-11-13]
 - Fixed a launch-clamp bug with the help of FizzerUK.
 
