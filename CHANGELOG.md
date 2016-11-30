@@ -1,4 +1,7 @@
-### Version 3.4 [KSP 1.2.1] []
+### Version 3.4.1 [KSP 1.2.1] [2016-11-30]
+- Updated EL to version 5.5.4
+
+### Version 3.4 [KSP 1.2.1] [2016-11-30]
 - Fixed duplicate ExWorkshop definition for ModuleScienceLab
 - Rely on CrewCapacity instead of minimumCrew
 - Unified crew pods patch, every mannable pod is now ExWorkshop
