@@ -1,3 +1,6 @@
+### Version 3.4.2 [KSP 1.2.2] [2016-12-20]
+- Updated EL to version 5.6.0
+
 ### Version 3.4.1 [KSP 1.2.1] [2016-11-30]
 - Updated EL to version 5.5.4
 
