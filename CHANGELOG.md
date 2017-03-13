@@ -1,3 +1,15 @@
+### Version 3.4.3 [KSP 1.2.2] [2017-03-13]
+- Updated EL to version 5.7.1
+- Further extension of **KPBS** support:
+    - **K&K Metal Ore Drill** removed to avoid confusion
+    - **K&K X1000 Metal Storage** becomes **K&K X1200 Metal Storage**
+    - **K&K X1000 Rocket Part Storage** becomes **K&K X2400 Rocket Part Storage**
+    - **K&K X1000 MetalOre Storage** becomes **K&K X1200 Ore Storage**
+    - **K&K Workshop** is capable of producing rocket parts with the same rate as any lab
+    - **K&K Smelter** is capable of converting ore to metal with the same rate as **K&K Planetary ISRU**
+- EL recycler outputs metal
+- Decreased **SpecialistEfficiencyFactor** on rocket parts printing, so bonuses from engineers will resemble stock values
+
 ### Version 3.4.2 [KSP 1.2.2] [2016-12-20]
 - Updated EL to version 5.6.0
 
