@@ -1,3 +1,7 @@
+### Version 3.4.4 [KSP 1.3.0] [2017-05-29]
+- Stopped MM from adding IFS module when module is not actually available by [DefiantZombie](https://github.com/DefiantZombie)
+- Updated EL to version 5.8.0
+
 ### Version 3.4.3 [KSP 1.2.2] [2017-03-13]
 - Updated EL to version 5.7.1
 - Further extension of **KPBS** support:
