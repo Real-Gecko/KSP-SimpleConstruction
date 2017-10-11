@@ -1,3 +1,9 @@
+### Version 3.4.5 [KSP 1.3.1] [2017-10-11]
+- Updated EL to version 5.8.2
+- Updated EL experience traits
+- Updated El resource resipes
+- Added plaque.png to EL folder
+
 ### Version 3.4.4 [KSP 1.3.0] [2017-05-29]
 - Stopped MM from adding IFS module when module is not actually available by [DefiantZombie](https://github.com/DefiantZombie)
 - Updated EL to version 5.8.0
