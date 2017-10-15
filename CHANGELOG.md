@@ -1,3 +1,6 @@
+### Version 3.4.6 [KSP 1.3.1] [2017-10-15]
+- Updated EL to version 5.9.0
+
 ### Version 3.4.5 [KSP 1.3.1] [2017-10-11]
 - Updated EL to version 5.8.2
 - Updated EL experience traits
