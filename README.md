@@ -61,7 +61,7 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [MatterBeam]
 - ![MIT](https://img.shields.io/badge/license-MIT-success "MIT")
 
 ##### All bundled mods are distributed under their own licenses
-##### All art assets (textures, models, animations) are distributed under an All Rights Reserved License.
+##### All art assets (textures, models, animations) are distributed under their own licenses.
 
 ###### v4.0.0.0 original: 11 Aug 2018 zed'K | updated: 02 Feb 2020 zed'K
 
