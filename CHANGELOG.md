@@ -1,3 +1,12 @@
+### Version 4.0.0.0 [KSP 1.8.1] [2020 02 01]
+- Adopted by @zer0Kerbal
+- Added Karbonite functionality to ISRU (Can now convert Karbonite to Metal) (fom Maxwell Smith's aka @mslighthouse fork)
+- updated all patches to include :NEEDS :FOR
+- updated all patches to use EL instead of Ex
+- updated ProductivityFactor to reflect changes in LaunchPads
+- updated LaunchPads.dll; and included licenses
+- many other small updates
+
 ### Version 3.4.6 [KSP 1.3.1] [2017-10-15]
 - Updated EL to version 5.9.0
 
