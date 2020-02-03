@@ -12,7 +12,9 @@ Also available on CKAN. -->
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![MIT](https://img.shields.io/badge/license-MIT-success "MIT") 
 
 ## Author
-adopted for curation by @zer0Kerbal from @EricWi from @RealGecko
+adopted for curation by @zer0Kerbal <br>
+from @EricWi <br>
+from @RealGecko <br>
 Originally created by [MatterBeam](http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/)
 
 ![SimpleConstruction](https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg "SimpleConstruction")
