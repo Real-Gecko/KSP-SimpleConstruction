@@ -35,20 +35,24 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [MatterBeam]
 - Install related ModuleManager patches.
 
 ### Changelog Summary
-*See ![ChangeLog](https://github.com/zer0Kerbal/SimpleConstruction/blob/master/changelog.cfg) for full details of mod changes*
+*See ![ChangeLog](https://github.com/zer0Kerbal/SimpleConstruction/blob/master/Changelog.md) for full details of mod changes*
 <hr>
- #### Dependencies
+ 
+ #### Requires
  - ![Kerbal Space Program](https://kerbalspaceprogram.com) v1.8.1, ***may*** work on earlier versions
+
+ #### Dependencies
  - ![Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
  
+ #### Recomends
+ - ![Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-*)
+
  #### Supports
- - ![AllYAll](http://forum.kerbalspaceprogram.com/index.php?/topic/155858-ksp-122-all) - supports by removing
- - ![Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-131-*)
  - ![Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
 
  #### Suggests
  - ![Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
- - ![Mining Expansion](http://forum.kerbalspaceprogram.com/index.php?/topic/130325-105-*)
+ - ![Mining Expansion](http://forum.kerbalspaceprogram.com/index.php?/topic/130325-*)
  - ![KGEx (coming soon)]()
  - ![B9StockPatches]()
  
