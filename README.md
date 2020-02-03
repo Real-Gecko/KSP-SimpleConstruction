@@ -7,7 +7,7 @@ updated: 03 Feb 2020 -->
 Also available on CKAN. -->
 
 # SimpleConstruction!
-[Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/ODFCr?include_prereleases) 
+[Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases) 
 ![KSP 1.8.x](https://img.shields.io/badge/KSP%20version-1.8.x-66ccff.svg?style=flat-square) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![MIT](https://img.shields.io/badge/license-MIT-success "MIT") 
 
