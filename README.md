@@ -30,6 +30,7 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [MatterBeam]
 - Simple, configurable and adds levels of depth to the gameplay without a learning curve
 
 <hr>
+
 #### Installation Directions (assumes basic KSP mod installation knowledge):
 - Extract to your KSP folder.
 - Install related ModuleManager patches.
