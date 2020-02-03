@@ -1,23 +1,23 @@
 {
-    "NAME"     : "Simple Construction",
-    "URL"      : "https://raw.githubusercontent.com/Real-Gecko/KSP-SimpleConstruction/master/GameData/SimpleConstruction/SimpleConstruction.version",
-    "DOWNLOAD" : "https://github.com/Real-Gecko/KSP-SimpleConstruction/releases",
+    "NAME"     : "SimpleConstruction",
+    "URL"      : "https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/GameData/SimpleConstruction/SimpleConstruction.version",
+    "DOWNLOAD" : "https://github.com/zer0Kerbal/KSP-SimpleConstruction/releases/latest",
     "GITHUB" :
     {
-        "USERNAME" : "Real-Gecko",
-        "REPOSITORY" : "KSP-SimpleConstruction"
+        "USERNAME" : "zer0Kerbal",
+        "REPOSITORY" : "SimpleConstruction"
     },
     "VERSION" :
     {
-        "MAJOR" : 3,
-        "MINOR" : 4,
-        "PATCH" : 6,
+        "MAJOR" : 4,
+        "MINOR" : 0,
+        "PATCH" : 0,
         "BUILD" : 0
     },
     "KSP_VERSION" :
     {
         "MAJOR" : 1,
-        "MINOR" : 3,
+        "MINOR" : 8,
         "PATCH" : 1
     },
     "KSP_VERSION_MIN" :
@@ -29,7 +29,7 @@
     "KSP_VERSION_MAX" :
     {
         "MAJOR" : 1,
-        "MINOR" : 3,
-        "PATCH" : 1
+        "MINOR" : 9,
+        "PATCH" : 9
     }
 }
