@@ -11,11 +11,8 @@ Also available on CKAN. -->
 ![KSP 1.8.x](https://img.shields.io/badge/KSP%20version-1.8.x-66ccff.svg?style=flat-square) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![MIT](https://img.shields.io/badge/license-MIT-success "MIT") 
 
-![Software License GPLv3](https://img.shields.io/badge/SoftwareLicense-GPLv3-red) 
-![NonSoftware License CC 4.0 BY-NC-SA](https://img.shields.io/badge/NonSoftwareLicense-CC--4.0--BY--SA-lightgrey)
-
 ## Author
-@RealGecko
+adopted for curation by @zer0Kerbal from @EricWi from @RealGecko
 Originally created by [MatterBeam](http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/)
 
 ![SimpleConstruction](https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg "SimpleConstruction")
