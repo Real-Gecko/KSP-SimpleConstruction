@@ -4,7 +4,8 @@
 - updated all patches to include :NEEDS :FOR
 - updated all patches to use EL instead of Ex
 - updated ProductivityFactor to reflect changes in LaunchPads
-- updated LaunchPads.dll; and included licenses
+- updated LaunchPad.dll; and included licenses
+- updated LaunchPad textures
 - many other small updates
 
 ### Version 3.4.6 [KSP 1.3.1] [2017-10-15]
