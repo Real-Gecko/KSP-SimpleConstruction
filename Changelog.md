@@ -1,4 +1,4 @@
-### Version 4.0.0.0 [KSP 1.8.1] [2020 02 01]
+### Version 4.0.2.0 [KSP 1.8.1] [2020 02 01]
 - Adopted by @zer0Kerbal
 - Added Karbonite functionality to ISRU (Can now convert Karbonite to Metal) (fom Maxwell Smith's aka @mslighthouse fork)
 - updated all patches to include :NEEDS :FOR
@@ -7,6 +7,19 @@
 - updated LaunchPad.dll; and included licenses
 - updated LaunchPad textures
 - many other small updates
+
+### Version 4.0.1.0 [KSP 1.4.4] [2018 06 24]
+- by EricKerman (@Ericwi) 
+- (Ericwi)[https://github.com/EricKerman/SimpleConstruction/releases]
+ - Updated EL to version 6.1.0
+ - Fixed Large Ports
+ - Added Shield ports
+
+### Version 4.0.0 KSP [1.4.2] [2018-04-07]
+- Updated EL to version 6.0.0
+- Change density of Metal
+- Change cost of Rocket parts and Metal
+- Added seat_tasks
 
 ### Version 3.4.6 [KSP 1.3.1] [2017-10-15]
 - Updated EL to version 5.9.0
