@@ -41,6 +41,9 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [MatterBeam]
  #### Requires
  - [Kerbal Space Program](https://kerbalspaceprogram.com) v1.8.1, ***may*** work on earlier versions
 
+#### Conflicts
+ - [Extraplanetary Launchpads](https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*)
+ - [MKS (maybe)]()
  #### Dependencies
  - [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
  
