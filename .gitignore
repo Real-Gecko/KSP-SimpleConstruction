@@ -1,0 +1,7 @@
+
+*.zip
+
+*.rar
+*.zip
+docs/*
+old/*
