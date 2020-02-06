@@ -49,16 +49,22 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [MatterBeam]
  
  #### Recomends
  - [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/166314-*)
+ - KerbalStats to track kerbal experience.
 
  #### Supports
  - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
- - [Kethane/KethanePlus]()
+ - [Kethane/KethanePlus]() Allows hot-spot mining of MetalOre. old thread (for history).
+ - Toolbar to allow control of the VAB/SPH GUI and easy control of the in-flight GUI.
+ - Kerbal Attachment System. Connect parts of your base together, or move things around.
+ - Infernal Robotics. Makes it easier to move things around.
+ - [B9partswitch]()
 
  #### Suggests
  - [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
  - [Mining Expansion](http://forum.kerbalspaceprogram.com/index.php?/topic/130325-*)
  - [KGEx (coming soon)]()
- - [B9StockPatches]()
+ - [B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+ - [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*)
  
 ## License
 - ![MIT](https://img.shields.io/badge/license-MIT-success "MIT")
