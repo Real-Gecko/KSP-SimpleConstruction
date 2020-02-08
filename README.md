@@ -72,9 +72,9 @@ or
 - [MKS}() maybe?
 <hr>
 ## License
-- ![MIT](https://img.shields.io/badge/license-MIT-success "MIT")
-- ***All bundled mods are distributed under their own licenses***
-- ***All art assets (textures, models, animations) are distributed under their own licenses.***
+- ![MIT](https://img.shields.io/badge/license-MIT-success "MIT")<br>
+- ***All bundled mods are distributed under their own licenses***<br>
+- ***All art assets (textures, models, animations) are distributed under their own licenses.***<br>
 
 ###### v4.0.2.2 original: 11 Aug 2018 zed'K | updated: 08 Feb 2020 zed'K
 
