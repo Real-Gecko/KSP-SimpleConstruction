@@ -73,7 +73,7 @@ or
 - [MKS}() maybe?
 <hr>
 
-![How to Get Suport](https://i.imgur.com/YdYfStN.jpg "https://forum.kerbalspaceprogram.com/index.php?/topic/83212*")
+![How to Get Suport](https://i.imgur.com/YdYfStN.jpg https://forum.kerbalspaceprogram.com/index.php?/topic/83212*)
 ## License
 - ![MIT](https://img.shields.io/badge/license-MIT-success "MIT")<br>
 
