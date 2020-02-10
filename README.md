@@ -84,7 +84,7 @@ This mod contains @taniwha's Launchpad.dll and textures from his Extraplanetary 
 - ***All bundled mods are distributed under their own licenses***<br>
 - ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
 
-###### [KSPVERSION][MODVERSION]v4.0.2.2 original: 11 Aug 2018 zed'K | updated: 08 Feb 2020 zed'K
+###### v4.0.2.3 original: 11 Aug 2018 zed'K | updated: 10 Feb 2020 zed'K
 
 <!--
 CC BY-NC-SA-4.0
