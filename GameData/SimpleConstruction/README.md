@@ -5,6 +5,8 @@ updated: 03 Feb 2020 -->
 
 <!-- Download on SpaceDock here or Github here.
 Also available on CKAN. -->
+[MODVERSION]: 4.0.2.3
+[KSPVERSION]: 1.8.x
 
 # SimpleConstruction!
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases) 
@@ -82,7 +84,7 @@ This mod contains @taniwha's Launchpad.dll and textures from his Extraplanetary 
 - ***All bundled mods are distributed under their own licenses***<br>
 - ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
 
-###### v4.0.2.2 original: 11 Aug 2018 zed'K | updated: 08 Feb 2020 zed'K
+###### v4.0.2.3 original: 11 Aug 2018 zed'K | updated: 10 Feb 2020 zed'K
 
 <!--
 CC BY-NC-SA-4.0
