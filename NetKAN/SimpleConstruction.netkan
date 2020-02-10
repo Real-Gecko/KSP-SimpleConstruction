@@ -2,8 +2,9 @@
     "spec_version": "v1.4",
     "identifier":   "SimpleConstruction",
     "name":         "SimpleConstruction Updated",
-    "abstract":     " This mod aims to provide simple craft building capability in flight mode to stock parts.",
+    "abstract":     "This mod aims to provide simple craft building capability in flight mode to stock parts.",
     "$kref":        "#/ckan/spacedock/59",
+    "$vref":        "#/ckan/ksp-avc/SimpleConstruction.version",
     "x_netkan_version_edit": {
         "find": "[Version_]?",
         "replace": "",
@@ -25,7 +26,7 @@
     ],
     "suggests": [
         { "name": "StockalikeMiningExtension"    },
-        { "name": "CommunityResourcePack"      },
+        { "name": "CommunityResourcePack"        },
         { "name": "NSSC"                         },
         { "name": "KIS"                          },
         { "name": "KAS"                          },
@@ -33,9 +34,9 @@
         { "name": "KerbalJointReinforcementNext" }
     ],
     "supports": [
-        { "name": "KerbalChangeLog" },
-        { "name": "Kethane"           },
-        { "name": "B9PartSwitch"      }
+        { "name": "KerbalChangelog" },
+        { "name": "Kethane"         },
+        { "name": "B9PartSwitch"    }
     ],
     "conflicts": [
         { "name": "ExtraPlanetaryLaunchpads" }
