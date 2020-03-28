@@ -99,7 +99,7 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [@MatterBeam
 License: ![License MIT][shield:license] ![][LOGO:mit]    
 Source: [GitHub][MOD:github:repo]  
 ## Disclaimers:
-This mod contains [@taniwha][LINK:taniwha]'s Launchpad.dll and textures from his [Extraplanetary Launchpads][thread:epl].
+This mod contains [@taniwha][LINK:taniwha] 's Launchpad.dll and textures from his [Extraplanetary Launchpads][thread:epl].
 > *** All bundled mods are distributed under their own licenses***  
 > *** All art assets (textures, models, animations) are distributed under their own licenses***   
 ### Original  
@@ -213,6 +213,7 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 [LINK:matterbeam]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/ "MatterBeam"  
 [LINK:realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-realgecko/ "RealGecko"  
 [LINK:ericwi]: https://forum.kerbalspaceprogram.com/index.php?/profile/152716-ericwi/ "EricWi"  
+[LINK:taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-taniwha/ "Taniwha"  
 
 [IMG:hero:0]: https://i.imgur.com/y01A9en.png "SimpleConstruction! Flag"  
 [IMG:hero:1]: https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg "SimpleConstruction"  
