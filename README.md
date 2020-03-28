@@ -127,7 +127,7 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 [MOD:original:source]:   https://github.com/Real-Gecko/KSP-SimpleConstruction  
 [MOD:original:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/131588-* "MatterBeam's"  
 [MOD:original:download]: https://github.com/Real-Gecko/KSP-SimpleConstruction "RealGecko's GitHub Repo"  
-[MOD:original:license]:  https://img.shields.io/badge/license-CC--BY--NC%204.0-lightgrey&style=plastic "CC BY-NC-SA 4.0"  
+[shield:original:license]:  https://img.shields.io/badge/license-CC--BY--NC%204.0-lightgrey&style=plastic "CC BY-NC-SA 4.0"  
 
 <!--- license logo urls -->
 [LOGO:mit]:   https://i.postimg.cc/bvjfsMP5/MIT-17x17.png "MIT"  
@@ -135,7 +135,7 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 
 [MOD:rel-github]:    https://github.com/zer0Kerbal/SimpleConstruction/releases/latest "GitHub"
 [MOD:rel-spacedock]: http://spacedock.info/mod/59
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/sc
 [MOD:rel-ckan]:       http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
 [image:rel-github]:     https://i.imgur.com/RE4Ppr9.png
@@ -151,6 +151,7 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/mod.json
 [shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/ksp.json
 [shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json
+
 [shield:code]:    https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/code.json  
 [shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
