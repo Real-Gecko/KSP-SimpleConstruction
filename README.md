@@ -1,12 +1,14 @@
-<!-- Readme.md v1.2.0.0
+<!-- Readme.md v1.1.3.0
 SimpleConstruction
 created: 17 Jul 18
-updated: 03 Feb 2020 -->
+updated: 2020 03 27 -->
 
-<!-- Download on SpaceDock here or Github here.
-Also available on CKAN. -->
 [MODVERSION]: 4.0.2.3
 [KSPVERSION]: 1.8.x
+
+
+[MODVERSION]
+[KSPVERSION]
 
 # SimpleConstruction!
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases) 
