@@ -15,10 +15,10 @@ updated: 2020 03 27 -->
 > ***This mod aims to provide simple craft building capability in flight mode to stock parts.***  
 
 ## Author
-adopted for curation by ***[zer0Kerbal][LINK:zer0Kerbal]  
-from [*@EricWi][LINK:ericwi]* from* [*@RealGecko*][LINK:realgecko] Originally created by [***MatterBeam***][LINK:matterbeam]  
+adopted for curation by [***@zer0Kerbal***][LINK:zer0Kerbal]  
+from [*@EricWi*][LINK:ericwi] from [*@RealGecko*][LINK:realgecko] Originally created by [***MatterBeam***][LINK:matterbeam]  
 
-![SC FLag]IMG:hero:0]  
+![SC FLag][IMG:hero:0]  
 ![SimpleConstruction!][IMG:hero:1]  
 
 ## Description
@@ -30,6 +30,7 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [@MatterBeam
 - Added functionality for the Mobile Processing Lab in the late game
 - Simple, configurable and adds levels of depth to the gameplay without a learning curve
 ***
+### Kottabo Talks SimpleConstruction!
 [![][UTUBE:img]][UTUBE:link]
 ***
 ### Full Changelog:
@@ -43,11 +44,11 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [@MatterBeam
 [![CKAN][image:rel-ckan]][thread:ckan]
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![KSP][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-- [x] [Module Manager][thread:mm] [^1]
+- [x] [Module Manager][thread:mm] [][^1]
 ### Recomends
 - [x] [KerbalStats](https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*)
 - [x] [B9 Stock Patches][thread:B9S]  
-- [x] [B9PartSwitcher][thread:B9] *or* [IFS][thread:ifs]
+- [x] [B9PartSwitcher][thread:B9] *or* [Interstellar Fuel Switch Core][thread:ifsc]  
 - [x] [Not So SimpleConstructon!][thread:NSSC] 
 ### Suggests *(mods that benefit SimpleConstruction!)*
 - [x] [Community Resource Pack][thread:crp]
@@ -93,10 +94,10 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [@MatterBeam
 ### Special Thanks:
 - [@RealGecko][LINK:realgecko], [@Ericwi][LINK:ericwi], @maculator, @taniwha, @Eleusis La Arwall, @Badsector, @cy-one for their contributions.
 - [@MatterBeam][LINK:matterbeam] for creating this cool mod. 
-Source: [GitHub][MOD:github:repo]  
 ### License
 #### aka Legal Mumbo Jumbo
 License: ![License MIT][shield:license] ![][LOGO:mit]    
+Source: [GitHub][MOD:github:repo]  
 ## Disclaimers:
 This mod contains [@taniwha][LINK:taniwha]'s Launchpad.dll and textures from his [Extraplanetary Launchpads][thread:epl].
 > *** All bundled mods are distributed under their own licenses***  
@@ -107,7 +108,7 @@ Maintainer(s): [@RealGecko][LINK:realgecko] - [@EricWI][LINK:ericwi]
 [Thread][MOD:original:thread]  
 [Download][MOD:original:download]  
 Source: [GitHub][MOD:original:source]  
-License: ![License CC BY-NC-SA 4.0][shield:originallicense] ![][LOGO:ccbyncsa40]  
+License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40]  
 ***changed before my time.***
 ***  
 [![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge] 
@@ -203,9 +204,10 @@ License: ![License CC BY-NC-SA 4.0][shield:originallicense] ![][LOGO:ccbyncsa40]
 [thread:epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-* "ExtraPlanetary Launchpads"  
 [thread:tool]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-* "Toolbar"
 [thread:keth]: http://forum.kerbalspaceprogram.com/index.php?/topic/119480-* "Kethane/Kethane+"  
+[thread:ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch Core"  
 
-[image:get-support]: https://i.postimg.cc/vHP6zmrw/image.png
-[thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*
+[image:get-support]: https://i.postimg.cc/vHP6zmrw/image.png "Click here: takes you to a forum post on how to get support"  
+[thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Click here: takes you to a forum post on how to get support"  
 
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"  
 [LINK:matterbeam]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/ "MatterBeam"  
@@ -221,8 +223,8 @@ License: ![License CC BY-NC-SA 4.0][shield:originallicense] ![][LOGO:ccbyncsa40]
 [IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"  
 [IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"  
 
-[UTUBE:img]:  https://img.youtube.com/vi/3T_dren-6cc/0.jpg  
-[UTUBE:link]: https://youtu.be/3T_dren-6cc "Kottabo Talks SimpleConstruction!" 
+[UTUBE:img]:  https://img.youtube.com/vi/3T_dren-6cc/0.jpg "YouTube! link"  
+[UTUBE:link]: https://youtu.be/3T_dren-6cc "Kottabo Talks SimpleConstruction!"  
 
 [^1]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date* 
 <!--
