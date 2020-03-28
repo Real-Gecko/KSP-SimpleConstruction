@@ -28,8 +28,8 @@ set RELEASEDIR=C:\KSP_DEV\Releases
 set RELEASEDLL=Source\bin\Release
 
 rem set files
-Set LICENSETEXT="MIT.txt"
-rem set LICENSE="License.txt"
+rem set LICENSETEXT="MIT.txt"
+set LICENSE="License.txt"
 set CHANGELOG="Changelog.cfg"
 set README="Readme.*"
 set DLLNAME=%GAMEDIR%.dll
@@ -52,8 +52,8 @@ copy /Y "Source\bin\Release%1%2" "%GAMEDATA%%GAMEDIR%\Plugins"
 copy /Y %GAMEDIR%.version %GAMEDATA%%SUBDIR%%GAMEDIR%
 copy /Y %CHANGELOG% %GAMEDATA%\%SUBDIR%%GAMEDIR%
 
-rem if "%LICENSE%" NEQ "" copy /y  %LICENSE% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
-if "%LICENSETEXT%" NEQ "" copy /y  %LICENSETEXT% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
+if "%LICENSE%" NEQ "" copy /y  %LICENSE% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
+rem if "%LICENSETEXT%" NEQ "" copy /y  %LICENSETEXT% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
 if "%README%" NEQ "" copy /Y %README% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
 
 

@@ -192,7 +192,7 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 
 [thread:B9]:  https://forum.kerbalspaceprogram.com/index.php?showtopic=140541/ "B9 Part Switcher"  
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
-[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/166314-* "Community Resource Pack" 
+[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack" 
 [thread:kas]: https://forum.kerbalspaceprogram.com/index.php?/topic142594-* "KAS"  
 [thread:KGX]: https://github.com/zer0Kerbal/ "KGEx"  
 [thread:kis]: https://forum.kerbalspaceprogram.com/index.php?/topic/149848-* "KIS"  
