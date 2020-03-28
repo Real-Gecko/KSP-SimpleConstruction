@@ -44,7 +44,7 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [@MatterBeam
 [![CKAN][image:rel-ckan]][thread:ckan]
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![KSP][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-- [x] [Module Manager][thread:mm] [][^1]
+- [x] [Module Manager][thread:mm] [^1]
 ### Recomends
 - [x] [KerbalStats](https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*)
 - [x] [B9 Stock Patches][thread:B9S]  
@@ -108,7 +108,7 @@ Maintainer(s): [@RealGecko][LINK:realgecko] - [@EricWI][LINK:ericwi]
 [Thread][MOD:original:thread]  
 [Download][MOD:original:download]  
 Source: [GitHub][MOD:original:source]  
-License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40]  [][^2]
+License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40]  [^2]
 ***  
 [![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge] 
 ###### v4.0.2.4 original: 11 Aug 2018 zed'K | updated: 2020 Mar 27 zed'K
