@@ -108,8 +108,7 @@ Maintainer(s): [@RealGecko][LINK:realgecko] - [@EricWI][LINK:ericwi]
 [Thread][MOD:original:thread]  
 [Download][MOD:original:download]  
 Source: [GitHub][MOD:original:source]  
-License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40]  
-***changed before my time.***
+License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40]  [][^2]
 ***  
 [![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge] 
 ###### v4.0.2.4 original: 11 Aug 2018 zed'K | updated: 2020 Mar 27 zed'K
@@ -127,7 +126,7 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 [MOD:original:source]:   https://github.com/Real-Gecko/KSP-SimpleConstruction  
 [MOD:original:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/131588-* "MatterBeam's"  
 [MOD:original:download]: https://github.com/Real-Gecko/KSP-SimpleConstruction "RealGecko's GitHub Repo"  
-[shield:original:license]:  https://img.shields.io/badge/license-CC--BY--NC%204.0-lightgrey&style=plastic "CC BY-NC-SA 4.0"  
+[shield:original:license]:  https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-lightgrey "CC BY-NC-SA 4.0"  
 
 <!--- license logo urls -->
 [LOGO:mit]:   https://i.postimg.cc/bvjfsMP5/MIT-17x17.png "MIT"  
@@ -227,7 +226,8 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 [UTUBE:img]:  https://img.youtube.com/vi/3T_dren-6cc/0.jpg "YouTube! link"  
 [UTUBE:link]: https://youtu.be/3T_dren-6cc "Kottabo Talks SimpleConstruction!"  
 
-[^1]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date* 
+[^1]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date* "*Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*"  
+[^2]: ***changed to MIT before my time.*** "***changed to MIT before my time.***"  
 <!--
 this file: GPLv2 2020
 zer0Kerbal--> 
