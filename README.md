@@ -72,11 +72,11 @@ or
 - [ExtraPlanatary Launchpads](https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*)
 
 ### Possible Conflicts
-- [MKS}() maybe?
+- [MKS]() maybe?
 <hr>
  
  <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212*">
-  <img src="https://i.imgur.com/YdYfStN.jpgf" alt="How to Get Suport" />
+  <img src="https://i.imgur.com/YdYfStN.jpgf" alt="How to Get Support" />
 
 ## License
 - ![MIT](https://img.shields.io/badge/license-MIT-success "MIT")<br>
