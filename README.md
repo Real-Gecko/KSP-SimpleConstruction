@@ -45,22 +45,21 @@ After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [@MatterBeam
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![KSP][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
 - [x] [Module Manager][thread:mm] [^1]
+- [x] [Community Resource Pack][thread:crp]
 ### Recomends
 - [x] [KerbalStats](https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*)
 - [x] [B9 Stock Patches][thread:B9S]  
 - [x] [B9PartSwitcher][thread:B9] *or* [Interstellar Fuel Switch Core][thread:ifsc]  
 - [x] [Not So SimpleConstructon!][thread:NSSC] 
 ### Suggests *(mods that benefit SimpleConstruction!)*
-- [x] [Community Resource Pack][thread:crp]
 - [x] [TweakScale][thread:twk]
 - [x] [Toolbar][thread:tool]  
 - [x] [Mining Expansion][thread:smx]  
-- [x] [Community Resource Pack][thread:crp]  
 - [x] [Kerbal Inventory System][thread:kis]  
 - [x] [Kerbal Attachment System][thread:kas]  
 - [x] [Infernal Robotics - Next][thread:irn]
-- [x] [Alternative Resource Panel(ARP)][thread:arp]  
-- [x] [Olympic's ARP Icons (ARPI)][thread:arpi]  
+- [x] [Alternative Resource Panel(ARP)][thread:ARP]  
+- [x] [Olympic's ARP Icons (ARPI)][thread:ARPI]  
 ### Suggests  *(other fun mods by zed'K)*:
 - [x] [B9 Stock Patches (B9S)][thread:B9S]
 - [x] [KGEx][thread:KGX]  
@@ -180,6 +179,8 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 [thread:SL!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
 [thread:BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"  
 [thread:B9S]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Patches"  
+[thread:ARP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193094-* "Alternative Resource Panel"  
+[thread:ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-* "Olympic's Alternative Resource Panel Icons"  
 [thread:CTN]: http:// "CTN (CTN)"  
 [thread:DRL]: https:// "DRElite (DRL)"  
 [thread:VG0]: https:// "Vanguard (VG0)"  
@@ -199,8 +200,6 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 [thread:irn]: https://forum.kerbalspaceprogram.com/index.php?/topic/184787-* "IR-Next"   
 [thread:smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "SMX"  
 [thread:elx]: https://github.com/theRagingIrishman/USI_EL "EL - No More Production"  
-[thread:arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-* "Alternative Resource Panel"  
-[thread:arpi]: https://forum.kerbalspaceprogram.com/index.php?/topic/92866-* "Olympic's Alternative Resource Panel Icons"  
 [thread:epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-* "ExtraPlanetary Launchpads"  
 [thread:tool]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-* "Toolbar"
 [thread:keth]: http://forum.kerbalspaceprogram.com/index.php?/topic/119480-* "Kethane/Kethane+"  
