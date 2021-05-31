@@ -1,0 +1,30 @@
+# Version 4.0.2.7 - Tonka Jade
+<B><color = red>DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL</color></b>
+### minor housekeeping 
+- patch dusting (mostly removing construction dust (comments))
+- ELControlReferenceSC (ghostpart) has had its description updated to include the corrected text: "For those times where you need to switch control references quickly, such as doing a ventral landing. At the flick of an action button, this device will override your avionics and become your new fore and aft, with suitable indicators highlighting when active. At a second flick of the action button, the device will remove the override and the previous control reference will be active once again."
+### update [ScienceLabs.cfg]
+- tightened up patches
+- @RESOURCE -> %RESOURCE
+### update [ISRU.cfg]
+- tightened up patches
+- thanks to @JadeofMaar
+- Mono* to MonoProp 
+- FlowMode -> %FlowMode
+- @RESOURCE -> %RESOURCE
+- add tiny LF tank
+- add tiny Oxidizer tank
+### Back end
+- add auto JSON
+- update EL.version to match
+- update automation to latest version
+### [Resources.cfg] (thank you @Tonka Crash)
+- added abbreviation and hsp to Rocketparts and Metal
+- updated unitCost for RocketParts from 1.0 -> 1.5 to match CRP
+- added patch to update RocketParts IF CRP installed
+- updated AlternateResourcePanel/Icons location (which lead to pushing an update to ARP)
+### Localization [en-us.cfg] (thank you @Tonka Crash)
+- added #SimpleConstruction_RocketParts_abbv = RP
+- added #SimpleConstruction_Metal_abbv = MTL
+### [LaunchClamps.cfg]
+- add fix to all LaunchClamps

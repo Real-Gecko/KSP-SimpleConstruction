@@ -1,6 +1,6 @@
 @echo off
 
-rem v1.0.3.1
+rem v1.0.0.0
 
 rem Put the following text into the Post-build event command line:
 rem without the "rem":
@@ -22,39 +22,38 @@ rem README is the readme file
 
 rem set directories
 set GAMEDIR=SimpleConstruction
-set GAMEDATA="GameData\"
 rem set SUBDIR="SubName\"
+set GAMEDATA="GameData\"
+set MODNAME=SimpleConstruction!
+
 set RELEASEDIR=C:\KSP_DEV\Releases
 set RELEASEDLL=Source\bin\Release
 
 rem set files
-Set LICENSETEXT="License.txt"
-rem set LICENSE="License.txt"
-set CHANGELOG="Changelog.cfg"
-set README="Readme.*"
-set DLLNAME=%GAMEDIR%.dll
+Set JSONDIR="json"
 set VERSIONFILE=%GAMEDIR%.version
 
 rem set utilities locations
 set ZIP="c:\Program Files\7-zip\7z.exe"
 set JQ=C:\ProgramData\chocolatey\lib\jq\tools\jq.exe
+set PD=C:\ProgramData\chocolatey\bin\pandoc.exe
 
 rem Copy files to GameData locations
 
 rem copy /Y "%1%2" "%GAMEDATA%%GAMEDIR%\Plugins"
 rem if automated build - use params, else manual
-IF "%~1" == "" (
-copy /Y "Source\bin\Release%1%2" "%GAMEDATA%%GAMEDIR%\Plugins"
-  ) else (
-    copy /Y "%1%2" "%GAMEDATA%\%GAMEDIR%\Plugins"
-  )
-
-copy /Y %GAMEDIR%.version %GAMEDATA%%SUBDIR%%GAMEDIR%
-copy /Y %CHANGELOG% %GAMEDATA%\%SUBDIR%%GAMEDIR%
+rem IF "%~1" == "" (
+rem copy /Y "Source\bin\Release%1%2" "%GAMEDATA%%GAMEDIR%\Plugins"
+rem   ) else (
+rem     copy /Y "%1%2" "%GAMEDATA%\%GAMEDIR%\Plugins"
+rem   )
+rem 
+rem copy /Y %GAMEDIR%.version %GAMEDATA%%SUBDIR%%GAMEDIR%
+rem copy /Y %CHANGELOG% %GAMEDATA%\%SUBDIR%%GAMEDIR%
 
 rem if "%LICENSE%" NEQ "" copy /y  %LICENSE% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
-if "%LICENSETEXT%" NEQ "" copy /y  %LICENSETEXT% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
-if "%README%" NEQ "" copy /Y %README% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
+rem if "%LICENSETEXT%" NEQ "" copy /y  %LICENSETEXT% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
+rem if "%README%" NEQ "" copy /Y %README% %GAMEDATA%\%SUBDIR%\%GAMEDIR%
 
 
 rem Get Version info
@@ -79,19 +78,30 @@ set VERSION=%major%.%minor%.%patch%.%build%
 rem if "%build%" NEQ "0"  set VERSION=%VERSION%.%patch%
 
 echo Version:  %VERSION%
-set RNFILE=%GAMEDATA%\%SUBDIR%\%GAMEDIR%\%VERSION%.htm
 
-rem create HTML5 version of Readme.md
-pandoc -f gfm -t html5 .ReleaseNotes\%VERSION%.md -o .ReleaseNotes\%VERSION%.htm
-copy /Y .ReleaseNotes\%VERSION%.htm  %GAMEDATA%\%SUBDIR%\%GAMEDIR%
+rem jq -n --arg greeting world '{"hello":$greeting}' > file.json
 
-
-rem Build the zip FILE
-cd %GAMEDATA%\..
-
-set FILE="%RELEASEDIR%\%GAMEDIR%-%VERSION%.zip"
+rem set FILE="%RELEASEDIR%\%GAMEDIR%-%VERSION%.json"
+set FILE="%JSONDIR%\mod.json"
 IF EXIST %FILE% del /F %FILE%
-%ZIP% a -tzip %FILE% GameData
 
-IF EXIST %RNFILE% del /F %RNFILE%
+echo {>>%FILE%
+echo   "schemaVersion": "1",>>%FILE%
+echo   "label": "%MODNAME%",>> %FILE%
+echo   "labelColor": "darkgreen",>> %FILE%
+echo   "message": "%VERSION%",>> %FILE%
+echo   "color": "orange",>> %FILE%
+echo   "style": "plastic">> %FILE%
+echo }>> %FILE%
+
+echo {
+echo   "schemaVersion": "1",
+echo   "label": "%MODNAME%",
+echo   "labelColor": "darkgreen",
+echo   "message": "%VERSION%",
+echo   "color": "orange",
+echo   "style": "plastic"
+echo }
+echo.
+
 pause
