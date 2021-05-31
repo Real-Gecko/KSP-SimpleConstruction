@@ -16,8 +16,8 @@
      - Mono* to MonoProp  
      - FlowMode -> %FlowMode  
      - @RESOURCE -> %RESOURCE  
-     - add tiny LF tank  
-     - add tiny Oxidizer tank  
+     - add tiny LF tank (fixes and closes #1)  
+     - add tiny Oxidizer tank (fixes and closes #1)  
 ###  Back end  
      - add auto JSON  
      - update EL.version to match  
