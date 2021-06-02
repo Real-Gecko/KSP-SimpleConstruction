@@ -1,10 +1,10 @@
-<!-- Readme.md v1.1.3.0
+<!-- Readme.md v1.1.5.0
 SimpleConstruction
 created: 17 Jul 18
-updated: 2020 03 27 -->
+updated: 01 Jun2021 -->
 
-[MODVERSION]: 4.0.2.3
-[KSPVERSION]: 1.8.x
+[MODVERSION]: 4.0.2.7
+[KSPVERSION]: 1.7.x
 ## Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][MOD:rel-ckan]. 
 # SimpleConstruction! (SC!)
 ![Mod Version][shield:mod:latest] 
@@ -110,7 +110,7 @@ Source: [GitHub][MOD:original:source]
 License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40]  [^2]
 ***  
 [![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge] 
-###### v4.0.2.4 original: 11 Aug 2018 zed'K | updated: 2020 Mar 27 zed'K
+###### v4.0.2.7 original: 11 Aug 2018 zed'K | updated: 01 Jun 2021 zed'K
 [MOD:license]:      https://github.com/zer0Kerbal/SimpleConstruction/blob/master/LICENSE
 [MOD:contributing]: https://github.com/zer0Kerbal/SimpleConstruction/blob/master/.github/CONTRIBUTING.md
 [MOD:issues]:       https://github.com/zer0Kerbal/SimpleConstruction/issues  
@@ -180,12 +180,7 @@ License: ![License CC BY-NC-SA 4.0][shield:original:license] ![][LOGO:ccbyncsa40
 [thread:BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"  
 [thread:B9S]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Patches"  
 [thread:ARP]: https://forum.kerbalspaceprogram.com/index.php?/topic/193094-* "Alternative Resource Panel"  
-[thread:ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-* "Olympic's Alternative Resource Panel Icons"  
-[thread:CTN]: http:// "CTN (CTN)"  
-[thread:DRL]: https:// "DRElite (DRL)"  
-[thread:VG0]: https:// "Vanguard (VG0)"  
-[thread:PRB]: https:// "ProbiTronics (BPT)"  
-[thread:HB!]: https:// "HotBeverages (HBR)"  
+[thread:ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-* "Olympic's Alternative Resource Panel Icons"   
 
 [thread:mm]:   http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "ModuleManager"  
 [thread:kcl]:  https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Changelog"  
