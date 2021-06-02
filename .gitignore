@@ -5,3 +5,6 @@
 *.zip
 docs/*
 old/*
+_buildJSON.bat
+_buildRelease.bat
+_deploy.bat
