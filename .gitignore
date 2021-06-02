@@ -8,3 +8,4 @@ old/*
 _buildJSON.bat
 _buildRelease.bat
 _deploy.bat
+_buildRelease.bat
