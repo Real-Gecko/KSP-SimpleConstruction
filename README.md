@@ -124,6 +124,10 @@ See the [README in the Localization folder][LINK:localization] for instructions 
 - [x]  [SimpleLogistics! (SLOG!)][thread:SLOG!]  
 - [x]  [ISRU Thanks but no Tanks! (QBTT)][thread:QBTT]  
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 - [x]  [Six Crew Science Lab][thread:6sl] - simple patch that re-adds the missing four seats  
 - [x]  [Mining Expansion][thread:smx]  
 - [x]  [Kerbal Inventory System][thread:kis]  
