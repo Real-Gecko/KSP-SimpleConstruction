@@ -13,8 +13,13 @@
         "MAJOR" : 4,
         "MINOR" : 0,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "PATCH" : 2,
         "BUILD" : 7
+=======
+        "PATCH" : 9,
+        "BUILD" : 9
+>>>>>>> Stashed changes
 =======
         "PATCH" : 9,
         "BUILD" : 9
@@ -30,8 +35,13 @@
     {
         "MAJOR" : 1,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "MINOR" : 9,
         "PATCH" : 1
+=======
+        "MINOR" : 7,
+        "PATCH" : 3
+>>>>>>> Stashed changes
 =======
         "MINOR" : 7,
         "PATCH" : 3
@@ -41,7 +51,11 @@
     {
         "MAJOR" : 1,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "MINOR" : 11,
+=======
+        "MINOR" : 12,
+>>>>>>> Stashed changes
 =======
         "MINOR" : 12,
 >>>>>>> Stashed changes
