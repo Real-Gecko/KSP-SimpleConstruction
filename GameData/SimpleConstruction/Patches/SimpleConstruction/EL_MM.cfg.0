@@ -1,0 +1,273 @@
+@PART[*]:HAS[@MODULE[ModuleCommand]:HAS[#minimumCrew[>0]],!MODULE[ELWorkshop]]:FOR[Launchpad]
+{
+	MODULE {
+		name = ELWorkshop
+		// command pods are a tad cramped and are really meant for other
+		// purposes (like flying)
+		ProductivityFactor = 0.25
+		// Unfortunately, due to MM limitations, probe cores get a workshop too
+		IgnoreCrewCapacity = false
+	}
+}
+
+@PART[crewCabin]:FOR[Launchpad]
+{
+	MODULE {
+		name = ELWorkshop
+		// The hitchhiker can isn't bad, but still not ideal
+		ProductivityFactor = 0.4
+	}
+}
+
+@PART[MK1CrewCabin]:FOR[Launchpad]
+{
+	MODULE {
+		name = ELWorkshop
+		// The mk1 crew cabin can isn't bad, but still not ideal
+		ProductivityFactor = 0.35
+	}
+}
+
+@PART[mk2CrewCabin]:FOR[Launchpad]
+{
+	MODULE {
+		name = ELWorkshop
+		// The mk2 crew cabin can isn't bad, but still not ideal (a little
+		// cramped)
+		ProductivityFactor = 0.3
+	}
+}
+
+@PART[mk3CrewCabin]:FOR[Launchpad]
+{
+	MODULE {
+		name = ELWorkshop
+		// The mk3 crew cabin can is far from ideal (what with
+		// only carry-on baggage being permitted...)
+		ProductivityFactor = 0.2
+	}
+}
+
+@PART[Large_Crewed_Lab]:FOR[Launchpad]
+{
+	MODULE {
+		name = ELWorkshop
+		// The science lab is ok (it has some specialized equipment that
+		// can help), but it's still not ideal
+		ProductivityFactor = 0.6
+	}
+}
+
++PART[crewCabin]:NEEDS[!ReStock]:FOR[Launchpad]
+{
+	@name = ELSurveyStation
+	@title = EL Survey Station
+	@description = Build things at surveyed sites.
+	@tags = cck-el survey
+	MODULE {
+		name = ELSurveyStation
+	}
+}
+
++PART[crewCabin]:NEEDS[ReStock]:AFTER[ReStock]
+{
+	@name = ELSurveyStation
+	@title = EL Survey Station
+	@description = Build things at surveyed sites.
+	@tags = cck-el survey
+	MODULE {
+		name = ELSurveyStation
+	}
+}
+
++PART[launchClamp1]:AFTER[Launchpad]
+{
+	@name = ELExtendingLaunchClamp
+	// The part is not meant to be placed directly. Rather, EL will do a
+	// switch when loading the craft file.
+	TechHidden = true
+	@category = none
+	-tags = cck-el
+	@MODULE[LaunchClamp] {
+		@name = ELExtendingLaunchClamp
+	}
+}
+@PART[*]:HAS[MODULE[ELExtendingLaunchClamp]]:AFTER[FerramAerospaceResearch]
+{
+	-MODULE[GeometryPartModule] { }
+	-MODULE[FARAeroPartModule] { }
+}
+
+@PART[GrapplingDevice]
+{
+	MODULE {
+		name = ELTarget
+		TargetName = #autoLOC_500861
+		TargetTransform = ArticulatedCap
+	}
+}
+
+// Do this separately, so that the part still exists if somebody uninstalls KIS
+@PART[ELSurveyStation]:AFTER[zzzzStationParts]:NEEDS[ReStock,!KIS] {
+	@TechRequired = Unresearchable
+	@category = none
+}
+@PART[ELSurveyStation]:AFTER[Launchpad]:NEEDS[!ReStock,!KIS] {
+	@TechRequired = Unresearchable
+	@category = none
+}
+
+@PART[FuelCell] {
+	@MODULE[ModuleResourceConverter] {
+		@INPUT_RESOURCE,0 {
+			@Ratio = 0.0003375
+		}
+		@INPUT_RESOURCE,1 {
+			@Ratio = 0.0004125
+		}
+		@OUTPUT_RESOURCE {
+			@Ratio = 9
+		}
+	}
+}
+
+@PART[FuelCellArray] {
+	@MODULE[ModuleResourceConverter] {
+		@INPUT_RESOURCE,0 {
+			@Ratio = 0.00405
+		}
+		@INPUT_RESOURCE,1 {
+			@Ratio = 0.00495
+		}
+		@OUTPUT_RESOURCE {
+			@Ratio = 108
+		}
+	}
+}
+
+@EXPERIENCE_TRAIT[Pilot] {
+	EFFECT {
+		name = ELSurveySkill
+	}
+}
+
+@EXPERIENCE_TRAIT[Engineer] {
+	EFFECT {
+		name = ELConstructionSkill
+	}
+}
+
+@Contracts {
+	@Base {
+		PART_REQUEST {
+			Article = a
+			PartDescription = survey station
+			VesselDescription = outpost
+			Keyword = Commercial
+			Part = ELSurveyStation
+			Module = ELSurveyStation
+			Trivial {
+				Chance = 20
+				FundsMultiplier = 1.15
+				ScienceMultiplier = 1.1
+				ReputationMultiplier = 1.2
+			}
+			Significant {
+				Chance = 30
+				FundsMultiplier = 1.15
+				ScienceMultiplier = 1.1
+				ReputationMultiplier = 1.2
+			}
+			Exceptional {
+				Chance = 40
+				FundsMultiplier = 1.15
+				ScienceMultiplier = 1.3
+				ReputationMultiplier = 1
+			}
+		}
+		RESOURCE_REQUEST {
+			Name = RocketParts
+			Title = rocket parts
+			Keyword = Commercial
+			Part = ELTankSmlRP
+			ChanceMultiplier = 1
+			Trivial {
+				Amount = 2000
+				Chance = 5
+				FundsMultiplier = 1.1
+				ScienceMultiplier = 1.1
+				ReputationMultiplier = 1.1
+			}
+			Significant {
+				Amount = 4000
+				Chance = 10
+				FundsMultiplier = 1.2
+				ScienceMultiplier = 1.2
+				ReputationMultiplier = 1.2
+			}
+			Exceptional {
+				Amount = 8000
+				Chance = 15
+				FundsMultiplier = 1.3
+				ScienceMultiplier = 1.3
+				ReputationMultiplier = 1.3
+			}
+		}
+	}
+	@Station {
+		PART_REQUEST {
+			Article = an
+			PartDescription = orbital construction dock
+			VesselDescription = station
+			Keyword = Commercial
+			Part = ELOrbitalDock
+			Module = ELLaunchpad
+			Trivial {
+				Chance = 20
+				FundsMultiplier = 1.15
+				ScienceMultiplier = 1.1
+				ReputationMultiplier = 1.2
+			}
+			Significant {
+				Chance = 30
+				FundsMultiplier = 1.15
+				ScienceMultiplier = 1.1
+				ReputationMultiplier = 1.2
+			}
+			Exceptional {
+				Chance = 40
+				FundsMultiplier = 1.15
+				ScienceMultiplier = 1.3
+				ReputationMultiplier = 1
+			}
+		}
+		RESOURCE_REQUEST {
+			Name = RocketParts
+			Title = rocket parts
+			Keyword = Commercial
+			Part = ELTankSmlRP
+			ChanceMultiplier = 1
+			Trivial {
+				Amount = 2000
+				Chance = 5
+				FundsMultiplier = 1.1
+				ScienceMultiplier = 1.1
+				ReputationMultiplier = 1.1
+			}
+			Significant {
+				Amount = 4000
+				Chance = 10
+				FundsMultiplier = 1.2
+				ScienceMultiplier = 1.2
+				ReputationMultiplier = 1.2
+			}
+			Exceptional {
+				Amount = 8000
+				Chance = 15
+				FundsMultiplier = 1.3
+				ScienceMultiplier = 1.3
+				ReputationMultiplier = 1.3
+			}
+		}
+	}
+}
