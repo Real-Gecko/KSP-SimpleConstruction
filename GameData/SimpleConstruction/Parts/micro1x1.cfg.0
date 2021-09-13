@@ -1,0 +1,97 @@
+// micro1x1.cfg v1.0.0.0
+// SimpleConstruction! (SCON!)
+// created: 11 Sept 2021
+// updated: 
+
+// Originally:
+// Foundations Parts
+// Twinkle Star, Sparkle
+
+// Based on the stock 1x1 structural panel
+PART
+{
+  name = micro1x1
+  module = Part
+  author = zer0Kerbal
+  scale = 1
+  rescaleFactor = 1
+
+  MODEL
+  {
+    model = Squad/Parts/Structural/structuralPanel1x1/model
+    position = 0.0, 0.0, 0.0
+    scale = 1.0, 1.0, 1.0
+    rotation = 0, 0, 0
+  }
+  MODEL
+  {
+    model = Squad/Parts/Structural/trussGirderL/model
+    position = 0,-0.13935456,0
+    scale = 1,0.2,1
+    rotation = 0,0,0
+  }
+  
+  node_stack_bottom = 0.0, 0.0275, 0.0, 0.0, 1.0, 0.0, 1, 0, 1
+  node_stack_top = -0.5, 0.0, 0.0, -1.0, 0.0, 0.0, 0, 2
+  node_attach = -0.5, 0.0, 0.0, -1.0, 0.0, 0.0, 0, 1
+  
+  attachRules = 1,1,1,1,1
+
+  TechRequired = landing
+  entryCost = 2900
+  cost = 100
+  category = Ground // Structural
+  subcategory = 0
+  
+  title = #FND-1x1-titl //  Structural (M-1x1)
+  manufacturer = #FND-manu // #autoLOC_501646 // Twinkle Star
+  description = #FND-1x1-desc // A sturdy foundation on which to construct your permanent structures. Warranty void if used near Kerbals.
+  tags = #FND-1x1-tags // foundation attach body build construct cover extend fabricate plat structur support
+
+  mass = 0.05 //0.2 // 0.15 // 0.075 + 0.125
+  
+  dragModelType = default
+  maximum_drag = 0.2
+  minimum_drag = 0.2
+  angularDrag = 1
+  
+  crashTolerance = 80
+  breakingForce = 200
+  breakingTorque = 200
+  
+  bulkheadProfiles = size0, srf
+  maxTemp = 2000 // 3200
+  fuelCrossFeed = False
+  explosionPotential = 0.25
+
+    MODULE
+  {
+    name = ModuleGroundPart	
+    fxGroupDeploy = deploy
+    stackableQuantity = 1
+    packedVolume = 40
+    kinematicDelay = 0.0
+  }
+  
+// Module Command
+  MODULE
+  {
+    name = ModuleCommand
+    minimumCrew = 0
+    hasHibernation = False
+  }
+
+  MODULE
+  {
+    name = ModuleCargoPart		
+    packedVolume = 125 // 555 // 876-5309 //80+475
+  }
+
+  DRAG_CUBE
+  {
+    cube = Default, 0.04663,0.9851,0.1365, 0.04663,0.9851,0.1365, 0.1538,0.6073,0.1035, 0.1538,0.6073,0.1035, 0.04663,0.9851,0.1365, 0.04663,0.9848,0.1365, 0,-0.1394,0, 0.6491,0.2256,0.6491
+  }
+}
+
+// GPLv2 BY
+// zer0Kerbal
