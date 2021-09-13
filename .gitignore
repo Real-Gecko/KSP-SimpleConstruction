@@ -1,4 +1,4 @@
-﻿# .gitignore v2.0.0.0
+﻿# .gitignore v2.0.0.1
 
 # Prerequisites
 *.d
@@ -118,7 +118,6 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-GameData/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
