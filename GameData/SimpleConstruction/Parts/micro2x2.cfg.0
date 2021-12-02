@@ -1,7 +1,7 @@
 // micro2x2.cfg v1.0.0.0
 // SimpleConstruction! (SCON!)
 // created: 11 Sept 2021
-// updated: 
+// updated:
 
 // Originally:
 // Foundations Parts
@@ -10,7 +10,7 @@
 // Based on the stock 2x2 structural panel
 PART
 {
-  name = micro2x2
+  name = sc-micro2x2
   module = Part
   author = zer0Kerbal
   scale = 1
@@ -30,11 +30,11 @@ PART
     scale = 2,0.2,2
     rotation = 0,0,0
   }
-  
+
   node_stack_bottom = 0.0, 0.0275, 0.0, 0.0, 1.0, 0.0, 1, 0, 1
   node_stack_top = -0.5, 0.0, 0.0, -1.0, 0.0, 0.0, 0, 2
   node_attach = -1.0, 0.0, 0.0, -1.0, 0.0, 0.0, 0, 1
-  
+
   attachRules = 1,1,1,1,1
 
   TechRequired = landing
@@ -42,23 +42,23 @@ PART
   cost = 100
   category = Ground // Structural
   subcategory = 0
-  
+
   title = #FND-2x2-titl // Foundation Structural (M-2x2)
   manufacturer = #FND-manu // #autoLOC_501646 // Twinkle Star
   description = #FND-2x2-desc // A larger foundation for larger constructions. Warranty void if attached to the ground.
   tags = #FND-2x2-tags // foundation attach body build construct cover extend fabricate plat structur support
-  
+
   mass = 0.075 //0.425 // 0.3 + 0.125 // 0.6
- 
+
   dragModelType = default
   maximum_drag = 0.2
   minimum_drag = 0.2
   angularDrag = 1
-  
+
   crashTolerance = 80
   breakingForce = 200
   breakingTorque = 200
-  
+
   bulkheadProfiles = size1, srf
   maxTemp = 2000 // 3200
   fuelCrossFeed = False
@@ -71,10 +71,10 @@ PART
     minimumCrew = 0
     hasHibernation = False
   }
-  
+
   MODULE
   {
-    name = ModuleCargoPart		
+    name = ModuleCargoPart
     packedVolume = 250 // 715 // 240+475
   }
 
