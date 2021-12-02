@@ -1,7 +1,7 @@
 // micro1x1.cfg v1.0.0.0
 // SimpleConstruction! (SCON!)
 // created: 11 Sept 2021
-// updated: 
+// updated:
 
 // Originally:
 // Foundations Parts
@@ -10,7 +10,7 @@
 // Based on the stock 1x1 structural panel
 PART
 {
-  name = micro1x1
+  name = sc-micro1x1
   module = Part
   author = zer0Kerbal
   scale = 1
@@ -30,11 +30,11 @@ PART
     scale = 1,0.2,1
     rotation = 0,0,0
   }
-  
+
   node_stack_bottom = 0.0, 0.0275, 0.0, 0.0, 1.0, 0.0, 1, 0, 1
   node_stack_top = -0.5, 0.0, 0.0, -1.0, 0.0, 0.0, 0, 2
   node_attach = -0.5, 0.0, 0.0, -1.0, 0.0, 0.0, 0, 1
-  
+
   attachRules = 1,1,1,1,1
 
   TechRequired = landing
@@ -42,23 +42,23 @@ PART
   cost = 100
   category = Ground // Structural
   subcategory = 0
-  
+
   title = #FND-1x1-titl //  Structural (M-1x1)
   manufacturer = #FND-manu // #autoLOC_501646 // Twinkle Star
   description = #FND-1x1-desc // A sturdy foundation on which to construct your permanent structures. Warranty void if used near Kerbals.
   tags = #FND-1x1-tags // foundation attach body build construct cover extend fabricate plat structur support
 
   mass = 0.05 //0.2 // 0.15 // 0.075 + 0.125
-  
+
   dragModelType = default
   maximum_drag = 0.2
   minimum_drag = 0.2
   angularDrag = 1
-  
+
   crashTolerance = 80
   breakingForce = 200
   breakingTorque = 200
-  
+
   bulkheadProfiles = size0, srf
   maxTemp = 2000 // 3200
   fuelCrossFeed = False
@@ -66,13 +66,13 @@ PART
 
     MODULE
   {
-    name = ModuleGroundPart	
+    name = ModuleGroundPart
     fxGroupDeploy = deploy
     stackableQuantity = 1
     packedVolume = 40
     kinematicDelay = 0.0
   }
-  
+
 // Module Command
   MODULE
   {
@@ -83,7 +83,7 @@ PART
 
   MODULE
   {
-    name = ModuleCargoPart		
+    name = ModuleCargoPart
     packedVolume = 125 // 555 // 876-5309 //80+475
   }
 
