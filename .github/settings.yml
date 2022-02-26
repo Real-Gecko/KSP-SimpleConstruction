@@ -177,7 +177,7 @@ labels:
     color: fef2c0
     description: Related to documentation and information.
 
-  - new_name: "type: enhancement"
+  - name: "type: enhancement"
     oldname: "Mod-enhancement"
     # include the old name to rename an existing label
     color: 5ebeff
