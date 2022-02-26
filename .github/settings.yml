@@ -68,8 +68,9 @@ labels:
     color: FFFFF0
     description: "duplicated issue - it happens"
 
-  - name: adoption
-    new_name: "semantic: adoption"
+  - name: "semantic: adoption"
+    # include the old name to rename an existing label
+    oldname: adoption
     color: BADA55
     description: relating to adoption
 
@@ -141,8 +142,9 @@ labels:
     color: FBCA04
     description: issue originates from external sources
 
-  - name: localization
-    new_name: "type: localization"
+  - name: "type: localization"
+    oldname: localization
+    # include the old name to rename an existing label
     color: FFFFF0
     description: related to localization and translations
 
@@ -175,17 +177,20 @@ labels:
     color: fef2c0
     description: Related to documentation and information.
 
-  - name: "Mod-enhancement"
-    new_name: "type: enhancement"
+  - new_name: "type: enhancement"
+    oldname: "Mod-enhancement"
+    # include the old name to rename an existing label
     color: 5ebeff
     description: Requested functionality, features, pages, workflows, endpoints, etc.
 
-  - name: "Mod-feature"
-    new_name: "type: feature"
+  - name: "type: feature"
+    oldname: "Mod-feature"
+    # include the old name to rename an existing label
     description: Brand new functionality, features, pages, workflows, endpoints, etc.
 
-  - name: "Mod-request"
-    new_name: "type: request"
+  - name: "type: request"
+    oldname: "Mod-request"
+    # include the old name to rename an existing label
     color: 5ebeff
     description: Requested functionality, features, pages, workflows, endpoints, etc.
 
@@ -193,13 +198,14 @@ labels:
     color: FFFFF0
     description: archive
 
-  - name: "upstream"
-    new_name: "type: upstream"
+  - name: "type: upstream"
+    oldname: "upstream"
+    # include the old name to rename an existing label
     color: FFFFF0
     description: upstream or side stream
 
-  - name: "pull request"
-    new_name: "type: pull request"
+  - name: "type: pull request"
+    oldname: "pull request"
     color: FFFFF0
     description: upstream or side stream
 
