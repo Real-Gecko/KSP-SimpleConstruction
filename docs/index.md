@@ -8,3 +8,4 @@
 - [Attribution](Attribution.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
 - [Localizations](Localizations.md)
+- [_Sidebar](_Sidebar.md)
