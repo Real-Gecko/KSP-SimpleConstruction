@@ -168,8 +168,8 @@ labels:
     color: fef2c0
     description: Converting measurements, reorganizing folder structure, and other necessary (but less impactful) tasks.
 
-  - name: discussion
-    new_name: "type: discussion"
+  - name: "type: discussion"
+    oldname: discussion
     color: d4c5f9
     description: Questions, queries, posers, proposals and info that requires discussion.
 
