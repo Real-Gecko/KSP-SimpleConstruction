@@ -56,9 +56,9 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: bug
+  - name: bug 🐛 
     color: CC0000
-    description: An issue with the system 🐛. Something isn't working... KSC... we have an error code
+    description: An issue with the system. Something isn't working... KSC... we have an error code
 
   - name: "help wanted"
     color: 008672
