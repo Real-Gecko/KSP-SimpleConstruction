@@ -1,0 +1,19 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "/GameData/*",
+        "/docs/LegalMumboJumbo/*",
+        "/GameData/ExtraplanetaryLaunchpads/*",
+        "/GameData/ExtraplanetaryLaunchpads/UI/*",
+        "/GameData/ExtraplanetaryLaunchpads/Textures/*",
+        "/GameData/SimpleConstruction/*",
+        "/source/*",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/Agents/**",
+        "**/@Thumbs/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
