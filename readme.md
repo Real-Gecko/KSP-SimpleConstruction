@@ -162,7 +162,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 * [TweakScale][thread:twk]
 * [Toolbar Controller][thread:tbc]
-* [Blizzy's Toolbar][thread:tool] 🧰
+* [Blizzy's Toolbar][thread:tool]
 * [B9 Stock Patches][thread:B9S]
 * [Kethane/KethanePlus][thread:keth]
 * [Community Resource Pack][thread:crp]
@@ -327,8 +327,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
 [thread:mks]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-* "Modular Kolonization System (MKS)"
 [thread:tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-* "Toolbar Controller"
-[thread:tool]: Blizzy's Toolbar]
-[thread:tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-* "Toolbar"
+[thread:tool]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-* "Blizzy's Toolbar"
 
 [thread:B9PS]:  https://forum.kerbalspaceprogram.com/index.php?showtopic=140541/ "B9 Part Switch"
 [thread:arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-* "Alternate Resource Panel"
