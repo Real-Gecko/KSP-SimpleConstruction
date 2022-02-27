@@ -11,7 +11,7 @@ uupdated: 24 Feb 2022 -->
 
 [![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
-[MOD:pages:shd]: https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
+
 
 # SimpleConstruction! (SCON)
 
@@ -19,12 +19,11 @@ uupdated: 24 Feb 2022 -->
 
 This mod aims to provide simple craft building capability in flight mode with stock parts and streamlined IRSU mining for Kerbal Space Program.
 
+
+
 #### Author [`@zer0Kerbal`][LINK:zer0Kerbal], adopted  from [`@EricWi`][LINK:ericwi], then previously from [`@RealGecko`][LINK:realgecko]; originally by [`MatterBeam`][LINK:matterbeam]
 
-
-###### _brought to you by KGEx_
-
-***
+---
 
 ![SC Flag][IMG:hero:0]
 ![SimpleConstruction!][IMG:hero:1]
@@ -41,9 +40,9 @@ This mod aims to provide simple craft building capability in flight mode with st
 * Simple, configurable and adds levels of depth to the gameplay without a learning curve
 * Ore --> Metal --> RocketParts --> rockets!
 
-***
+---
 
-### Kottabo Talks SimpleConstruction!
+### Kottabo Talks SimpleConstruction! (SCON!)
 
 <details>
   <summary>Embedded Kottabo Youtube Video</summary>
@@ -54,7 +53,7 @@ This mod aims to provide simple craft building capability in flight mode with st
 
 #### Cabin notes
 
-* `WIP` - work in progress 
+* `WIP` - work in progress
 * Am open to adding more features, great project for someone!
 * I have not personally tested the patches
 * Have a request? Glad to have them, kindly submit through GitHub.
@@ -63,57 +62,57 @@ This mod aims to provide simple craft building capability in flight mode with st
 
 * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [@`taniwha`][LINK:taniwha]
 
-***
+---
 
 ### Localizations
 
-#### SimpleConstruction!
+#### SimpleConstruction! (SCON!)
 
-> * ![][EN] English
-> * ![][DE] German (Deutsch)
-> * ![][CN] Chinese (简体中文)
-> * [ ]  ***your translation here***
+> * ![English Flag][EN] English
+> * ![German Flag][DE] German (Deutsch)
+> * ![Chinese Flag][CN] Chinese (简体中文)
+> * ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 #### [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
 
->-[x] ![][EN] English
->-[x] ![][CN] Chinese (简体中文)
->- [ ]  ***your translation here***
+>* ![English Flag][EN] English
+>* ![Chinese Flag][CN] Chinese (简体中文)
+>* ***your translation here***
 >
 >Kindly help out [@`taniwha1][LINK:taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
 
 ---
 
-### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
+### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 ---
 
 ### See More
 
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]  
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]  
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]  
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
 
 ---
 
 ### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+  CurseForge/OverWolf App (currently does not install dependencies) [^3]
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]  
+or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^1]
 * [Module Manager][thread:mm] [^2]
 
 ### Recommends
@@ -122,31 +121,29 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 * [Not So SimpleConstructon! (NSSC)][thread:NSSC]
 * [Keridian Dynamics Vessel Assembly (KDVA)][thread:KDVA]
 * [SimpleLogistics! (SLOG!)][thread:SLOG!]
-* [ ] [Foundations (FND) - beta][thread:FND] ***Helps prevent ground constructions from floating away :)***
+* [Foundations (FND) - beta][thread:FND] <i><small>Helps prevent ground constructions from floating away :)</small></i>
 
 ### Suggests Mods that benefit SimpleConstruction! (SCON!)
 
 * [KaboOom! (BOOM)][thread:BOOM] another way to not go to space today
 * [On Demand Fuel Cells (ODFC))][thread:ODFC]
 * [ISRU Thanks but no Tanks! (QBTT)][thread:QBTT]
-
 * [Six Crew Science Lab][thread:6sl] - simple patch that re-adds the missing four seats
-* [Mining Expansion][thread:smx] 
-
+* [Mining Expansion][thread:smx]
 * [B9 Stock Patches][thread:B9S]
+* [Not So SimpleConstructon! (NSSC)][thread:NSSC]
+* [Alternative Resource Panel][thread:arp]
+* [Olympic's ARP Icons (ARPI)][thread:ARPI]
+* [Community Trait Icons][thread:cti]
 * Either:
        -  [B9 Part Switch][thread:B9PS] *or*
        -  [Interstellar Fuel Switch Core][thread:ifsc]
 
-##### KSP 1.12.1 and earlier
-* [Kerbal Inventory System][thread:kis]
-* [Kerbal Attachment System][thread:kas]
-* [Kerbal Joint Reinforcement - Next][thread:kjrn]
-
-* [Not So SimpleConstructon! (NSSC)][thread:NSSC] 
-* [Alternative Resource Panel][thread:arp]
-* [Olympic's ARP Icons (ARPI)][thread:ARPI]
-* [Community Trait Icons][thread:cti] 
+#### KSP 1.12.1 and earlier
+>
+> * [Kerbal Inventory System][thread:kis]
+> * [Kerbal Attachment System][thread:kas]
+> * [Kerbal Joint Reinforcement - Next (KJR)][thread:kjrn]
 
 ### Supports
 
@@ -170,14 +167,14 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 * parts, plugin, config, flags, convenience, editor, resources, crewed, uncrewed
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</p>  
+<p><b>*red box below is a link to forum post on how to get support*</p>
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
-### Credits and Special Thanks 
+### Credits and Special Thanks
 
 * [@`taniwha`][LINK:taniwha] for creating [Extraplanetary Launchpads][thread:epl].
-* [@`MatterBeam`][LINK:matterbeam] for creating this cool mod. 
+* [@`MatterBeam`][LINK:matterbeam] for creating this cool mod.
 * [@`RealGecko`][LINK:realgecko] and [`@Ericwi`][LINK:ericwi] - previous maintainers
 * [@`maculator`][LINK:maculator], [@`Eleusis La Arwall`][LINK:eleusislaarwall], [@`Badsector`][LINK:badsector], [@`cy-one`][LINK:cy-one] for their contributions.
 
@@ -185,7 +182,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 #### Current (3) - [`zer0Kerbal`][LINK:zer0Kerbal]
 >
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url] 
+> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]
 > License: [![License Expat-MIT][LIC:shd]][LIC:url]
 >
 > ##### Disclaimer(s)
@@ -230,7 +227,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 #### Finalize build!
 
-![Finalize build!][IMG:hero:2e] 
+![Finalize build!][IMG:hero:2e]
 
 <!-- mod links -->
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204752-* "Mod Forum Thread"
@@ -242,8 +239,9 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [MOD:known]: https://github.com/zer0Kerbal/SimpleConstruction/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/SimpleConstruction/blob/master/LICENSE
 [MOD:local]: https://github.com/zer0Kerbal/SimpleConstruction/tree/master/GameData/SimpleConstruction/Localization/readme.md "Localization"
-[MOD:pages]: https://zer0kerbal.github.io/SimpleConstruction/ "GitHub Pages"
 [MOD:wiki]: https://github.com/zer0Kerbal/SimpleConstruction/wiki "Wiki"
+[MOD:pages]: https://zer0kerbal.github.io/SimpleConstruction/ "GitHub Pages"
+[MOD:pages:shd]: https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/mod.json
@@ -328,6 +326,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:6sl]: https://spacedock.info/mod/248 "Six Crew Science Lab"
 [thread:keth]: http://forum.kerbalspaceprogram.com/index.php?/topic/119480-* "Kethane/Kethane+"
 [thread:ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch Core"
+[thread:kjrn]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-* "Kerbal Joint Reinforcement - Next"
 
 <!--- statics -->
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"

@@ -10,6 +10,8 @@ created: 01 Feb 2022
 updated: 01 Feb 2022
 -->
 
+[Home](https://zer0kerbal.github.io/SimpleConstruction)
+
 # Attribution
 
 ## Flag
@@ -25,9 +27,7 @@ updated: 01 Feb 2022
 
 **Thanks to everyone who gave feedback! It's very important for me and highly appreciated.**
 
-
-
-### Special Thanks:
+### Special Thanks
 
 * [@RealGecko](https://forum.kerbalspaceprogram.com/index.php?/profile/162682-realgecko/), [@Ericwi](https://forum.kerbalspaceprogram.com/index.php?/profile/152716-ericwi/), @maculator, @taniwha, @Eleusis La Arwall, @Badsector, @cy-one for their contributions.
 * [@MatterBeam](https://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/) for creating this cool mod.
@@ -36,12 +36,10 @@ updated: 01 Feb 2022
 
 * Everyone else who made modding tutorials.
 
-  
-
 ### Testing and Support
 
-<ul></li>
-* <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="100" height="100" > eightiesboi</a>
-</li></ul>
+<ul>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="100" height="100" > eightiesboi</a></li>
+</ul>
 
 <!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
