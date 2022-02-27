@@ -25,6 +25,19 @@ This mod aims to provide simple craft building capability in flight mode with st
 
 ---
 
+```mermaid
+  graph LR
+  id[Resource Flow];
+    Drill-->StoreOre((Ore Tank)) & ISRU
+    StoreOre-->ISRU
+    ISRU-->StoreMetal((Metal Tank)) & ScienceLab
+    StoreMetal-->ScienceLab
+    ScienceLab-->StoreRP((RocketParts Tank))--> Workshop
+    Workshop-->Profit
+```
+
+---
+
 ![SC Flag][IMG:hero:0]
 ![SimpleConstruction!][IMG:hero:1]
 
