@@ -8,21 +8,24 @@ SimpleConstruction! (SCON)
 created: 01 Feb 2022
 updated: 20 Feb 2022 -->
 
+[Home](https://zer0kerbal.github.io/SimpleConstruction)
+
 # SimpleConstruction! (SCON)
 
 has been translated into the following languages:
 
+* [x] ![American English][EN] American English <us-en.cfg>  
+* [x] ![Deutsch][DE] German (Deutsch)  <de.cfg>  
+
 __These localizations for KSP and its DLC's are available through Steam:__
 
-- [ ] ![American English][EN] American English <us-en.cfg>  
-- [ ] ![Deutsch][DE] German (Deutsch)  <de.cfg>  
-- [ ] ![Español][ES] Spanish (Español) <es-es.cfg>  
-- [ ] ![Français][FR] French (Français) <fr-fr.cfg>  
-- [ ] ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
-- [ ] ![日本語][JA] Japanese(日本語) <ja.cfg>  
-- [ ] ![Português Brasil][BR] Brazil Portuguese (Português Brasil)<pt-br.cfg>  
-- [ ] ![Русский][RU] Russian (Русский) <ru.cfg>  
-- [ ] ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+* [ ] ![Español][ES] Spanish (Español) <es-es.cfg>  
+* [ ] ![Français][FR] French (Français) <fr-fr.cfg>  
+* [ ] ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
+* [ ] ![日本語][JA] Japanese(日本語) <ja.cfg>  
+* [ ] ![Português Brasil][BR] Brazil Portuguese (Português Brasil)<pt-br.cfg>  
+* [ ] ![Русский][RU] Russian (Русский) <ru.cfg>  
+* [ ] ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
 
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brazil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "简体中文"
@@ -36,14 +39,14 @@ __These localizations for KSP and its DLC's are available through Steam:__
 
 ## Included just in case
 
-- [ ] ![Mexicano][ME] Mexican Spanish (Mexicano) <es-mx.cfg>  
-- [ ] ![한국어][KO] [Korean (한국어) <ko.cfg>  
-- [ ] ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
-- [ ] ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
-- [ ] ![Polski][PO] Polish (Polski)] <pl.cfg>  
-- [ ] ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
-- [ ] ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
-- [ ] ![ʻŌlelo PEN][HA] Hawai'ian(ʻŌlelo Pākē) <ha.cfg>  
+* [ ] ![Mexicano][ME] Mexican Spanish (Mexicano) <es-mx.cfg>  
+* [ ] ![한국어][KO] [Korean (한국어) <ko.cfg>  
+* [ ] ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
+* [ ] ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
+* [ ] ![Polski][PO] Polish (Polski)] <pl.cfg>  
+* [ ] ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
+* [ ] ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
+* [ ] ![ʻŌlelo PEN][HA] Hawai'ian(ʻŌlelo Pākē) <ha.cfg>  
 
 <!-- Localization -->
 [URL:lclztn]: https://github.com/zer0Kerbal/localization/blob/master/readme.md "Localization"
