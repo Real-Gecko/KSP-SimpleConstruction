@@ -94,7 +94,7 @@ This mod aims to provide simple craft building capability in flight mode with st
 >* ![Chinese Flag][CN] Chinese (简体中文)
 >* ***your translation here***
 >
->Kindly help out [@`taniwha1][LINK:taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
+>Kindly help out [@`taniwha][LINK:taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
 
 ---
 
@@ -161,7 +161,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Supports
 
 * [TweakScale][thread:twk]
-* [Toolbar][thread:tool]
+* [Toolbar Controller][thread:tbc]
+* [Blizzy's Toolbar][thread:tool] 🧰
 * [B9 Stock Patches][thread:B9S]
 * [Kethane/KethanePlus][thread:keth]
 * [Community Resource Pack][thread:crp]
@@ -325,8 +326,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
 [thread:mks]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-* "Modular Kolonization System (MKS)"
-
-
+[thread:tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-* "Toolbar Controller"
+[thread:tool]: Blizzy's Toolbar]
 [thread:tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-* "Toolbar"
 
 [thread:B9PS]:  https://forum.kerbalspaceprogram.com/index.php?showtopic=140541/ "B9 Part Switch"
