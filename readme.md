@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.5.7
+<!-- readme.md v1.6.5.9
 SimpleConstruction! (SCON!)
 created: 17 Jul 18
-uupdated: 24 Feb 2022 -->
+uupdated: 05 Mar 2022 -->
 
 <!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
 
@@ -109,6 +109,7 @@ This mod aims to provide simple craft building capability in flight mode with st
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
+* GitHub Pages : See [Pages][MOD:pages]
 
 ---
 
@@ -192,34 +193,34 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 * [@`RealGecko`][LINK:realgecko] and [`@Ericwi`][LINK:ericwi] - previous maintainers
 * [@`maculator`][LINK:maculator], [@`Eleusis La Arwall`][LINK:eleusislaarwall], [@`Badsector`][LINK:badsector], [@`cy-one`][LINK:cy-one] for their contributions.
 
-### Legal Mumbo Jumbo (License _provenance_)
+### Legal Mumbo Jumbo (License *provenance*)
 
 #### Current (3) - [`zer0Kerbal`][LINK:zer0Kerbal]
 >
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]
-> License: [![License Expat-MIT][LIC:shd]][LIC:url]
+> License: [![License][LIC:shd]][LIC:url]
 >
 > ##### Disclaimer(s)
 >
 > This mod contains [`@taniwha`][LINK:taniwha]'s Launchpad.dll and textures from [Extraplanetary Launchpads][thread:epl].
 >
-> ___All bundled mods are distributed under their own licenses___
-> ___All art assets (textures, models, animations, sounds) are distributed under their own licenses___
+> ***All bundled mods are distributed under their own licenses***
+> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
 ### Maintainer (2) - [@EricWI][LINK:ericwi]
 >
 > [Thread][MOD:org:2:thread] - [Download][MOD:org:2:download] - Source: [GitHub][MOD:org:2:source]
-> License: [![License Expat-MIT][LIC:shd]][LIC:url]
+> License: [![License][LIC:shd]][LIC:url]
 
 ### Maintainer (1) - [@RealGecko][LINK:realgecko]
 >
 > [Thread][MOD:org:1:thread] - [Download][MOD:org:1:download] - Source: [GitHub][MOD:org:1:source]
-> License: [![License Expat-MIT][LIC:shd]][LIC:url] [^2]
+> License: [![License][LIC:shd]][LIC:url]4[^2]
 
 ### Original (0) - Author: [@MatterBeam][LINK:matterbeam]
 >
 > [Thread][MOD:org:0:thread]  - [Download][MOD:org:0:download] - Source: [GitHub][MOD:org:0:source]
-> License: [![License CC BY-NC-SA 4.0 International][LIC:org:shd]][LIC:org:url] [![][LIC:org:logo]][LIC:org:url]
+> License: [![License][LIC:org:shd]][LIC:org:url] [![License][LIC:org:logo]][LIC:org:url]
 
 ---
 
@@ -239,14 +240,13 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ![Building Rockets][IMG:hero:2d]
 
-#### Finalize build!
+#### Finalize build (PROFIT!)
 
 ![Finalize build!][IMG:hero:2e]
 
 <!-- mod links -->
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204752-* "Mod Forum Thread"
-
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/Changelog.cfg "Changelog"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/SimpleConstruction/discussions "Discussions"
 [MOD:issue]: https://github.com/zer0Kerbal/SimpleConstruction/issues "GitHub Issues"
@@ -262,7 +262,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 [CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/code.json
 
-<!--- original mod -->
+<!--- mod provenance -->
 [MOD:org:2:source]:   https://github.com/EricKerman/SimpleConstruction "GitHub"
 [MOD:org:2:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/173609-* "EricWI's"
 [MOD:org:2:download]: https://github.com/EricKerman/SimpleConstruction "EricWI's GitHub Repo"
@@ -275,7 +275,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [MOD:org:0:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/131588-* "MatterBeam's"
 [MOD:org:0:download]: https://github.com/matterbeam/SimpleConstruction  "MatterBeam's GitHub Repo"
 
-<!--- license  -->
+<!--- license provenance-->
 [LIC:url]: https://opensource.org/licenses/MIT "Expat-MIT"
 [LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIgICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiICAgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiICAgd2lkdGg9IjI1NiIgICBoZWlnaHQ9IjI1NiIgICBpZD0ic3ZnMiIgICB2ZXJzaW9uPSIxLjEiICAgaW5rc2NhcGU6dmVyc2lvbj0iMC40NyByMjI1ODMiICAgc29kaXBvZGk6ZG9jbmFtZT0ibGljZW5zZXMtbWl0LnN2ZyI+ICA8ZGVmcyAgICAgaWQ9ImRlZnM0Ij4gICAgPGlua3NjYXBlOnBlcnNwZWN0aXZlICAgICAgIHNvZGlwb2RpOnR5cGU9Imlua3NjYXBlOnBlcnNwM2QiICAgICAgIGlua3NjYXBlOnZwX3g9IjAgOiA1MjYuMTgxMDkgOiAxIiAgICAgICBpbmtzY2FwZTp2cF95PSIwIDogMTAwMCA6IDAiICAgICAgIGlua3NjYXBlOnZwX3o9Ijc0NC4wOTQ0OCA6IDUyNi4xODEwOSA6IDEiICAgICAgIGlua3NjYXBlOnBlcnNwM2Qtb3JpZ2luPSIzNzIuMDQ3MjQgOiAzNTAuNzg3MzkgOiAxIiAgICAgICBpZD0icGVyc3BlY3RpdmUxMCIgLz4gICAgPGlua3NjYXBlOnBlcnNwZWN0aXZlICAgICAgIGlkPSJwZXJzcGVjdGl2ZTI4ODQiICAgICAgIGlua3NjYXBlOnBlcnNwM2Qtb3JpZ2luPSIwLjUgOiAwLjMzMzMzMzMzIDogMSIgICAgICAgaW5rc2NhcGU6dnBfej0iMSA6IDAuNSA6IDEiICAgICAgIGlua3NjYXBlOnZwX3k9IjAgOiAxMDAwIDogMCIgICAgICAgaW5rc2NhcGU6dnBfeD0iMCA6IDAuNSA6IDEiICAgICAgIHNvZGlwb2RpOnR5cGU9Imlua3NjYXBlOnBlcnNwM2QiIC8+ICA8L2RlZnM+ICA8c29kaXBvZGk6bmFtZWR2aWV3ICAgICBpZD0iYmFzZSIgICAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIgICAgIGJvcmRlcmNvbG9yPSIjNjY2NjY2IiAgICAgYm9yZGVyb3BhY2l0eT0iMS4wIiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIgICAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiICAgICBpbmtzY2FwZTp6b29tPSIwLjk4OTk0OTQ5IiAgICAgaW5rc2NhcGU6Y3g9IjEzMy40NzU2MSIgICAgIGlua3NjYXBlOmN5PSIxMTUuMDYyMTciICAgICBpbmtzY2FwZTpkb2N1bWVudC11bml0cz0icHgiICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJsYXllcjEiICAgICBzaG93Z3JpZD0iZmFsc2UiICAgICBpbmtzY2FwZTp3aW5kb3ctd2lkdGg9Ijg3NiIgICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjY4NCIgICAgIGlua3NjYXBlOndpbmRvdy14PSI3IiAgICAgaW5rc2NhcGU6d2luZG93LXk9IjI5OSIgICAgIGlua3NjYXBlOndpbmRvdy1tYXhpbWl6ZWQ9IjAiIC8+ICA8bWV0YWRhdGEgICAgIGlkPSJtZXRhZGF0YTciPiAgICA8cmRmOlJERj4gICAgICA8Y2M6V29yayAgICAgICAgIHJkZjphYm91dD0iIj4gICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PiAgICAgICAgPGRjOnR5cGUgICAgICAgICAgIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiIC8+ICAgICAgICA8ZGM6dGl0bGU+PC9kYzp0aXRsZT4gICAgICA8L2NjOldvcms+ICAgIDwvcmRmOlJERj4gIDwvbWV0YWRhdGE+ICA8ZyAgICAgaW5rc2NhcGU6bGFiZWw9IkxheWVyIDEiICAgICBpbmtzY2FwZTpncm91cG1vZGU9ImxheWVyIiAgICAgaWQ9ImxheWVyMSIgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTc5Ni4zNjIxOCkiPiAgICA8cGF0aCAgICAgICBzb2RpcG9kaTp0eXBlPSJhcmMiICAgICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjE1LjM0OTE3MTY0O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLW9wYWNpdHk6MTtzdHJva2UtZGFzaGFycmF5Om5vbmUiICAgICAgIGlkPSJwYXRoMzY4NSIgICAgICAgc29kaXBvZGk6Y3g9IjEzMi4zMjk5OSIgICAgICAgc29kaXBvZGk6Y3k9IjEzNC43ODE2OSIgICAgICAgc29kaXBvZGk6cng9IjExMy4xMzcwOCIgICAgICAgc29kaXBvZGk6cnk9IjEwOS4wOTY0NyIgICAgICAgZD0ibSAyNDUuNDY3MDYsMTM0Ljc4MTY5IGEgMTEzLjEzNzA4LDEwOS4wOTY0NyAwIDEgMSAwLC0wLjAwMiIgICAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wNTcyMjg1LDAsMCwxLjA5MzAyMjcsLTEyLjA0MTI5MSw3NzcuNTQ3ODIpIiAgICAgICBzb2RpcG9kaTpzdGFydD0iMCIgICAgICAgc29kaXBvZGk6ZW5kPSI2LjI4MzE2NzkiICAgICAgIHNvZGlwb2RpOm9wZW49InRydWUiIC8+ICAgIDx0ZXh0ICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiICAgICAgIHN0eWxlPSJmb250LXNpemU6Ni44OTQ2NjU3MnB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7bGluZS1oZWlnaHQ6MTI1JTtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7Zm9udC1mYW1pbHk6QXJpYWw7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjpBcmlhbCIgICAgICAgeD0iMzQuNDA5NzU2IiAgICAgICB5PSI4NjkuMDYxMDQiICAgICAgIGlkPSJ0ZXh0MzcxMCIgICAgICAgc29kaXBvZGk6bGluZXNwYWNpbmc9IjEyNSUiICAgICAgIHRyYW5zZm9ybT0ic2NhbGUoMC44OTA4MDUxLDEuMTIyNTgpIj48dHNwYW4gICAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIiAgICAgICAgIGlkPSJ0c3BhbjM3MTIiICAgICAgICAgeD0iMzQuNDA5NzU2IiAgICAgICAgIHk9Ijg2OS4wNjEwNCIgICAgICAgICBzdHlsZT0iZm9udC1zaXplOjEyNC4xMDM5NzMzOXB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6Ym9sZDtmb250LXN0cmV0Y2g6bm9ybWFsO3RleHQtYWxpZ246c3RhcnQ7bGluZS1oZWlnaHQ6MTI1JTt3cml0aW5nLW1vZGU6bHItdGI7dGV4dC1hbmNob3I6c3RhcnQ7Zm9udC1mYW1pbHk6QXJpYWw7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjpBcmlhbCBCb2xkIj5NSVQ8L3RzcGFuPjwvdGV4dD4gIDwvZz48L3N2Zz4= "Expat-MIT"
 
@@ -367,14 +367,14 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [UTUBE:link]: https://youtu.be/3T_dren-6cc "Kottabo Talks SimpleConstruction!"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-Ore-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
 [PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"
 [GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors "Github Sponsors"
 [GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"
-[BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"
+[BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Coffee"
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
@@ -384,7 +384,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
 [JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
 [KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
 [NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
 [PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
@@ -397,3 +397,4 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [^1]: ***may*** work on other versions (YMMV)
 [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 [^3]: this isn't a mod. ;P
+[^4]: the license was changed around this time.
