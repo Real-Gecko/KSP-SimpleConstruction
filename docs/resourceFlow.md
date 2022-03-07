@@ -9,15 +9,12 @@ SimpleConstruction! (SCON)
 created: 26 Feb 2022
 updated: 26 Feb 2022
 -->
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+
+# SimpleConstruction! (SCON!)
 
 [Home](https://zer0kerbal.github.io/SimpleConstruction)
-
-<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-
-<i class="fab fa-github"></i>
-
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
-# SimpleConstruction! (SCON!)
 
 ## Resource Flow
 
