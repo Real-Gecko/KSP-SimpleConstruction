@@ -3,12 +3,15 @@ permalink: /Localizations.html
 title: Localizations
 ---
 
-<!-- Localizations.md v1.1.0.0
+<!-- Localizations.md v1.1.1.0
 SimpleConstruction! (SCON)
 created: 01 Feb 2022
-updated: 20 Feb 2022 -->
+updated: 06 Mar 2022 -->
 
 [Home](https://zer0kerbal.github.io/SimpleConstruction)
+
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
 # SimpleConstruction! (SCON)
 
@@ -39,7 +42,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 
 ## Included just in case
 
-* [ ] ![Mexicano][ME] Mexican Spanish (Mexicano) <es-mx.cfg>  
+* [ ] ![Español Mexicano][ME] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
 * [ ] ![한국어][KO] [Korean (한국어) <ko.cfg>  
 * [ ] ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 * [ ] ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
@@ -53,7 +56,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [URL:qs]: https://github.com/zer0Kerbal/localization/blob/master/readme.md "Quick Start"
 
 [KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
 [NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
 [PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"

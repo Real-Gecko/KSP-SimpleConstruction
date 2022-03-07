@@ -12,10 +12,14 @@ updated: 01 Feb 2022
 
 [Home](https://zer0kerbal.github.io/SimpleConstruction)
 
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+
 # SimpleConstruction! (SCON)
 
 [Home](/index.md)
 
+* ![LegalMumboJumbo](/LegalMumboJumbo/License.html)
 * ![LegalMumboJumbo](/LegalMumboJumbo/FORUM-01.png)
 * ![LegalMumboJumbo](/LegalMumboJumbo/FORUM-02.png)
 

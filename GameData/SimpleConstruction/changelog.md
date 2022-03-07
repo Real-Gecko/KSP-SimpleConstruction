@@ -127,10 +127,10 @@
 * #35 - SSPX.cfg and StationPartsExpansionRedux.cfg are more or less identical MM patches
 * #36 - Launchclamps.cfg
 * #43 - Version 4.0.9.9.1-prerelease
-* #44 - 4.0.9.9.1 Legal MumboJumbo
-* #45 - 4.0.9.9.1 Update documentation
+* #44 - 4.0.99.1 Legal MumboJumbo
+* #45 - 4.0.99.1 Update documentation
 * #46 - Release 4.0.9.9.1-prerelease
-* #47 - 4.0.9.9.1 - Social Media
+* #47 - 4.0.99.1 - Social Media
 
 ---
 
