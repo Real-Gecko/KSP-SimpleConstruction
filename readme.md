@@ -245,7 +245,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ![Finalize build!][IMG:hero:2e]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/204752-* "Mod Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "Mod Forum Thread"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/SimpleConstruction/discussions "Discussions"
