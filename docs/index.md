@@ -1,6 +1,7 @@
 # 
 
 ## Categories
+- [LegalMumboJumbo](./LegalMumboJumbo/index.md)
 - [ReleaseNotes](./ReleaseNotes/index.md)
 
 ## Documents
@@ -8,4 +9,5 @@
 - [Attribution](Attribution.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
 - [Localizations](Localizations.md)
+- [ManualInstallation](ManualInstallation.md)
 - [resourceFlow](resourceFlow.md)
