@@ -10,16 +10,252 @@
 | spacedock  | (https://spacedock.info/mod/59)                                  |
 | ckan       | SimpleConstruction                                               |
 
-## Version 4.0.99.1 - A tiny Hammer
+## Version 4.0.99.3 - Bucketful of Sand
 
-## This is PRE-RELEASE - and WILL break saves
+### This is PRE-RELEASE - and WILL break saves
+
+* 15 Mar 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
+
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+
+### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
+
+### Updated
+
+* [B9TankTypes.cfg] v1.0.2.0
+  * Update :NEEDS
+    * was: B9_TANK_TYPE:NEEDS[CommunityResourcePack,SimpleConstruction]
+    * is now: B9_TANK_TYPE:NEEDS[B9PartSwitch,Launchpad,SimpleConstruction]
+  * closes #76 - Sandcastle compatibility
+
+### Localization
+
+* [B9TankTypes.cfg] v1.0.2.0
+  * Update :NEEDS
+    * was: B9_TANK_TYPE:NEEDS[CommunityResourcePack,SimpleConstruction]
+    * is now: B9_TANK_TYPE:NEEDS[B9PartSwitch,Launchpad,SimpleConstruction]
+  * `SCRocketParts`
+    * [title] was = RocketParts, now is = #EL_RocketParts_displayName // RocketParts`
+  * `SCMetal`  
+    * [title] was = Metal, now is = #EL_Metal_displayName // Metal
+  * 'Ore'
+    * [title[ was = Ore, now is = #autoLOC_501007 = Ore // Ore
+  * closes #78 - Localize [B9TankTypes.cfg] v1.0.2.0
+* [OreTanksSwitch.cfg] v1.02.0
+  * [SCSwitch]
+    * [switcherDescription] was = Tank Type, now is #SCON-switcherDescription // Tank Type
+    * [SCRocketParts]
+      * [title] was = Rocket Parts, is now = #EL_RocketParts_displayName
+      * added:
+        * [primaryColor] = #d3d3d3
+        * [secondaryColor] = #d3d3d3
+    * [SCMetal]
+      * [title] was = Metal, now is = #EL_Metal_displayName
+      * added:
+        * [primaryColor] = #d3d3d3
+        * [secondaryColor] = #000000
+    * [Ore]
+      * [title] was Ore, is now = #autoLOC_501007 // Ore
+      * added:
+        * [primaryColor] = #caa472
+        * [secondaryColor] = #caa472
+    * [SCCombo]
+      * added [title] = #SCON-combo-title // Ore/Metal/RP
+  * closes #79 - [OreTanksSwitch.cfg] v1.02.0
+* [en-us.cfg] v1.2.1.0
+  * Add B9 Part Switch section
+    * #SCON-switcherDescription = Tank Type
+    * #SCON-combo-title = Ore+Metal+RP
+  * closes #80 - Update [en-us.cfg] v1.2.1.0
+
+### Backend
+
+* [__deploy] v1.1.3.0
+* [_gitPullIssues] v1.1.0.1
+* [SimpleConstruction.version]
+  * removed [KSP_VERSION_MAX], not longer needed
+* removed graphics/ folder; duplicate of img/
+* removed bin/ folder; empty
+
+### Compatibility Folder Restructure
+
+* Currently there is `GameData/SimpleConstruction/Compatibility/ExtraplanetaryLaunchpads` and `GameData/SimpleConstruction/Compatibility/ExtraplanetaryLaunchpads`
+* Create new folder `GameData/SimpleConstruction/Config' and move all config.cfg into it
+* Delete folder `GameData/SimpleConstruction/Compatibility/ExtraplanetaryLaunchpads`
+* Move all files in `GameData/SimpleConstruction/Compatibility/SimpleConstruction` up one level and delete now empty folder
+* move [CrewedPods.cfg], [DockingPorts.cfg], [Drills.cfg], [GrapplingDevice.cfg], [ISRU.cfg], [Launchclamps.cfg], [ScienceLabs.cfg], [SeatTasks.cfg], and [Tanks.cfg] into `Config/SimpleConstruction`
+* Move files related to B9 into subfolder B9PartSwitch
+* closes #77 - Compatibility Folder Restructure
+* [OreTanksSwitch.cfg]
+  * split into [B9TanksSwitch.cfg] v1.0.3.0 and [InterstellarFuelSwitch.cfg] v1.0.3.0
+* [move [SeatTasks.cfg]] to `Config`
+
+### Status
+
+* Issues/Milestones
+  * closes #72 - SimpleConstruction! (SCON) 4.0.99.3-prerelease - Bucketful of Sand
+  * closes #73 - 4.0.99.2 Verify Legal Mumbo Jumbo
+  * closes #74 - 4.0.99.2 Update Documentation
+  * closes #75 - 4.0.99.2 Social Media
+
+* Pull Requests
+  closes #82 - 4.0.99.3-prerelease `<Bucketful of Sand>`
+
+---
+
+## Version 4.0.99.2 - A Little too Spicy
+
+* 06 Mar 2022
+* Release for Kerbal Space Program 1.12.3
+
+### Updated
+  
+* [KPBS.cfg]
+  * renamed to [KerbalPlanetaryBaseSystems.cfg] v1.0.2.0
+  * [KKAOSS_Smelter]
+    * split out into own file [KKAOSS_Smelter] v1.0.2.0
+    * -MODULE[ELCoreHeat]{}
+    * [ModuleResourceConverter]
+      * [TemperatureModifier]
+        * OLD:
+          * key = 0 100000
+          * key = 750 50000
+          * key = 1000 10000
+          * key = 1250 500
+          * key = 2000 50
+          * key = 4000 0
+        * NEW:
+          * key = 0 50000
+          * key = 750 25000
+          * key = 1000 5000
+          * key = 1250 2500
+          * key = 2000 2500
+          * key = 4000 0
+      * [ThermalEfficiency]
+        * OLD:
+          * key = 0 0 0 0
+          * key = 500 0.1 0 0
+          * key = 1000 1.0 0 0
+          * key = 1250 0.1 0 0
+          * key = 3000 0 0 0
+        * NEW:
+          * key = 0 0 0 0
+          * key = 500 0.9 0 0
+          * key = 1000 1.0 0 0
+          * key = 1250 0.9 0 0
+          * key = 1500 0.5 0 0
+          * key = 3000 0.0 0 0
+      * add [UseSpecialistHeatBonus] = true
+      * add [SpecialistHeatFactor] = 0.1
+      * add [resourceOutputName] = #SimpleConstruction_Metal_displayname // Metal]
+      * change [Specialty] = Engineer to [ExperienceEffect] = ConverterSkill
+      * INPUT_RESOURCE
+        * [Ore] ratio was 0.4, now is 1.0
+        * [ElectricCharge] ratio was 48, now 96
+      * OUTPUT_RESOURCE
+        * [Metal] was 0.2, now is 1.0
+      * Localized
+  * [KKAOSS_Workshop]
+    * split out into own file [KKAOSS_Workshop] v1.0.2.0
+    * [ModuleResourceConverter]
+      * Localized
+* [ISRU.cfg] v1.1.0.0
+  * @PART[*ISRU*,Smelter*] --> @PART[*ISRU*,Smelter*,!KKAOSS_Smelter]
+  * with KPBS installed, Smelter was being hit twice without winner winner chicken dinner
+  * closes #63 - [Bug 🐞]: KPBS Smelter not heating
+  * [ModuleResourceConverter]
+    * Localized
+    * INPUT_RESOURCE
+      * [Ore] ratio was 2.5, now is 0.5
+      * [ElectricCharge] ratio remains the same
+    * OUTPUT_RESOURCE
+      * [Metal] was 0.125, now is 0.25
+  
+### Backend
+
+* [__deploy] v1.1.3.0
+* [_gitPullIssues] v1.1.0.1
+* [SimpleConstruction.version]
+  * removed [KSP_VERSION_MAX], not longer needed
+* removed graphics/ folder; duplicate of img/
+* removed bin/ folder; empty
+
+### Localization
+
+* [ScienceLabs.cfg] v1.0.2.2
+  * ConverterName = #SimpleConstruction_RocketParts_displayname = RocketParts
+  * StartActionName = #EL_EventGUIName_StartPartProduction // Start Printing Parts
+  * StopActionName = #EL_EventGUIName_StopPartProduction // Stop Printing Parts
+* [KKAOSS_Workshop.cfg] v1.0.2.0
+  * ConverterName = #SimpleConstruction_RocketParts_displayname = RocketParts
+  * StartActionName = #EL_EventGUIName_StartPartProduction // Start Printing Parts
+  * StopActionName = #EL_EventGUIName_StopPartProduction // Stop Printing Parts
+* [KerbalPlanetaryBaseSystems.cfg] v1.0.2.0
+  * [KKAOSS_Storage_Metal]
+    * -title {}
+    * title = #KBPS-Storage-Metal-titl // K&K X1200 Metal Storage
+  * [KKAOSS_Storage_RocketParts]
+    * -title {}
+    * title = #KBPS-Storage-RP-titl // K&K X2400 Rocket Part Storage
+  * [KKAOSS_Storage_MetalOre]
+    * -title {}
+    * title = #KBPS-Storage-Ore-titl // K&K X1200 Ore Storage
+    * -description {}
+    * description = #KBPS-Storage-Ore-desc
+* [KKAOSS_Smelter.cfg] v1.02.0
+  * ConverterName = #SCON-Metal-ConverterName // Metal
+  * StartActionName = #SCON-Metal-StartActionName // Start Metal Refining
+  * StopActionName = #SCON-Metal-StopActionName // Stop Metal Refining
+  * resourceOutputName = #SimpleConstruction_Metal_displayname // Metal
+* [ISRU.cfg] v1.1.0.0
+  * ConverterName = #SCON-Metal-ConverterName // Metal
+  * StartActionName = #SCON-Metal-StartActionName // Start Metal Refining
+  * StopActionName = #SCON-Metal-StopActionName // Stop Metal Refining
+  * resourceOutputName = #SimpleConstruction_Metal_displayname // Metal
+* [en-us.cfg]v1.2.0.0
+  * KerbalPlanetaryBaseSystems
+    * #KBPS-Storage-Ore-titl = K&K X1200 Ore Storage
+    * #KBPS-Storage-Ore-desc = A storage for ore. You can process the ore in a smelter into metal.
+    * #KBPS-Storage-Metal-titl = K&K X1200 Metal Storage
+    * #KBPS-Storage-RP-titl = K&K X2400 Rocket Part Storage
+    * #KBPS-Smelter-desc = The smelter can be used to process ore into useful metal. Do not touch! HOT!
+
+### Documentation
+
+* update [readme.md] v1.6.5.9
+* update [ReleaseLayout.md] v1.3.1.
+* update [changelog.md] v1.4.1.0
+* update [Attribution.md] v1.1.2.1
+* [docs]
+  * [LegalMumboJumbo]
+  * [Part-Invoice]
+  * [404]
+  * [Localizations]
+  * [ManualInstallation.md]
+  * [resourceFlow.md]
+    * [4.0.99.2]
+* closes #66 - 4.0.99.2 Update Documentation
+* closes #65 - 4.0.99.2 Verify Legal Mumbo Jumbo
+* closes #67 - 4.0.99.2 Social Media
+
+### Status
+
+* Issues/Milestones
+  * closes #63 - [Bug &#55357;&#56350;]:  KPBS Smelter not heating
+  * closes #64 - SimpleConstruction! (SCON) 4.0.99.2-prerelease A Little Too Spicy
+  * closes #65 - 4.0.99.2 Verify Legal Mumbo Jumbo
+  * closes #66 - 4.0.99.2 Update Documentation
+  * closes #67 - 4.0.99.2 Social Media
+* Pull Requests
+  * closes #68 -  Version 4.0.99.2-prerelease - A Little too Spicy - contributed by zer0Kerbal
+
+---
+
+## Version 4.0.99.1 - A tiny Hammer
 
 * 26 Feb 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
-
-## DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
-
-## WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
 
 ### Updated
 
