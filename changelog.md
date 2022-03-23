@@ -3,12 +3,44 @@
 | modName    | SimpleConstruction! (SCON!)                                      |
 | ---------- | ---------------------------------------------------------------- |
 | license    | Expat-MIT                                                        |
-| author     | matterbeam, RealGecho, EricWi and zer0Kerbal                     |
+| author     | RealGecho, EricWi and zer0Kerbal                     |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)    |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)  |
 | spacedock  | (https://spacedock.info/mod/59)                                  |
 | ckan       | SimpleConstruction                                               |
+
+## Version 4.0.99.4 - <% Bugs>
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 22 Mar 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
+
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+
+### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
+
+### Fixed
+
+* [ExperienceTraits.cfg]
+  * removed creeping crawler percent bugs '%' as reported by eightiesboi
+  * thank you to [eightiesboi](https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/)!
+  * fixes #84 - [Bug 🐞]: ELxxxSkill Log Spam
+
+### Status
+
+* Issues/Milestones
+* closed #86 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
+* closes #87 - 4.0.99.4 Verify Legal Mumbo Jumbo
+* closes #88 - 4.0.99.4 Update DocumentationUTC
+* closes #89 - 4.0.99.4 Social Media
+
+* Pull Requests
+  * closes #85 - 84 bug elxxxskill log spam - contributed by zer0Kerbal
+  * closed #90 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
+
+---
 
 ## Version 4.0.99.3 - Bucketful of Sand
 
