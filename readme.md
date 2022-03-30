@@ -131,7 +131,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Recommends
 
-* [KerbalStats][thread:ks]  - keeps tract of time on task, which can increase task efficiency
+* [KerbalStats][thread:ks] - keeps tract of time on task, which can increase task efficiency
 * [Not So SimpleConstructon! (NSSC)][thread:NSSC]
 * [Keridian Dynamics Vessel Assembly (KDVA)][thread:KDVA]
 * [SimpleLogistics! (SLOG!)][thread:SLOG!]
