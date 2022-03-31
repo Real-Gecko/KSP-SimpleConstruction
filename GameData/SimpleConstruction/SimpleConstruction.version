@@ -5,7 +5,7 @@
     "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/changelog.md",
     "GITHUB" :
     {
-        "USERNAME" : "zer0Kerbal",
+        "USERNAME"   : "zer0Kerbal",
         "REPOSITORY" : "SimpleConstruction"
     },
     "VERSION" :
@@ -13,7 +13,7 @@
         "MAJOR" : 4,
         "MINOR" : 0,
         "PATCH" : 99,
-        "BUILD" : 4
+        "BUILD" : 5
     },
     "KSP_VERSION" :
     {
@@ -29,12 +29,12 @@
     },
     "INSTALL_LOC_SC" :
     {
-        "NAME" :          "SimpleConstruction",
-        "DIRECTORY" :     "SimpleConstruction"
+        "NAME"      : "SimpleConstruction",
+        "DIRECTORY" : "SimpleConstruction"
     },
     "INSTALL_LOC_EC" :
     {
-        "NAME" :          "ExtraplanetaryLaunchpads",
-        "DIRECTORY" :     "ExtraplanetaryLaunchpads"
+        "NAME"      : "ExtraplanetaryLaunchpads",
+        "DIRECTORY" : "ExtraplanetaryLaunchpads"
     }
 }

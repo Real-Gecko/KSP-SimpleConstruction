@@ -1,5 +1,14 @@
 # Changelog  
-  
+<!-- 
+changelog.md v1.1.1.1
+SimpleConstruction! (SCON!) 
+created: 01 Aug 2016
+updated: 05 Mar 2022
+
+——————————————————————————————————————————————————
+——— changelog ————————————————————————————————————
+——————————————————————————————————————————————————
+-->
 | modName    | SimpleConstruction! (SCON!)                                      |
 | ---------- | ---------------------------------------------------------------- |
 | license    | Expat-MIT                                                        |
@@ -9,6 +18,60 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)  |
 | spacedock  | (https://spacedock.info/mod/59)                                  |
 | ckan       | SimpleConstruction                                               |
+
+## Version 4.0.99.5 - `<Metal Bugs>`
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 30 Mar 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
+
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+
+### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
+
+### Fixed
+
+* [Resources.cfg] v1.0.3.0
+  * removed creeping crawler metal bugs as reported by DarinDev1000
+  * thank you to [DarinDev1000](https://github.com/DarinDev1000)!
+  * B9PartSwitch) crept into several :NEEDS - bad B9
+  * fixes #92 - [Bug 🐞]: Metal Containers are not working for me
+* [ghostparts.cfg] v1.0.0.1
+  * squashed extra brace `{`
+  * fixes #98 - ghostparts.cfg
+* [ExperienceTraits.cfg] v1.0.0.2
+  * removed [ElSurveySkill]
+    * not used in SimpleConstruction!
+    * will be in NotSoSimpleConstruction
+  * fixes #99 - ExperienceTraits.cfg
+
+### Update
+
+* docs/
+* automation
+* documentation
+* [readme.md]
+  * GitHub
+  * CurseForge
+  * Forums
+  * SpaceDock
+
+### License
+
+* Updated to GPLv3
+  * To match Extraplanetary Launchpads license
+  * closes #97 - Update License to GPLv3
+
+### Status
+
+* Issues/Milestones
+  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease <Metal Bugs>
+  * closes #94 - 4.0.99.5 Verify Legal Mumbo Jumbo
+  * closes #95 - 4.0.99.5 Update Documentation
+  * closes #96 - 4.0.99.5 Update Social Media
+
+---
 
 ## Version 4.0.99.4 - <% Bugs>
 
@@ -813,4 +876,6 @@
 
 * Reduced productivity multipliers: MPL from x7 to x5, Crewed parts from x4 to x3. This was to reduce the much too short construction times that came from chaining together several MPLs in playtesting.
 
-<!-- CC BY-NC-ND 3.0 Unported by zer0Kerbal>
+[CRSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "CurseForge"
+
+<!-- CC BY-ND 3.0 Unported by zer0Kerbal>
