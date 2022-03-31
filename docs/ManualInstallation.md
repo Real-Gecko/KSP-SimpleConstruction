@@ -1,20 +1,21 @@
 ---
 permalink: /ManualInstallation.html
 title: ManualInstallation
+description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
+# layout: bare
+tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.0.0
-SimpleConstruction! (SCON)
+<!-- ManualInstallation.md v1.1.1.0
+SimpleConstruction! (SCON!)
 created: 01 Oct 2019
-updated: 02 Mar 2022 -->
+updated: 27 Mar 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# SimpleConstruction! (SCON)
+# SimpleConstruction! (SCON!)
 
 ***Provides simple craft building capability in flight mode to stock parts for Kerbal Space Program.***
-
-SimpleConstruction! (SCON) is under zer0Kerbal's management!
 
 ## Installation Instructions
 
@@ -79,7 +80,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
         ...
       #.#.#.#.htm
       changelog.md
-      Expat-MIT.txt
+      GPLv3.txt
       readme.htm
       SimpleConstruction.version
     ...
@@ -124,6 +125,6 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [Module Manager][thread:mm]
+* [Module Manager /L][mm]
 
-[thread:mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
+[mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
