@@ -10,4 +10,5 @@
 - [LegalMumboJumbo](LegalMumboJumbo.md)
 - [Localizations](Localizations.md)
 - [ManualInstallation](ManualInstallation.md)
+- [PartInvoice](PartInvoice.md)
 - [resourceFlow](resourceFlow.md)

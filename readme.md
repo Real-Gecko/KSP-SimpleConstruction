@@ -1,13 +1,13 @@
-<!-- readme.md v1.6.5.9
+<!-- readme.md v1.6.6.1
 SimpleConstruction! (SCON!)
 created: 17 Jul 18
-uupdated: 05 Mar 2022 -->
+updated: 22 Mar 2022 -->
 
 <!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
 
 [![SimpleConstruction (SCON!)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
 
 [![GitHub Pages][MOD:pages:shd]][MOD:pages]
 
@@ -15,13 +15,13 @@ uupdated: 05 Mar 2022 -->
 
 # SimpleConstruction! (SCON)
 
-## KerbalSimpleCo
-
 This mod aims to provide simple craft building capability in flight mode with stock parts and streamlined IRSU mining for Kerbal Space Program.
 
 
 
-#### Author [`@zer0Kerbal`][LINK:zer0Kerbal], adopted  from [`@EricWi`][LINK:ericwi], then previously from [`@RealGecko`][LINK:realgecko]; originally by [`MatterBeam`][LINK:matterbeam]
+#### Author [`@zer0Kerbal`][zer0Kerbal], adopted  from [`@EricWi`][ericwi], then previously from [`@RealGecko`][realgecko]; originally by [`MatterBeam`][matterbeam]
+
+adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ---
 
@@ -43,7 +43,7 @@ This mod aims to provide simple craft building capability in flight mode with st
 
 ## Description
 
-> After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [`@MatterBeam`][LINK:matterbeam] had the idea of creating a simple, user friendly mod that would allow you to build rockets without taking a 200MB hit to RAM or having to juggle multitudes of resource pathways. If you know how to set up a drill, ISRU and a fuel tank for an Ore to Fuel conversion, then you should know how to build rockets.
+> After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [`@MatterBeam`][matterbeam] had the idea of creating a simple, user friendly mod that would allow you to build rockets without taking a 200MB hit to RAM or having to juggle multitudes of resource pathways. If you know how to set up a drill, ISRU and a fuel tank for an Ore to Fuel conversion, then you should know how to build rockets.
 
 ## Features
 
@@ -55,7 +55,11 @@ This mod aims to provide simple craft building capability in flight mode with st
 
 ---
 
-### Kottabo Talks SimpleConstruction! (SCON!)
+### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+
+#### Kottabo Talks SimpleConstruction! (SCON!)
+
+[![Kottabos talks SimpleConstruction](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
 
 <details>
   <summary>Embedded Kottabo Youtube Video</summary>
@@ -67,13 +71,14 @@ This mod aims to provide simple craft building capability in flight mode with st
 #### Cabin notes
 
 * `WIP` - work in progress
+* A config that turns a STOCK part (no new models, textures) into a recycler. Maybe the Klaw?
 * Am open to adding more features, great project for someone!
 * I have not personally tested the patches
 * Have a request? Glad to have them, kindly submit through GitHub.
 
 #### Known issue(s)
 
-* If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [@`taniwha`][LINK:taniwha]
+* If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [@`taniwha`][taniwha]
 
 ---
 
@@ -94,11 +99,11 @@ This mod aims to provide simple craft building capability in flight mode with st
 >* ![Chinese Flag][CN] Chinese (简体中文)
 >* ***your translation here***
 >
->Kindly help out [@`taniwha][LINK:taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
+>Kindly help out [@`taniwha][taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
 
 ---
 
-### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
@@ -116,111 +121,113 @@ This mod aims to provide simple craft building capability in flight mode with st
 ### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]
+  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]
+or [![CKAN][CKAN:img]][CKAN:url] [^3]  
 
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^1]
-* [Module Manager][thread:mm] [^2]
+* [Module Manager /L][mm] [^2]
 
 ### Recommends
 
-* [KerbalStats][thread:ks] - keeps tract of time on task, which can increase task efficiency
-* [Not So SimpleConstructon! (NSSC)][thread:NSSC]
-* [Keridian Dynamics Vessel Assembly (KDVA)][thread:KDVA]
-* [SimpleLogistics! (SLOG!)][thread:SLOG!]
-* [Foundations (FND) - beta][thread:FND] <i><small>Helps prevent ground constructions from floating away :)</small></i>
+* [KerbalStats][ks] - keeps tract of time on task, which can increase task efficiency
+* [Not So SimpleConstructon! (NSSC)][NSSC]
+* [Keridian Dynamics Vessel Assembly (KDVA)][KDVA]
+* [SimpleLogistics! (SLOG!)][SLOG!]
+* [Foundations (FND) - beta][FND] <i><small>Helps prevent ground constructions from floating away :)</small></i>
 
 ### Suggests Mods that benefit SimpleConstruction! (SCON!)
 
-* [KaboOom! (BOOM)][thread:BOOM] another way to not go to space today
-* [On Demand Fuel Cells (ODFC))][thread:ODFC]
-* [ISRU Thanks but no Tanks! (QBTT)][thread:QBTT]
-* [Six Crew Science Lab][thread:6sl] - simple patch that re-adds the missing four seats
-* [Mining Expansion][thread:smx]
-* [B9 Stock Patches][thread:B9S]
-* [Not So SimpleConstructon! (NSSC)][thread:NSSC]
-* [Alternative Resource Panel][thread:arp]
-* [Olympic's ARP Icons (ARPI)][thread:ARPI]
-* [Community Trait Icons][thread:cti]
+* [KaboOom! (BOOM)][BOOM] another way to not go to space today
+* [On Demand Fuel Cells (ODFC))][ODFC]
+* [ISRU Thanks but no Tanks! (QBTT)][QBTT]
+* [Six Crew Science Lab][6sl] - simple patch that re-adds the missing four seats
+* [Mining Expansion][smx]
+* [B9 Stock Patches][B9SS]
+* [Not So SimpleConstructon! (NSSC)][NSSC]
+* [Alternative Resource Panel][arp]
+* [Olympic's ARP Icons (ARPI)][ARPI]
+* [Community Trait Icons][cti]
 * Either:
-       -  [B9 Part Switch][thread:B9PS] *or*
-       -  [Interstellar Fuel Switch Core][thread:ifsc]
+       -  [B9 Part Switch][B9PS] *or*
+       -  [Interstellar Fuel Switch Core][ifsc]
 
 #### KSP 1.12.1 and earlier
 >
-> * [Kerbal Inventory System][thread:kis]
-> * [Kerbal Attachment System][thread:kas]
-> * [Kerbal Joint Reinforcement - Next (KJR)][thread:kjrn]
+> * [Kerbal Inventory System][kis]
+> * [Kerbal Attachment System][kas]
+> * [Kerbal Joint Reinforcement - Next (KJR)][kjrn]
 
 ### Supports
 
-* [TweakScale][thread:twk]
-* [Toolbar Controller][thread:tbc]
-* [Blizzy's Toolbar][thread:tool]
-* [B9 Stock Patches][thread:B9S]
-* [Kethane/KethanePlus][thread:keth]
-* [Community Resource Pack][thread:crp]
-* [Extraplanetary Launchpads - No More Production][thread:elx]
+* [TweakScale][twk]
+* [Toolbar Controller][tbc]
+* [Blizzy's Toolbar][tool]
+* [B9 Stock Patches][B9SS]
+* [Kethane/KethanePlus][keth]
+* [Community Resource Pack][crp]
+* [Extraplanetary Launchpads - No More Production][elx]
 
 ### Conflicts
 
-* [Extraplanetary Launchpads][thread:epl]
+* [Extraplanetary Launchpads][epl]
 
 ### Possible Conflicts
 
-* [Modular Kolonization System (MKS)][thread:mks] maybe?
+* [Modular Kolonization System (MKS)][mks] maybe?
 
 ### Tags
 
 * parts, plugin, config, flags, convenience, editor, resources, crewed, uncrewed
 
+---
+
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</p>
+<p><b>*red box below is a link to forum post on how to get support*</p>  
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
 ### Credits and Special Thanks
 
-* [@`taniwha`][LINK:taniwha] for creating [Extraplanetary Launchpads][thread:epl].
-* [@`MatterBeam`][LINK:matterbeam] for creating this cool mod.
-* [@`RealGecko`][LINK:realgecko] and [`@Ericwi`][LINK:ericwi] - previous maintainers
-* [@`maculator`][LINK:maculator], [@`Eleusis La Arwall`][LINK:eleusislaarwall], [@`Badsector`][LINK:badsector], [@`cy-one`][LINK:cy-one] for their contributions.
+* [@`taniwha`][taniwha] for creating [Extraplanetary Launchpads][epl].
+* [@`MatterBeam`][matterbeam] for creating this cool mod.
+* [@`RealGecko`][realgecko] and [`@Ericwi`][ericwi] - previous maintainers
+* [@`maculator`][maculator], [@`Eleusis La Arwall`][eleusislaarwall], [@`Badsector`][badsector], [@`cy-one`][cy-one] for their contributions.
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Current (3) - [`zer0Kerbal`][LINK:zer0Kerbal]
+#### Current (3) - [`zer0Kerbal`][zer0Kerbal]
 >
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]
 > License: [![License][LIC:shd]][LIC:url]
 >
 > ##### Disclaimer(s)
 >
-> This mod contains [`@taniwha`][LINK:taniwha]'s Launchpad.dll and textures from [Extraplanetary Launchpads][thread:epl].
+> This mod contains [`@taniwha`][taniwha]'s Launchpad.dll and textures from [Extraplanetary Launchpads][epl].
 >
 > ***All bundled mods are distributed under their own licenses***
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-### Maintainer (2) - [@EricWI][LINK:ericwi]
+### Maintainer (2) - [@EricWI][ericwi]
 >
-> [Thread][MOD:org:2:thread] - [Download][MOD:org:2:download] - Source: [GitHub][MOD:org:2:source]
+> [Thread][MOD:2:thread] - [Download][MOD:2:download] - Source: [GitHub][MOD:2:source]
 > License: [![License][LIC:shd]][LIC:url]
 
-### Maintainer (1) - [@RealGecko][LINK:realgecko]
+### Maintainer (1) - [@RealGecko][realgecko]
 >
-> [Thread][MOD:org:1:thread] - [Download][MOD:org:1:download] - Source: [GitHub][MOD:org:1:source]
+> [Thread][MOD:1:thread] - [Download][MOD:1:download] - Source: [GitHub][MOD:1:source]
 > License: [![License][LIC:shd]][LIC:url]4[^2]
 
-### Original (0) - Author: [@MatterBeam][LINK:matterbeam]
+### Original (0) - Author: [@MatterBeam][matterbeam]
 >
-> [Thread][MOD:org:0:thread]  - [Download][MOD:org:0:download] - Source: [GitHub][MOD:org:0:source]
-> License: [![License][LIC:org:shd]][LIC:org:url] [![License][LIC:org:logo]][LIC:org:url]
+> [Thread][MOD:0:thread]  - [Download][MOD:0:download] - Source: [GitHub][MOD:0:source]
+> License: [![License][LIC:0:shd]][LIC:0:url] [![License][LIC:0:logo]][LIC:0:url]
 
 ---
 
@@ -245,43 +252,44 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ![Finalize build!][IMG:hero:2e]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "Mod Forum Thread"
+[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/SimpleConstruction/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Mod Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/SimpleConstruction/issues "GitHub Issues"
 [MOD:known]: https://github.com/zer0Kerbal/SimpleConstruction/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/SimpleConstruction/blob/master/LICENSE
 [MOD:local]: https://github.com/zer0Kerbal/SimpleConstruction/tree/master/GameData/SimpleConstruction/Localization/readme.md "Localization"
 [MOD:wiki]: https://github.com/zer0Kerbal/SimpleConstruction/wiki "Wiki"
 [MOD:pages]: https://zer0kerbal.github.io/SimpleConstruction/ "GitHub Pages"
-[MOD:pages:shd]: https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/mod.json
 
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/code.json
+[MOD:pages:shd]: https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:org:2:source]:   https://github.com/EricKerman/SimpleConstruction "GitHub"
-[MOD:org:2:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/173609-* "EricWI's"
-[MOD:org:2:download]: https://github.com/EricKerman/SimpleConstruction "EricWI's GitHub Repo"
+[MOD:2:source]:   https://github.com/EricKerman/SimpleConstruction "GitHub"
+[MOD:2:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/173609-*/ "EricWI's"
+[MOD:2:download]: https://github.com/EricKerman/SimpleConstruction "EricWI's GitHub Repo"
 
-[MOD:org:1:source]:   https://github.com/Real-Gecko/KSP-SimpleConstruction "GitHub"
-[MOD:org:1:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/152575-* "RealGecko's"
-[MOD:org:1:download]: https://github.com/Real-Gecko/KSP-SimpleConstruction "RealGecko's GitHub Repo"
+[MOD:1:source]:   https://github.com/Real-Gecko/KSP-SimpleConstruction "GitHub"
+[MOD:1:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/152575-*/ "RealGecko's"
+[MOD:1:download]: https://github.com/Real-Gecko/KSP-SimpleConstruction "RealGecko's GitHub Repo"
 
-[MOD:org:0:source]:   https://github.com/matterbeam/SimpleConstruction "GitHub"
-[MOD:org:0:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/131588-* "MatterBeam's"
-[MOD:org:0:download]: https://github.com/matterbeam/SimpleConstruction  "MatterBeam's GitHub Repo"
+[MOD:0:source]:   https://github.com/matterbeam/SimpleConstruction "GitHub"
+[MOD:0:thread]:   https://forum.kerbalspaceprogram.com/index.php?/topic/131588-*/ "MatterBeam's"
+[MOD:0:download]: https://github.com/matterbeam/SimpleConstruction  "MatterBeam's GitHub Repo"
 
 <!--- license provenance-->
-[LIC:url]: https://opensource.org/licenses/MIT "Expat-MIT"
-[LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json?logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIgICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiICAgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiICAgd2lkdGg9IjI1NiIgICBoZWlnaHQ9IjI1NiIgICBpZD0ic3ZnMiIgICB2ZXJzaW9uPSIxLjEiICAgaW5rc2NhcGU6dmVyc2lvbj0iMC40NyByMjI1ODMiICAgc29kaXBvZGk6ZG9jbmFtZT0ibGljZW5zZXMtbWl0LnN2ZyI+ICA8ZGVmcyAgICAgaWQ9ImRlZnM0Ij4gICAgPGlua3NjYXBlOnBlcnNwZWN0aXZlICAgICAgIHNvZGlwb2RpOnR5cGU9Imlua3NjYXBlOnBlcnNwM2QiICAgICAgIGlua3NjYXBlOnZwX3g9IjAgOiA1MjYuMTgxMDkgOiAxIiAgICAgICBpbmtzY2FwZTp2cF95PSIwIDogMTAwMCA6IDAiICAgICAgIGlua3NjYXBlOnZwX3o9Ijc0NC4wOTQ0OCA6IDUyNi4xODEwOSA6IDEiICAgICAgIGlua3NjYXBlOnBlcnNwM2Qtb3JpZ2luPSIzNzIuMDQ3MjQgOiAzNTAuNzg3MzkgOiAxIiAgICAgICBpZD0icGVyc3BlY3RpdmUxMCIgLz4gICAgPGlua3NjYXBlOnBlcnNwZWN0aXZlICAgICAgIGlkPSJwZXJzcGVjdGl2ZTI4ODQiICAgICAgIGlua3NjYXBlOnBlcnNwM2Qtb3JpZ2luPSIwLjUgOiAwLjMzMzMzMzMzIDogMSIgICAgICAgaW5rc2NhcGU6dnBfej0iMSA6IDAuNSA6IDEiICAgICAgIGlua3NjYXBlOnZwX3k9IjAgOiAxMDAwIDogMCIgICAgICAgaW5rc2NhcGU6dnBfeD0iMCA6IDAuNSA6IDEiICAgICAgIHNvZGlwb2RpOnR5cGU9Imlua3NjYXBlOnBlcnNwM2QiIC8+ICA8L2RlZnM+ICA8c29kaXBvZGk6bmFtZWR2aWV3ICAgICBpZD0iYmFzZSIgICAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIgICAgIGJvcmRlcmNvbG9yPSIjNjY2NjY2IiAgICAgYm9yZGVyb3BhY2l0eT0iMS4wIiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIgICAgIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiICAgICBpbmtzY2FwZTp6b29tPSIwLjk4OTk0OTQ5IiAgICAgaW5rc2NhcGU6Y3g9IjEzMy40NzU2MSIgICAgIGlua3NjYXBlOmN5PSIxMTUuMDYyMTciICAgICBpbmtzY2FwZTpkb2N1bWVudC11bml0cz0icHgiICAgICBpbmtzY2FwZTpjdXJyZW50LWxheWVyPSJsYXllcjEiICAgICBzaG93Z3JpZD0iZmFsc2UiICAgICBpbmtzY2FwZTp3aW5kb3ctd2lkdGg9Ijg3NiIgICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjY4NCIgICAgIGlua3NjYXBlOndpbmRvdy14PSI3IiAgICAgaW5rc2NhcGU6d2luZG93LXk9IjI5OSIgICAgIGlua3NjYXBlOndpbmRvdy1tYXhpbWl6ZWQ9IjAiIC8+ICA8bWV0YWRhdGEgICAgIGlkPSJtZXRhZGF0YTciPiAgICA8cmRmOlJERj4gICAgICA8Y2M6V29yayAgICAgICAgIHJkZjphYm91dD0iIj4gICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PiAgICAgICAgPGRjOnR5cGUgICAgICAgICAgIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiIC8+ICAgICAgICA8ZGM6dGl0bGU+PC9kYzp0aXRsZT4gICAgICA8L2NjOldvcms+ICAgIDwvcmRmOlJERj4gIDwvbWV0YWRhdGE+ICA8ZyAgICAgaW5rc2NhcGU6bGFiZWw9IkxheWVyIDEiICAgICBpbmtzY2FwZTpncm91cG1vZGU9ImxheWVyIiAgICAgaWQ9ImxheWVyMSIgICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTc5Ni4zNjIxOCkiPiAgICA8cGF0aCAgICAgICBzb2RpcG9kaTp0eXBlPSJhcmMiICAgICAgIHN0eWxlPSJmaWxsOiNmZmZmZmY7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjE1LjM0OTE3MTY0O3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLW9wYWNpdHk6MTtzdHJva2UtZGFzaGFycmF5Om5vbmUiICAgICAgIGlkPSJwYXRoMzY4NSIgICAgICAgc29kaXBvZGk6Y3g9IjEzMi4zMjk5OSIgICAgICAgc29kaXBvZGk6Y3k9IjEzNC43ODE2OSIgICAgICAgc29kaXBvZGk6cng9IjExMy4xMzcwOCIgICAgICAgc29kaXBvZGk6cnk9IjEwOS4wOTY0NyIgICAgICAgZD0ibSAyNDUuNDY3MDYsMTM0Ljc4MTY5IGEgMTEzLjEzNzA4LDEwOS4wOTY0NyAwIDEgMSAwLC0wLjAwMiIgICAgICAgdHJhbnNmb3JtPSJtYXRyaXgoMS4wNTcyMjg1LDAsMCwxLjA5MzAyMjcsLTEyLjA0MTI5MSw3NzcuNTQ3ODIpIiAgICAgICBzb2RpcG9kaTpzdGFydD0iMCIgICAgICAgc29kaXBvZGk6ZW5kPSI2LjI4MzE2NzkiICAgICAgIHNvZGlwb2RpOm9wZW49InRydWUiIC8+ICAgIDx0ZXh0ICAgICAgIHhtbDpzcGFjZT0icHJlc2VydmUiICAgICAgIHN0eWxlPSJmb250LXNpemU6Ni44OTQ2NjU3MnB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7bGluZS1oZWlnaHQ6MTI1JTtmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlOm5vbmU7Zm9udC1mYW1pbHk6QXJpYWw7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjpBcmlhbCIgICAgICAgeD0iMzQuNDA5NzU2IiAgICAgICB5PSI4NjkuMDYxMDQiICAgICAgIGlkPSJ0ZXh0MzcxMCIgICAgICAgc29kaXBvZGk6bGluZXNwYWNpbmc9IjEyNSUiICAgICAgIHRyYW5zZm9ybT0ic2NhbGUoMC44OTA4MDUxLDEuMTIyNTgpIj48dHNwYW4gICAgICAgICBzb2RpcG9kaTpyb2xlPSJsaW5lIiAgICAgICAgIGlkPSJ0c3BhbjM3MTIiICAgICAgICAgeD0iMzQuNDA5NzU2IiAgICAgICAgIHk9Ijg2OS4wNjEwNCIgICAgICAgICBzdHlsZT0iZm9udC1zaXplOjEyNC4xMDM5NzMzOXB4O2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6Ym9sZDtmb250LXN0cmV0Y2g6bm9ybWFsO3RleHQtYWxpZ246c3RhcnQ7bGluZS1oZWlnaHQ6MTI1JTt3cml0aW5nLW1vZGU6bHItdGI7dGV4dC1hbmNob3I6c3RhcnQ7Zm9udC1mYW1pbHk6QXJpYWw7LWlua3NjYXBlLWZvbnQtc3BlY2lmaWNhdGlvbjpBcmlhbCBCb2xkIj5NSVQ8L3RzcGFuPjwvdGV4dD4gIDwvZz48L3N2Zz4= "Expat-MIT"
+[LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPLv3"  
+[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv3"
+[LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json "GPLv3"
 
-[LIC:org:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:org:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:org:shd]:  https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+[LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:0:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:0:shd]:  https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
 
 <!--- AVC -->
 [AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
@@ -289,8 +297,8 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
-[CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN-SimpleConstruction-white.svg?labelColor=E32811&style=plastic "CKAN"
+[CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-*/ "CKAN"
+[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/ckan.json "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/sc "Curseforge"
@@ -307,51 +315,51 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
 <!-- zer0Kerbal mods -->
-[thread:B9S]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Switches"
-[thread:FND]: https://forum.kerbalspaceprogram.com/index.php?/topic/51430-* "Foundations - in beta now"
-[thread:MHH]: https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "More Hitchhikers"
-[thread:ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-* "Olympic1's ARP Icons"
-[thread:BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-* "KaboOom!"
-[thread:KDVA]: http://forum.kerbalspaceprogram.com/index.php?/topic/202945-* "Keridian Dynamics Vessel Assembly (KDVA)"
-[thread:NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"
-[thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
-[thread:QBTT]: https://forum.kerbalspaceprogram.com/index.php?/topic/204750-* "ISRU Thanks But No Tanks (KBTT)"
-[thread:SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
+[B9SS]: https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*/ "B9 Stock Switches"
+[FND]: https://forum.kerbalspaceprogram.com/index.php?/topic/51430-*/ "Foundations - in beta now"
+[MHH]: https://forum.kerbalspaceprogram.com/index.php?/topic/188246-*/ "More Hitchhikers"
+[ARPI]: https://forum.kerbalspaceprogram.com/index.php?/topic/193078-*/ "Olympic1's ARP Icons"
+[BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "KaboOom!"
+[KDVA]: http://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "Keridian Dynamics Vessel Assembly (KDVA)"
+[NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon!"
+[ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
+[QBTT]: https://forum.kerbalspaceprogram.com/index.php?/topic/204750-*/ "ISRU Thanks But No Tanks (KBTT)"
+[SLOG!]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics!"
 
 <!-- other mods -->
-[thread:mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
-[thread:ks]: https://forum.kerbalspaceprogram.com/index.php?/topic/89285-* "KerbalStats"
-[thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"
-[thread:cti]: https://forum.kerbalspaceprogram.com/index.php?/topic/162509-* "Community Trait Icons"
-[thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"
-[thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
-[thread:mks]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-* "Modular Kolonization System (MKS)"
-[thread:tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-* "Toolbar Controller"
-[thread:tool]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-* "Blizzy's Toolbar"
+[mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[ks]: https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*/ "KerbalStats"
+[crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
+[cti]: https://forum.kerbalspaceprogram.com/index.php?/topic/162509-*/ "Community Trait Icons"
+[kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*/ "Kerbal ChangeLog"
+[twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
+[mks]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-*/ "Modular Kolonization System (MKS)"
+[tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-*/ "Toolbar Controller"
+[tool]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*/ "Blizzy's Toolbar"
 
-[thread:B9PS]:  https://forum.kerbalspaceprogram.com/index.php?showtopic=140541/ "B9 Part Switch"
-[thread:arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-* "Alternate Resource Panel"
-[thread:kas]: https://forum.kerbalspaceprogram.com/index.php?/topic142594-* "KAS"
-[thread:kis]: https://forum.kerbalspaceprogram.com/index.php?/topic/149848-* "KIS"
-[thread:smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-* "SMX"
-[thread:elx]: https://github.com/theRagingIrishman/USI_EL "ExtraPlanetary Launchpads - No More Production"
-[thread:epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-* "ExtraPlanetary Launchpads"
-[thread:6sl]: https://spacedock.info/mod/248 "Six Crew Science Lab"
-[thread:keth]: http://forum.kerbalspaceprogram.com/index.php?/topic/119480-* "Kethane/Kethane+"
-[thread:ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-* "Interstellar Fuel Switch Core"
-[thread:kjrn]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-* "Kerbal Joint Reinforcement - Next"
+[B9PS]:  https://forum.kerbalspaceprogram.com/index.php?showtopic=140541/ "B9 Part Switch"
+[arp]: https://forum.kerbalspaceprogram.com/index.php?/topic/54876-*/ "Alternate Resource Panel"
+[kas]: https://forum.kerbalspaceprogram.com/index.php?/topic142594-*/ "KAS"
+[kis]: https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "KIS"
+[smx]: https://forum.kerbalspaceprogram.com/index.php?/topic/130325-*/ "SMX"
+[elx]: https://github.com/theRagingIrishman/USI_EL "ExtraPlanetary Launchpads - No More Production"
+[epl]: https://forum.kerbalspaceprogram.com/index.php?/topic/54284-*/ "ExtraPlanetary Launchpads"
+[6sl]: https://spacedock.info/mod/248 "Six Crew Science Lab"
+[keth]: http://forum.kerbalspaceprogram.com/index.php?/topic/119480-*/ "Kethane/Kethane+"
+[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch Core"
+[kjrn]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement - Next"
 
 <!--- statics -->
-[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
-[LINK:matterbeam]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-matterbeam/ "MatterBeam"
-[LINK:realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-realgecko/ "RealGecko"
-[LINK:ericwi]: https://forum.kerbalspaceprogram.com/index.php?/profile/152716-ericwi/ "EricWi"
-[LINK:taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-taniwha/ "Taniwha"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+[matterbeam]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "MatterBeam"
+[realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-*/ "RealGecko"
+[ericwi]: https://forum.kerbalspaceprogram.com/index.php?/profile/152716-*/ "EricWi"
+[taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/ "Taniwha"
 
-[LINK:maculator]: https://forum.kerbalspaceprogram.com/index.php?/profile/122127-maculator/ "maculator"
-[LINK:eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-eleusis-la-arwall/ "Eleusis La Arwal"
-[LINK:badsector]: https://forum.kerbalspaceprogram.com/index.php?/profile/118465-badsector/ "Badsector"
-[LINK:cy-one]: https://forum.kerbalspaceprogram.com/index.php?/profile/74874-cy-one/ "cy-one"
+[maculator]: https://forum.kerbalspaceprogram.com/index.php?/profile/122127-*/ "maculator"
+[eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwal"
+[badsector]: https://forum.kerbalspaceprogram.com/index.php?/profile/118465-*/ "Badsector"
+[cy-one]: https://forum.kerbalspaceprogram.com/index.php?/profile/74874-*/ "cy-one"
 
 <!--- misc logos -->
 [IMG:hero:0]: https://i.imgur.com/y01A9en.png "SimpleConstruction! Flag"
@@ -391,7 +399,6 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
-[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
 <!-- footnotes -->
 [^1]: ***may*** work on other versions (YMMV)
