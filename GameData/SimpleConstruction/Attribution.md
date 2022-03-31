@@ -10,7 +10,7 @@ created: 01 Feb 2022
 updated: 01 Feb 2022
 -->
 
-[Home](https://zer0kerbal.github.io/SimpleConstruction)
+[Home](/index.md)
 
 # Attribution
 
