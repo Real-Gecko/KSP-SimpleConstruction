@@ -55,6 +55,11 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ---
 
+### Documentation
+
+remember - this is the FULL manual and not written for SimpleConstruction!
+[Extraplanetary Launchpads PDF Manual](http://taniwha.org/~bill/EL_Manual.pdf)
+
 ### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 #### Kottabo Talks SimpleConstruction! (SCON!)
