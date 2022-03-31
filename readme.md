@@ -24,6 +24,7 @@ This mod aims to provide simple craft building capability in flight mode with st
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ---
+<!-- ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png) -->
 
 ```mermaid
   graph LR
@@ -222,17 +223,17 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 ### Maintainer (2) - [@EricWI][ericwi]
 >
 > [Thread][MOD:2:thread] - [Download][MOD:2:download] - Source: [GitHub][MOD:2:source]
-> License: [![License][LIC:shd]][LIC:url]
+> License: [![License][LIC:1:shd]][LIC:1:url] [![License][LIC:1:log]][LIC:1:url]
 
 ### Maintainer (1) - [@RealGecko][realgecko]
 >
 > [Thread][MOD:1:thread] - [Download][MOD:1:download] - Source: [GitHub][MOD:1:source]
-> License: [![License][LIC:shd]][LIC:url]4[^2]
+> License: [![License][LIC:1:shd]][LIC:1:url] [![License][LIC:1:log]][LIC:1:url] [^4]
 
 ### Original (0) - Author: [@MatterBeam][matterbeam]
 >
 > [Thread][MOD:0:thread]  - [Download][MOD:0:download] - Source: [GitHub][MOD:0:source]
-> License: [![License][LIC:0:shd]][LIC:0:url] [![License][LIC:0:logo]][LIC:0:url]
+> License: [![License][LIC:0:shd]][LIC:0:url] [![License][LIC:0:log]][LIC:0:url]
 
 ---
 
@@ -292,9 +293,13 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv3"
 [LIC:shd]:  https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json "GPLv3"
 
+[LIC:1:url]: https://opensource.org/licenses/MIT "Expat-MIT"
+[LIC:1:log]: https://i.postimg.cc/bvjfsMP5/MIT-17x17.png "Expat-MIT"
+[LIC:1:shd]:  https://img.shields.io/badge/License-Expat--MIT-white?labelColor=A42E2B&style=plastic "Expat-MIT"
+
 [LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-[LIC:0:logo]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:0:shd]:  https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
+[LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
 
 <!--- AVC -->
 [AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
