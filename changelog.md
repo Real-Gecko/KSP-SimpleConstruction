@@ -1,5 +1,14 @@
 # Changelog  
-  
+<!-- 
+changelog.md v1.1.1.1
+SimpleConstruction! (SCON!) 
+created: 01 Aug 2016
+updated: 05 Mar 2022
+
+——————————————————————————————————————————————————
+——— changelog ————————————————————————————————————
+——————————————————————————————————————————————————
+-->
 | modName    | SimpleConstruction! (SCON!)                                      |
 | ---------- | ---------------------------------------------------------------- |
 | license    | Expat-MIT                                                        |
@@ -9,6 +18,59 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)  |
 | spacedock  | (https://spacedock.info/mod/59)                                  |
 | ckan       | SimpleConstruction                                               |
+
+## Version 4.0.99.5 - `<Metal Bugs>`
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 30 Mar 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
+
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+
+### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
+
+### Fixed
+
+* [Resources.cfg]
+  * removed creeping crawler metal bugs as reported by DarinDev1000
+  * thank you to [DarinDev1000](https://github.com/DarinDev1000)!
+  * fixes #92 - [Bug 🐞]: Metal Containers are not working for me
+* [ExperienceTraits.cfg]
+  * removed [surveySkill] - not used in SimpleConstruction!
+* [ghostparts.cfg]
+  * squashed extra brace `{`
+
+### Update
+
+* docs/
+* automation
+* documentation
+* [readme.md]
+  * GitHub
+  * CurseForge
+  * Forums
+  * SpaceDock
+
+### License
+
+* Updated to GPLv3
+  * To match Extraplanetary Launchpads license
+  * closes #97 - Update License to GPLv3
+
+### Status
+
+* Issues/Milestones
+* closed #86 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
+* closes #87 - 4.0.99.4 Verify Legal Mumbo Jumbo
+* closes #88 - 4.0.99.4 Update DocumentationUTC
+* closes #89 - 4.0.99.4 Social Media
+
+* Pull Requests
+  * closes #85 - 84 bug elxxxskill log spam - contributed by zer0Kerbal
+  * closed #90 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
+
+---
 
 ## Version 4.0.99.4 - <% Bugs>
 
@@ -813,4 +875,6 @@
 
 * Reduced productivity multipliers: MPL from x7 to x5, Crewed parts from x4 to x3. This was to reduce the much too short construction times that came from chaining together several MPLs in playtesting.
 
-<!-- CC BY-NC-ND 3.0 Unported by zer0Kerbal>
+[CRSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "CurseForge"
+
+<!-- CC BY-ND 3.0 Unported by zer0Kerbal>
