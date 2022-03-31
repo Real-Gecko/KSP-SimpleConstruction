@@ -32,14 +32,21 @@ updated: 05 Mar 2022
 
 ### Fixed
 
-* [Resources.cfg]
+* [Resources.cfg] v1.0.3.0
   * removed creeping crawler metal bugs as reported by DarinDev1000
   * thank you to [DarinDev1000](https://github.com/DarinDev1000)!
+  * B9PartSwitch) crept into several :NEEDS - bad B9
   * fixes #92 - [Bug 🐞]: Metal Containers are not working for me
 * [ExperienceTraits.cfg]
   * removed [surveySkill] - not used in SimpleConstruction!
-* [ghostparts.cfg]
+* [ghostparts.cfg] v1.0.0.1
   * squashed extra brace `{`
+  * fixed #98 - ghostparts.cfg
+* [ExperienceTraits.cfg] v1.0.0.2
+  * removed
+    * [ElSurveySkill]
+    * will be in NotSoSimpleConstruction
+  * fixed #99 - ExperienceTraits.cfg
 
 ### Update
 
