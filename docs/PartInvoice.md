@@ -6,10 +6,10 @@ description: Bill, what are going to do tonight? Why Jeb, the same thing we do e
 tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- PartInvoice.md v1.1.3.0
+<!-- PartInvoice.md v1.1.3.1
 SimpleConstruction! (SCON!)
 created: 01 Feb 2022
-updated: 27 Mar 2022 -->
+updated: 30 Mar 2022 -->
 
 # SimpleConstruction! (SCON!)
 
