@@ -66,14 +66,10 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues/Milestones
-* closed #86 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
-* closes #87 - 4.0.99.4 Verify Legal Mumbo Jumbo
-* closes #88 - 4.0.99.4 Update DocumentationUTC
-* closes #89 - 4.0.99.4 Social Media
-
-* Pull Requests
-  * closes #85 - 84 bug elxxxskill log spam - contributed by zer0Kerbal
-  * closed #90 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
+  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease <Metal Bugs>
+  * closes #94 - 4.0.99.5 Verify Legal Mumbo Jumbo
+  * closes #95 - 4.0.99.5 Update Documentation
+  * closes #96 - 4.0.99.5 Update Social Media
 
 ---
 
