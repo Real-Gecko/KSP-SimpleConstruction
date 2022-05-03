@@ -17,7 +17,7 @@ This mod aims to provide simple craft building capability in flight mode with st
 
 
 
-#### Author [`@zer0Kerbal`][zer0Kerbal], adopted  from [`@EricWi`][ericwi], then previously from [`@RealGecko`][realgecko]; originally by [`MatterBeam`][matterbeam]
+#### Author [`zer0Kerbal`][zer0Kerbal], adopted  from [`EricWi`][ericwi], then previously from [`RealGecko`][realgecko]; originally by [`MatterBeam`][matterbeam]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -42,7 +42,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ## Description
 
-> After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [`@MatterBeam`][matterbeam] had the idea of creating a simple, user friendly mod that would allow you to build rockets without taking a 200MB hit to RAM or having to juggle multitudes of resource pathways. If you know how to set up a drill, ISRU and a fuel tank for an Ore to Fuel conversion, then you should know how to build rockets.
+> After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [`MatterBeam`][matterbeam] had the idea of creating a simple, user friendly mod that would allow you to build rockets without taking a 200MB hit to RAM or having to juggle multitudes of resource pathways. If you know how to set up a drill, ISRU and a fuel tank for an Ore to Fuel conversion, then you should know how to build rockets.
 
 ## Features
 
@@ -51,6 +51,15 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * Added functionality for the Mobile Processing Lab in the late game
 * Simple, configurable and adds levels of depth to the gameplay without a learning curve
 * Ore --> Metal --> RocketParts --> rockets!
+
+---
+
+### See More
+
+* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
+* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
+* GitHub Pages : See [Pages][MOD:pages]
 
 ---
 
@@ -63,26 +72,25 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 
 #### Kottabo Talks SimpleConstruction! (SCON!)
 
-[![Kottabos talks SimpleConstruction](https://img.youtube.com/vi/Oj1etoybd7E/0.jpg)](https://www.youtube.com/watch?v=Oj1etoybd7E)
+[![Kottabos talks SimpleConstruction](https://img.youtube.com/vi/3T_dren-6cc/0.jpg)](https://www.youtube.com/watch?v=3T_dren-6cc)
 
 <details>
   <summary>Embedded Kottabo Youtube Video</summary>
     <iframe width="1070" height="602" src="https://www.youtube.com/embed/3T_dren-6cc" title="Kottabo Talks SimpleConstruction!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
-<!-- [![][UTUBE:img]][UTUBE:link]  -->
-
 #### Cabin notes
 
+* Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads *release*
 * `WIP` - work in progress
 * A config that turns a STOCK part (no new models, textures) into a recycler. Maybe the Klaw?
 * Am open to adding more features, great project for someone!
 * I have not personally tested the patches
-* Have a request? Glad to have them, kindly submit through GitHub.
+* Have a request? Glad to have them, kindly submit through [GitHub][GitHub:url] push.
 
 #### Known issue(s)
 
-* If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [@`taniwha`][taniwha]
+* If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
 
 ---
 
@@ -91,9 +99,9 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 #### SimpleConstruction! (SCON!)
 
 > * ![English][EN] English
+> * ![Dutch][NL] Dutch -courtesy of GitHub user: [x13x54][x13x54]
 > * ![German][DE] German (Deutsch)
 > * ![Chinese][CN] Chinese (简体中文)
-> * ![Dutch][NL] Dutch
 > * ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -104,40 +112,27 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 >* ![Chinese][CN] Chinese (简体中文)
 >* ***your translation here***
 >
->Kindly help out [@`taniwha][taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
-
----
-
-### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
-
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
-
----
-
-### See More
-
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
-* GitHub Pages : See [Pages][MOD:pages]
+>Kindly help out [`taniwha][taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
 
 ---
 
 ### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]  
+or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^1]
-* [Module Manager /L][mm] [^2]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+* Either
+  * [Module Manager][mm] [^3]
+  * [Module Manager /L][mm]l [^3]
 
 ### Recommends
 
@@ -146,6 +141,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 * [Keridian Dynamics Vessel Assembly (KDVA)][KDVA]
 * [SimpleLogistics! (SLOG!)][SLOG!]
 * [Foundations (FND) - beta][FND] <i><small>Helps prevent ground constructions from floating away :)</small></i>
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 ### Suggests Mods that benefit SimpleConstruction! (SCON!)
 
@@ -200,36 +196,37 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 ### Credits and Special Thanks
 
-* [@`taniwha`][taniwha] for creating [Extraplanetary Launchpads][epl].
-* [@`MatterBeam`][matterbeam] for creating this cool mod.
-* [@`RealGecko`][realgecko] and [`@Ericwi`][ericwi] - previous maintainers
-* [@`maculator`][maculator], [@`Eleusis La Arwall`][eleusislaarwall], [@`Badsector`][badsector], [@`cy-one`][cy-one] for their contributions.
+* [`taniwha`][taniwha] for creating [Extraplanetary Launchpads][epl].
+* [`MatterBeam`][matterbeam] for creating this cool mod.
+* [`RealGecko`][realgecko] and [`Ericwi`][ericwi] - previous maintainers
+* [`maculator`][maculator], [`Eleusis La Arwall`][eleusislaarwall], [`Badsector`][badsector], [`cy-one`][cy-one] for their contributions.
+* see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
 #### Current (3) - [`zer0Kerbal`][zer0Kerbal]
 >
-> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]
+> Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url]
 >
 > ##### Disclaimer(s)
 >
-> This mod contains [`@taniwha`][taniwha]'s Launchpad.dll and textures from [Extraplanetary Launchpads][epl].
+> This mod contains [`taniwha`][taniwha]'s Launchpad.dll and textures from [Extraplanetary Launchpads][epl].
 >
 > ***All bundled mods are distributed under their own licenses***
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-### Maintainer (2) - [@EricWI][ericwi]
+### Maintainer (2) - [EricWI][ericwi]
 >
 > [Thread][MOD:2:thread] - [Download][MOD:2:download] - Source: [GitHub][MOD:2:source]
 > License: [![License][LIC:1:shd]][LIC:1:url] [![License][LIC:1:log]][LIC:1:url]
 
-### Maintainer (1) - [@RealGecko][realgecko]
+### Maintainer (1) - [RealGecko][realgecko]
 >
 > [Thread][MOD:1:thread] - [Download][MOD:1:download] - Source: [GitHub][MOD:1:source]
 > License: [![License][LIC:1:shd]][LIC:1:url] [![License][LIC:1:log]][LIC:1:url] [^4]
 
-### Original (0) - Author: [@MatterBeam][matterbeam]
+### Original (0) - Author: [MatterBeam][matterbeam]
 >
 > [Thread][MOD:0:thread]  - [Download][MOD:0:download] - Source: [GitHub][MOD:0:source]
 > License: [![License][LIC:0:shd]][LIC:0:url] [![License][LIC:0:log]][LIC:0:url]
@@ -255,6 +252,12 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 #### Finalize build (PROFIT!)
 
 ![Finalize build!][IMG:hero:2e]
+
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
+
+[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
+
+---
 
 <!-- mod links -->
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/Attribution.md "Attribution"
@@ -359,12 +362,13 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [kjrn]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement - Next"
 
 <!--- statics -->
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 [matterbeam]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "MatterBeam"
 [realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-*/ "RealGecko"
 [ericwi]: https://forum.kerbalspaceprogram.com/index.php?/profile/152716-*/ "EricWi"
 [taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/ "Taniwha"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
+[x13x54]: https://github.com/x13x54 "GitHub: x13x54"
 [maculator]: https://forum.kerbalspaceprogram.com/index.php?/profile/122127-*/ "maculator"
 [eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwal"
 [badsector]: https://forum.kerbalspaceprogram.com/index.php?/profile/118465-*/ "Badsector"
