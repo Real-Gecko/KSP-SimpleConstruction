@@ -19,7 +19,7 @@ based upon work by LisiasT -->
 
 ## Marketing Slicks
 
-* Table of Contents)
+* Table of Contents
   * [Resource Flow](#Resource-Flow)
   * [Mining Ore](#Mining-Ore)
   * [Refining Ore to Metal](#Refining-Ore-to-Metal)
