@@ -1,7 +1,7 @@
 # Changelog  
 <!-- 
 changelog.md v1.1.1.1
-SimpleConstruction! (SCON!) 
+SimpleConstruction! (SCON) 
 created: 01 Aug 2016
 updated: 05 Mar 2022
 
@@ -9,17 +9,85 @@ updated: 05 Mar 2022
 ——— changelog ————————————————————————————————————
 ——————————————————————————————————————————————————
 -->
-| modName    | SimpleConstruction! (SCON!)                                      |
-| ---------- | ---------------------------------------------------------------- |
-| license    | Expat-MIT                                                        |
-| author     | RealGecho, EricWi and zer0Kerbal                     |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)    |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)  |
-| spacedock  | (https://spacedock.info/mod/59)                                  |
-| ckan       | SimpleConstruction                                               |
+| modName    | SimpleConstruction! (SCON)                                       |
+| ---------- | ----------------------------------------------------------------- |
+| license    | Expat-MIT                                                         |
+| author     | RealGecho, EricWi and zer0Kerbal                                  |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
+| spacedock  | (https://spacedock.info/mod/59)                                   |
+| ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.5 - `<Metal Bugs>`
+## Version 4.0.99.6-prerelease - `<Out of Dutch>`
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 01 May 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
+
+### Update
+
+* [ISRU.cfg] v1.1.1.0
+  * to all resources
+    * add &FlowMode = 1
+    * this should fix resources getting 'stuck' in the microtanks in the ISRU's
+* [Drills.cfg] v1.0.1.0
+  * [RadialDrill]
+  * [ORE]
+    * add FlowMode = 1
+    * this should fix resources getting 'stuck' in the microtanks in the ISRU's
+  * [MiniDrill]
+    * [ORE]
+    * add &FlowMode = 1
+    * this should fix resources getting 'stuck' in the microtanks in the ISRU's
+  * FlowMode.Enumerator
+    * 0 = None
+    * 1 = Out
+    * 2 = In
+    * 3 = Both
+* automation
+* documentation
+  * [readme.md]
+  * [releaseNotes.md]
+* closes #104 - Drills and ISRU
+
+### Localization
+
+* Add
+  * Dutch
+    * thank you to GitHub user: [x13x54][x13x54]
+    * <nl-nl.cfg>
+* updates #19 - Localization - Master
+* closes #27 - Localization - Dutch (Nederlands) <nl-nl.cfg>
+
+### docs/
+
+* Update
+  * [PartInvoice.md]
+  * [resourceFlow.md]
+  * [404.md]
+  * [Attribution.md]
+  * [LegalMumboJumbo.md]
+  * [Localizations.md]
+  * [ManualInstallation.md]
+  * [_config.yml]
+* Add
+  * [Marketing.md]
+  * [Notices.md]
+  * [Why.md]
+
+### Status
+
+* Issues
+  * closes #107 - SimpleConstruction! (SCON) 4.0.99.6-prerelease `<EDITION>`
+  * closes #108 - 4.0.99.6 Verify Legal Mumbo Jumbo
+  * closes #109 - 4.0.99.6 Update Documentation
+  * closes #110 - 4.0.99.6 Update Social Media
+
+---
+
+## Version 4.0.99.5-prerelease - `<Metal Bugs>`
 
 ### This is PRE-RELEASE - and WILL break saves
 
@@ -73,7 +141,7 @@ updated: 05 Mar 2022
 
 ---
 
-## Version 4.0.99.4 - <% Bugs>
+## Version 4.0.99.4-prerelease - <% Bugs>
 
 ### This is PRE-RELEASE - and WILL break saves
 
@@ -105,7 +173,7 @@ updated: 05 Mar 2022
 
 ---
 
-## Version 4.0.99.3 - Bucketful of Sand
+## Version 4.0.99.3-prerelease - Bucketful of Sand
 
 ### This is PRE-RELEASE - and WILL break saves
 
@@ -199,7 +267,7 @@ updated: 05 Mar 2022
 
 ---
 
-## Version 4.0.99.2 - A Little too Spicy
+## Version 4.0.99.2-prerelease - A Little too Spicy
 
 * 06 Mar 2022
 * Release for Kerbal Space Program 1.12.3
@@ -347,7 +415,7 @@ updated: 05 Mar 2022
 
 ---
 
-## Version 4.0.99.1 - A tiny Hammer
+## Version 4.0.99.1-prerelease - A tiny Hammer
 
 * 26 Feb 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
@@ -453,7 +521,7 @@ updated: 05 Mar 2022
 * #13 - ELMicroPadSC
 * #17 - 4.0.99.1-prerelease A Bigger Hammer
 * #18 - Localization - English (United States)] <en-us.cfg>
-* #21 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg> :CN:
+* #21 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
 * #34 - Localization - German (Deutsch) <de.cfg>
 * #35 - SSPX.cfg and StationPartsExpansionRedux.cfg are more or less identical MM patches
 * #36 - Launchclamps.cfg

@@ -16,7 +16,7 @@ https://mermaid-js.github.io/mermaid/
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# SimpleConstruction! (SCON!)
+# SimpleConstruction! (SCON)
 
 [Home](/index.md)
 
