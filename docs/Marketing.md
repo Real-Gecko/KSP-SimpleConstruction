@@ -17,9 +17,9 @@ based upon work by LisiasT -->
 
 [Home](./index.md)
 
-## Marketing Slicks
+## Table of Contents
 
-* Table of Contents
+* Marketing Slicks
   * [Resource Flow](#Resource-Flow)
   * [Mining Ore](#Mining-Ore)
   * [Refining Ore to Metal](#Refining-Ore-to-Metal)
@@ -27,47 +27,47 @@ based upon work by LisiasT -->
   * [Building Rockets](#Building-Rockets)
   * [Finalize build](#Finalize-build)
 
-### Resource Flow
+## Resource Flow
 
 ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
 [top](#Table-of-Contents)
 
-### Mining Ore
+## Mining Ore
 
 First mine the ore *(after you find it)*
 
 ![Mining Ore][IMG:hero:2a]
 [top](#Table-of-Contents)
 
-### Refining Ore to Metal
+## Refining Ore to Metal
 
 Then refine the ore into metal
 
 ![Refining Ore to Metal][IMG:hero:2b]
 [top](#Table-of-Contents)
 
-### Printing Rocketparts from Metal
+## Printing Rocketparts from Metal
 
 Then using the MPL Science lab, print Rocket Parts
 
 ![Printing Rocketparts from Metal][IMG:hero:2c]
 [top](#Table-of-Contents)
 
-### Building Rockets
+## Building Rockets
 
 Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
 
 ![Building Rockets][IMG:hero:2d]
 [top](#Table-of-Contents)
 
-### Finalize build
+## Finalize build
 
 Finalize your build and load up the resources, and
 
 *PROFIT!*
 
 ![Finalize build!][IMG:hero:2e]
-[top](#Table-of-Contents))
+[top](#Table-of-Contents)
 
 [IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
 [IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
