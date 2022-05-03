@@ -9,15 +9,20 @@ updated: 05 Mar 2022
 ——— changelog ————————————————————————————————————
 ——————————————————————————————————————————————————
 -->
-| modName    | SimpleConstruction! (SCON!)                                      |
-| ---------- | ---------------------------------------------------------------- |
-| license    | Expat-MIT                                                        |
-| author     | RealGecho, EricWi and zer0Kerbal                     |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)    |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)  |
-| spacedock  | (https://spacedock.info/mod/59)                                  |
-| ckan       | SimpleConstruction                                               |
+| modName    | SimpleConstruction! (SCON!)                                       |
+| ---------- | ----------------------------------------------------------------- |
+| license    | Expat-MIT                                                         |
+| author     | RealGecho, EricWi and zer0Kerbal                                  |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
+| spacedock  | (https://spacedock.info/mod/59)                                   |
+| ckan       | SimpleConstruction                                                |
+
+## Version 4.0.99.5 - `<Metal Bugs>`
+
+courtesy of GitHub user: [x13x54][x13x54]
+---
 
 ## Version 4.0.99.5 - `<Metal Bugs>`
 
