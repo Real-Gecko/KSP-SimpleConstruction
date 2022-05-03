@@ -92,17 +92,18 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 
 #### SimpleConstruction! (SCON!)
 
-> * ![English Flag][EN] English
-> * ![German Flag][DE] German (Deutsch)
-> * ![Chinese Flag][CN] Chinese (简体中文)
+> * ![English][EN] English
+> * ![German][DE] German (Deutsch)
+> * ![Chinese][CN] Chinese (简体中文)
+> * ![Dutch][NL] Dutch
 > * ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 #### [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
 
->* ![English Flag][EN] English
->* ![Chinese Flag][CN] Chinese (简体中文)
+>* ![English][EN] English
+>* ![Chinese][CN] Chinese (简体中文)
 >* ***your translation here***
 >
 >Kindly help out [@`taniwha][taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
