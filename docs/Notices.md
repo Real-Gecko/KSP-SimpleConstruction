@@ -8,19 +8,22 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.0.0
-MOD-NAME (ABBV)
+SimpleConstruction! (SCON)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# MOD-NAME (ABBV)
+# SimpleConstruction! (SCON)
 
 [Home](./index.md)
 
 ## Trademarks
 
-* "MOD-NAME" is trademark of zer0Kerbal
+* "SimpleConstruction!" is trademark of MatterBeam
+* "Extraplanetary Launchpads" is trademark of taniwha
+* SCON and SCON! are trademarks of zer0Kerbal
+* SCON and SCON! are trademarks of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
