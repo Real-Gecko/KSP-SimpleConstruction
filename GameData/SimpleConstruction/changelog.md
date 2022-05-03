@@ -1,7 +1,7 @@
 # Changelog  
 <!-- 
 changelog.md v1.1.1.1
-SimpleConstruction! (SCON!) 
+SimpleConstruction! (SCON) 
 created: 01 Aug 2016
 updated: 05 Mar 2022
 
@@ -9,7 +9,7 @@ updated: 05 Mar 2022
 ——— changelog ————————————————————————————————————
 ——————————————————————————————————————————————————
 -->
-| modName    | SimpleConstruction! (SCON!)                                      |
+| modName    | SimpleConstruction! (SCON)                                      |
 | ---------- | ---------------------------------------------------------------- |
 | license    | Expat-MIT                                                        |
 | author     | RealGecho, EricWi and zer0Kerbal                     |
