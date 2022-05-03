@@ -7,13 +7,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.1.0
-SimpleConstruction! (SCON!)
+SimpleConstruction! (SCON)
 created: 01 Oct 2019
 updated: 27 Mar 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# SimpleConstruction! (SCON!)
+# SimpleConstruction! (SCON)
 
 ***Provides simple craft building capability in flight mode to stock parts for Kerbal Space Program.***
 
