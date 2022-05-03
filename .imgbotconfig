@@ -8,10 +8,16 @@
         "GameData/ExtraplanetaryLaunchpads/Textures/*",
         "GameData/SimpleConstruction/*",
         "source/*",
+        "**/@thumbs/**",
+        "**/Agents/**",
         "**/Assets/**",
         "**/Flags/**",
-        "**/Agents/**",
-        "**/@Thumbs/**"
+        "**/FX/**",
+        "**/Icons/**",
+        "**/LegalMumboJumbo/**",
+        "**/PluginData/**",
+        "**/Textures/**",
+        "**/UI/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
