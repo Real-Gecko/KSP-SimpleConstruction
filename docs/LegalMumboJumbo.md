@@ -30,17 +30,17 @@ updated: 30 Apr 2022
 ### License
 
 [License](./LegalMumboJumbo/License.md)
-[top](#Table-of-Contents)
+[top](#Legal-Mumbo-Jumbo)
 
 ### Forum I
 
 ![Forum](./LegalMumboJumbo/FORUM-01.png)
-[top](#Table-of-Contents))
+[top](#Legal-Mumbo-Jumbo)
 
 ### Forum II
 
 ![Forum](./LegalMumboJumbo/FORUM-02.png)
-[top](#Table-of-Contents))
+[top](#Legal-Mumbo-Jumbo)
 
 ---
 
