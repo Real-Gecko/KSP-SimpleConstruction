@@ -14,7 +14,7 @@ updated: 26 Feb 2022
 
 https://mermaid-js.github.io/mermaid/
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
 # SimpleConstruction! (SCON!)
 
@@ -33,6 +33,4 @@ https://mermaid-js.github.io/mermaid/
       Workshop-->Profit
 ```
 
-
-
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
+<!-- this file CC BY-ND 4.0 by zer0Kerbal -->

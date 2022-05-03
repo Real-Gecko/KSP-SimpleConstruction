@@ -10,5 +10,8 @@
 - [LegalMumboJumbo](LegalMumboJumbo.md)
 - [Localizations](Localizations.md)
 - [ManualInstallation](ManualInstallation.md)
+- [Marketing](Marketing.md)
+- [Notices](Notices.md)
 - [PartInvoice](PartInvoice.md)
+- [Why](Why.md)
 - [resourceFlow](resourceFlow.md)
