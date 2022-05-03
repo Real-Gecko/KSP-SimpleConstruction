@@ -67,7 +67,7 @@ Finalize your build and load up the resources, and
 *PROFIT!*
 
 ![Finalize build!][IMG:hero:2e]
-[top](#Table-of-Contents))
+[top](#Table-of-Contents)
 
 [IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
 [IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
