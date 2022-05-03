@@ -19,7 +19,16 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.5 - `<Metal Bugs>`
+## Version 4.0.99.5 - `<Out of Dutch>`
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 30 Mar 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
+
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+
+### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
 
 courtesy of GitHub user: [x13x54][x13x54]
 ---
