@@ -59,36 +59,36 @@ updated: 01 May 2022
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
 </ul>
+  
+### Translations  
+  
+#### SimpleConstruction! (SCON)  
 
-### Translations
-
-#### SimpleConstruction! (SCON)
-
-* ![English][EN] English
-* ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54][x13x54]
-* ![German][DE] German (Deutsch)
-* ![Chinese][CN] Chinese (简体中文)
-
-*Additions and corrections welcome!*
-
-#### [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-
-* ![English][EN] English
-* ![Chinese][CN] Chinese (简体中文)
-
-Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
-
-### Art Asset(s)
-
-* none
-
-### Testing and Support
-
+* ![English][EN] English  
+* ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54][x13x54]  
+* ![German][DE] German (Deutsch)  
+* ![Chinese][CN] Chinese (简体中文)  
+  
+*Additions and corrections welcome!*  
+  
+#### [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)  
+  
+* ![English][EN] English  
+* ![Chinese][CN] Chinese (简体中文)  
+  
+Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)  
+  
+### Art Asset(s)  
+  
+* none  
+  
+### Testing and Support  
+  
 <ul>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-eightiesboi/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50" height="50" > eightiesboi</a></li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/66411-zelda/"><img border="0" alt="Zelda" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2019_07/LoZ_RGB_960x960.thumb.jpg.32a815400e819b11482764bdea71373c.jpg" width="50" height="50" > Zelda</a></li>
 </ul>
-
+  
 [tb]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*/ "Blizzy78's Toolbar"
 [SCON]: https://forum.kerbalspaceprogram.com/threads/50884-*/ "SimpleConstruction! (SCON)"
 
@@ -106,7 +106,7 @@ Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://g
 [cy-one]: https://forum.kerbalspaceprogram.com/index.php?/profile/74874-*/ "cy-one"
 [blizzy79]: https://forum.kerbalspaceprogram.com/index.php?/profile/68543-*/ "Blizzy78"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
-
+  
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
@@ -123,5 +123,5 @@ Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://g
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
-
+  
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
