@@ -1,12 +1,12 @@
 ---
-permalink: /resourceFlow.html
-title: Resource Flow
+permalink: /Micropad.html
+title: Micropad Flow
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present, the missing half
 # layout: bare
-tags: resource,flow,page,kerbal,ksp,zer0Kerbal,zedK
+tags: Micropad,flow,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-resourceFlow.md v1.0.1.0
+Micropad.md v1.0.1.0
 SimpleConstruction! (SCON)
 created: 12 Dec 2021
 updated: 
