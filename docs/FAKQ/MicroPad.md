@@ -1,5 +1,5 @@
 ---
-permalink: /Micropad.html
+permalink: /FAKQ/Micropad.html
 title: Micropad Flow
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present, the missing half
 # layout: bare
