@@ -11,8 +11,20 @@ SimpleConstruction! (SCON)
 created: 26 Feb 2022
 updated: 26 Feb 2022
 -->
-
-https://mermaid-js.github.io/mermaid/
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+<script>
+var config = {
+    startOnReady:true,
+    theme: 'forest',
+    flowchart:{
+            useMaxWidth:false,
+            htmlLabels:true
+        }
+};
+mermaid.initialize(config);
+mermaid.init(undefined, '.language-mermaid');
+</script>
+<!-- https://mermaid-js.github.io/mermaid/ -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
