@@ -106,7 +106,7 @@ Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://g
 [eleusis-la-arwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwall"
 [Badsector]: https://forum.kerbalspaceprogram.com/index.php?/profile/118465-*/ "Badsector"
 [cy-one]: https://forum.kerbalspaceprogram.com/index.php?/profile/74874-*/ "cy-one"
-[blizzy79]: https://forum.kerbalspaceprogram.com/index.php?/profile/68543-*/ "Blizzy78"
+[blizzy78]: https://forum.kerbalspaceprogram.com/index.php?/profile/68543-*/ "Blizzy78"
 [cptkipard]: https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/ "Captain Kipard"
 
 <!-- Localization -->
