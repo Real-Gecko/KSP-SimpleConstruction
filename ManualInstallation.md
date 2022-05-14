@@ -27,7 +27,7 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the ExtraplanetaryLaunchpads AND SimpleConstruction folder2 inside your Kerbal Space Program's GameData folder:
+To install, place the ExtraplanetaryLaunchpads AND SimpleConstruction folders inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
   * Delete `<KSP_ROOT>/GameData/ExtraplanetaryLaunchpads` AND `<KSP_ROOT>/GameData/SimpleConstruction`
