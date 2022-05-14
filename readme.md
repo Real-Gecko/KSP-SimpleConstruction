@@ -112,7 +112,7 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 >* ![Chinese][CN] Chinese (简体中文)
 >* ***your translation here***
 >
->Kindly help out [`taniwha][taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
+>Kindly help out [`taniwha`][taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
 
 ---
 
