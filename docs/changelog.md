@@ -2,11 +2,10 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-﻿<!-- 
+<!-- 
 changelog.md v1.1.1.1
 SimpleConstruction! (SCON) 
 created: 01 Aug 2016
