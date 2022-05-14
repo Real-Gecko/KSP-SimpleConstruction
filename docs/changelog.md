@@ -1,3 +1,10 @@
+---
+permalink: /Changelog.html
+title: The Change Log
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+# layout: bare
+tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
+---
 # Changelog  
 <!-- 
 changelog.md v1.1.1.1
@@ -946,4 +953,4 @@ updated: 05 Mar 2022
 
 [CRSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "CurseForge"
 
-<!-- CC BY-ND 3.0 Unported by zer0Kerbal>
+<!-- CC BY-ND 3.0 Unported by zer0Kerbal>
