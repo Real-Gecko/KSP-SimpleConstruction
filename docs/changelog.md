@@ -5,7 +5,9 @@ description: The Opening Credits, and the closing credits, plus the first of two
 # layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
+
 ﻿# Changelog  
+
 <!-- 
 changelog.md v1.1.1.1
 SimpleConstruction! (SCON) 
@@ -16,6 +18,7 @@ updated: 05 Mar 2022
 ——— changelog ————————————————————————————————————
 ——————————————————————————————————————————————————
 -->
+
 | modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPLv3                                                             |
