@@ -9,15 +9,50 @@ updated: 05 Mar 2022
 ——— changelog ————————————————————————————————————
 ——————————————————————————————————————————————————
 -->
-| modName    | SimpleConstruction! (SCON)                                       |
+| modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | Expat-MIT                                                         |
+| license    | GPLv3                                                             |
 | author     | RealGecho, EricWi and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
+
+
+## Version 4.0.99.6-prerelease - `<Out of Dutch>`
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 01 May 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
+
+### Update
+
+* [Tanks.cfg]
+  * Ore Material variant tank name being ´´´#autoLOC_501007 = Ore´´´ instead of Ore
+  * Thank you to @[hutiwephy](https://github.com/hutiwephy) for the bug report
+  * line 24: `title = #autoLOC_501007 //  Ore` was missing //
+  * updates #114
+* [B9TanksSwitch.cfg]
+  * When B9PartSwitch is installed
+    * extra tanks created by +PART are no longer needed
+    * and renaming the stock resource tanks is also no longer needed
+    * still, to not break saves, must 'ghost' the parts
+  * Thank you to @[hutiwephy](https://github.com/hutiwephy) for the bug report
+* closes #114 - [Bug 🐞]: Duplicate Tanks and Name
+
+### Status
+
+* Issues
+  * closes #116 - SimpleConstruction! (SCON) 4.0.99.7-prerelease `<// B9 Ghosted Parts>`
+  * closes #117 - 4.0.99.7 Verify Legal Mumbo Jumbo
+  * closes #118 - 4.0.99.7 Update Documentation
+  * closes #119 - 4.0.99.7 Update Social Media
+* Bug Reports
+  * waiting on more information #111 - [Bug 🐞]: GUI issues
+
+---
 
 ## Version 4.0.99.6-prerelease - `<Out of Dutch>`
 
@@ -134,7 +169,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues/Milestones
-  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease <Metal Bugs>
+  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease `<Metal Bugs>`
   * closes #94 - 4.0.99.5 Verify Legal Mumbo Jumbo
   * closes #95 - 4.0.99.5 Update Documentation
   * closes #96 - 4.0.99.5 Update Social Media
@@ -148,7 +183,7 @@ updated: 05 Mar 2022
 * 22 Mar 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
 
-### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
 ### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
 
@@ -180,7 +215,7 @@ updated: 05 Mar 2022
 * 15 Mar 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
 
-### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
 ### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
 
@@ -478,7 +513,7 @@ updated: 05 Mar 2022
   * closes #56 - 4.0.99.1 Social Media
   * closes #55 - 4.0.99.1 Update documentation
   * closes #54 - 4.0.99.1 Verify Legal MumboJumbo
-  * closes #53 - Release 4.0.99.1-prerelease <A Tiny Hammer>
+  * closes #53 - Release 4.0.99.1-prerelease `<A Tiny Hammer>`
   * closes #50 - (Short List) SimpleConstruction Version 4.0.99.1-prerelease due to new version of EL: 6.99.1
 * Pull Requests
   * closes #48 - 4.0.9.9.1 prerelease - A Bigger Hammer
@@ -684,7 +719,7 @@ updated: 05 Mar 2022
 
 ---
 
-## Version = 4.0.2.6 - New Draperies!
+## Version = 4.0.2.6 - `New Draperies!`
 
 * DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
@@ -704,7 +739,7 @@ updated: 05 Mar 2022
 
 ---
 
-## Version 4.0.2.5 - New Carpets!
+## Version 4.0.2.5 - `New Carpets!`
 
 * DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 * update to 1.9.1
