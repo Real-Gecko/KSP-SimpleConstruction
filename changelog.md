@@ -9,9 +9,9 @@ updated: 05 Mar 2022
 ——— changelog ————————————————————————————————————
 ——————————————————————————————————————————————————
 -->
-| modName    | SimpleConstruction! (SCON)                                       |
+| modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | Expat-MIT                                                         |
+| license    | GPLv3                                                             |
 | author     | RealGecho, EricWi and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
@@ -134,7 +134,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues/Milestones
-  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease <Metal Bugs>
+  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease `<Metal Bugs>`
   * closes #94 - 4.0.99.5 Verify Legal Mumbo Jumbo
   * closes #95 - 4.0.99.5 Update Documentation
   * closes #96 - 4.0.99.5 Update Social Media
@@ -148,7 +148,7 @@ updated: 05 Mar 2022
 * 22 Mar 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
 
-### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
 ### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
 
@@ -180,7 +180,7 @@ updated: 05 Mar 2022
 * 15 Mar 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
 
-### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
 ### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
 
@@ -478,7 +478,7 @@ updated: 05 Mar 2022
   * closes #56 - 4.0.99.1 Social Media
   * closes #55 - 4.0.99.1 Update documentation
   * closes #54 - 4.0.99.1 Verify Legal MumboJumbo
-  * closes #53 - Release 4.0.99.1-prerelease <A Tiny Hammer>
+  * closes #53 - Release 4.0.99.1-prerelease `<A Tiny Hammer>`
   * closes #50 - (Short List) SimpleConstruction Version 4.0.99.1-prerelease due to new version of EL: 6.99.1
 * Pull Requests
   * closes #48 - 4.0.9.9.1 prerelease - A Bigger Hammer
@@ -684,7 +684,7 @@ updated: 05 Mar 2022
 
 ---
 
-## Version = 4.0.2.6 - New Draperies!
+## Version = 4.0.2.6 - `New Draperies!`
 
 * DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
@@ -704,7 +704,7 @@ updated: 05 Mar 2022
 
 ---
 
-## Version 4.0.2.5 - New Carpets!
+## Version 4.0.2.5 - `New Carpets!`
 
 * DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 * update to 1.9.1
