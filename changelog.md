@@ -19,6 +19,33 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+
+## Version 4.0.99.6-prerelease - `<Out of Dutch>`
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 01 May 2022
+* Release for Kerbal Space Program [KSP 1.12.3]
+
+### Update
+
+* [Tanks.cfg]
+* [B9TanksSwitch.cfg]
+* closes #114 - [Bug 🐞]: Duplicate Tanks and Name
+
+### Status
+
+* Issues
+  * closes #116 - SimpleConstruction! (SCON) 4.0.99.7-prerelease `<// B9 Ghosted Parts>`
+  * closes #117 - 4.0.99.7 Verify Legal Mumbo Jumbo
+  * closes #118 - 4.0.99.7 Update Documentation
+  * closes #119 - 4.0.99.7 Update Social Media
+* Bug Reports
+  * waiting on more information #111 - [Bug 🐞]: GUI issues
+
+
+---
+
 ## Version 4.0.99.6-prerelease - `<Out of Dutch>`
 
 ### This is PRE-RELEASE - and WILL break saves
