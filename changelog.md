@@ -30,7 +30,16 @@ updated: 05 Mar 2022
 ### Update
 
 * [Tanks.cfg]
+  * Ore Material variant tank name being ´´´#autoLOC_501007 = Ore´´´ instead of Ore
+  * Thank you to @[hutiwephy](https://github.com/hutiwephy) for the bug report
+  * line 24: `title = #autoLOC_501007 //  Ore` was missing //
+  * updates #114
 * [B9TanksSwitch.cfg]
+  * When B9PartSwitch is installed
+    * extra tanks created by +PART are no longer needed
+    * and renaming the stock resource tanks is also no longer needed
+    * still, to not break saves, must 'ghost' the parts
+  * Thank you to @[hutiwephy](https://github.com/hutiwephy) for the bug report
 * closes #114 - [Bug 🐞]: Duplicate Tanks and Name
 
 ### Status
@@ -42,7 +51,6 @@ updated: 05 Mar 2022
   * closes #119 - 4.0.99.7 Update Social Media
 * Bug Reports
   * waiting on more information #111 - [Bug 🐞]: GUI issues
-
 
 ---
 
