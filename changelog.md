@@ -19,12 +19,11 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-
-## Version 4.0.99.6-prerelease - `<Out of Dutch>`
+## Version 4.0.99.7-prerelease - `<// B9 Ghosted Parts>`
 
 ### This is PRE-RELEASE - and WILL break saves
 
-* 01 May 2022
+* 13 May 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
 
 ### Update
