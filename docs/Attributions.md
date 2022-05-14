@@ -69,14 +69,14 @@ updated: 01 May 2022
 * ![English][EN] English  
 * ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54][x13x54]  
 * ![German][DE] German (Deutsch)  
-* ![Chinese][CN] Chinese (简体中文)  
+* ![Chinese][CN] Simplified Chinese (简体中文)  
   
 *Additions and corrections welcome!*  
   
 #### [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)  
   
 * ![English][EN] English  
-* ![Chinese][CN] Chinese (简体中文)  
+* ![Chinese][CN] Simplified Chinese (简体中文)  
   
 Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)  
   
