@@ -15,4 +15,5 @@
 - [Notices](Notices.md)
 - [PartInvoice](PartInvoice.md)
 - [Why](Why.md)
+- [changelog](changelog.md)
 - [resourceFlow](resourceFlow.md)
