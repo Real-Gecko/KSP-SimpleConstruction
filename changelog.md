@@ -1,4 +1,4 @@
-# Changelog  
+﻿# Changelog  
 <!-- 
 changelog.md v1.1.1.1
 SimpleConstruction! (SCON) 
