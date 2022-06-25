@@ -17,6 +17,46 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## 4.0.99.8-prerelease `<Ghosted Ghosts>`
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 24 Jun 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Update
+
+* /Compatibility/
+  * [ghostparts.cfg] v1.0.1.0
+    * add
+    * @[tags] ^= :\s*cck-sc cck-el\s*: :
+    * removes tags so parts won't show up if CCK is installed
+* /Config/
+  * [Tanks.cfg] v1.0.4.0
+    * add
+    * @[tags] ^= :\s*cck-sc cck-el\s*: :
+    * removes tags so parts won't show up if CCK is installed
+* Thank you to [RobotGuy](https://github.com/RobotGuy)!
+* closes #123 - [Bug 🐞]: Ghosted parts still appear in Community Category Kit Filter
+
+### Documentation
+
+* Update
+  * CurseForge links pointed to wrong slug.
+  * Updated.
+  * Thank you to [Codebreakerblue](https://github.com/Codebreakerblue)!
+* closes #122 - [Documentation Issue 📚]: Curseforge link in Version 4.0.99.7 release tag points to wrong URL
+
+### Status
+
+* Issues
+  * closes #124 - SimpleConstruction! (SCON) 4.0.99.8-prerelease `<Ghosted Ghosts>`
+  * closes #125 - 4.0.99.8 Verify Legal Mumbo Jumbo
+  * closes #126 - 4.0.99.8 Update Documentation
+  * closes #127 - 4.0.99.8 Update Social Media
+
+---
+
 ## Version 4.0.99.7-prerelease - `<// B9 Ghosted Parts>`
 
 ### This is PRE-RELEASE - and WILL break saves
