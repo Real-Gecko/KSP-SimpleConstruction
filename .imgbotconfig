@@ -1,7 +1,6 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/*",
         "GameData/ExtraplanetaryLaunchpads/*",
         "GameData/SimpleConstruction/*",
         "source/*",
@@ -12,6 +11,7 @@
         "**/FX/**",
         "**/Icons/**",
         "**/LegalMumboJumbo/**",
+        "**/Parts/**",
         "**/PluginData/**",
         "**/Textures/**",
         "**/UI/**"
