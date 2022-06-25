@@ -53,6 +53,10 @@ updated: 05 Mar 2022
     * removes tags so parts won't show up if CCK is installed
 * Thank you to [RobotGuy](https://github.com/RobotGuy)!
 * closes #123 - [Bug 🐞]: Ghosted parts still appear in Community Category Kit Filter
+* [B9TankSwitch.cfg] v1.0.3.2
+  * rename [B9TanksSwitch.cfg] to [B9TankSwitch.cfg]
+  * line 54 missing `{}`
+* closes #128 - [Bug 🐞]: B9TankSwitch missing brace set
 
 ### Documentation
 
