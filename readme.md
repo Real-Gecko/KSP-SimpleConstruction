@@ -1,7 +1,7 @@
-<!-- readme.md v1.6.7.0
+<!-- readme.md v1.6.9.0
 SimpleConstruction! (SCON)
 created: 17 Jul 2017
-updated: 29 Apr 2022 -->
+updated: 24 Jun 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
@@ -83,7 +83,7 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 
 * Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads *release*
 * `WIP` - work in progress
-* A config that turns a STOCK part (no new models, textures) into a recycler. Maybe the Klaw?
+* A config that turns a STOCK part (no new models, textures) into a recycler. Maybe the Klaw? 
 * Am open to adding more features, great project for someone!
 * I have not personally tested the patches
 * Have a request? Glad to have them, kindly submit through [GitHub][GitHub:url] push.
@@ -156,14 +156,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Olympic's ARP Icons (ARPI)][ARPI]
 * [Community Trait Icons][cti]
 * Either:
-       -  [B9 Part Switch][B9PS] *or*
-       -  [Interstellar Fuel Switch Core][ifsc]
-
-#### KSP 1.12.1 and earlier
->
-> * [Kerbal Inventory System][kis]
-> * [Kerbal Attachment System][kas]
-> * [Kerbal Joint Reinforcement - Next (KJR)][kjrn]
+  *  [B9 Part Switch][B9PS] *or*
+  *  [Interstellar Fuel Switch Core][ifsc]
+* [Kerbal Inventory System][kis]
+* [Kerbal Attachment System][kas]
 
 ### Supports
 
@@ -190,16 +186,17 @@ or [![CKAN][CKAN:img]][CKAN:url]
 ---
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
-<p><b>*red box below is a link to forum post on how to get support*</p>  
-<a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
-  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
+  <p><b>red box below is a link to forum post on how to get support</b></p>
+  <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
+    <p><img src="https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>
+  <p style="color: #000000;">Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</p>
+</div>
 
 ### Credits and Special Thanks
 
 * [`taniwha`][taniwha] for creating [Extraplanetary Launchpads][epl].
 * [`MatterBeam`][matterbeam] for creating this cool mod.
 * [`RealGecko`][realgecko] and [`Ericwi`][ericwi] - previous maintainers
-* [`maculator`][maculator], [`Eleusis La Arwall`][eleusislaarwall], [`Badsector`][badsector], [`cy-one`][cy-one] for their contributions.
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -297,7 +294,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 [LIC:1:url]: https://opensource.org/licenses/MIT "Expat-MIT"
 [LIC:1:log]: https://i.postimg.cc/bvjfsMP5/MIT-17x17.png "Expat-MIT"
-[LIC:1:shd]: https://img.shields.io/badge/License-Expat--MIT-white?labelColor=A42E2B&style=plastic "Expat-MIT"
+[LIC:1:shd]: https://img.shields.io/badge/License-Expat/MIT-3DA639?labelColor=black&logoColor=3DA639&logo=OpenSourceInitiative&style=plastic "Expat-MIT"
 
 [LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
@@ -409,7 +406,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png "Norsk"
 [PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png "Polski"  
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"
+[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
 <!-- footnotes -->
