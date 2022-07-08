@@ -27,11 +27,11 @@ has been translated into the following languages:
 * ![Deutsch][DE] German (Deutsch) <de.cfg>  
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+* ![Français][FR] French (Français) <fr-fr.cfg>  thank you to [izeau (Jean Dupouy)](https://github.com/izeau)!
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
-* ![Français][FR] French (Français) <fr-fr.cfg>  
 * ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
 * ![日本語][JA] Japanese(日本語) <ja.cfg>  
 * ![Português Brasil][BR] Brazil Portuguese (Português Brasil) <pt-br.cfg>  
