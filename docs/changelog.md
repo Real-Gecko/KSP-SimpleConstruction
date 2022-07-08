@@ -32,6 +32,47 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## 4.0.99.9-prerelease `<Merci DrJonez>`
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 07 Jul 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Localization
+
+* Add
+  * French (Français)
+    * thank you to [izeau (Jean Dupouy)](https://github.com/izeau)!
+    * <fr-fr.cfg>
+* updates #19 - Localization - Master
+* closes #31 - Localization - French (Français) <fr-fr.cfg>
+
+### Compatibility
+
+* Interstellar aka KSPie
+  * having Interstellar installed make RocketParts and Metal unavailable in stock tanks
+  * Added
+    * [Interstellar.cfg] v1.0.0.1
+    * this patch adds [Metal] and [RocketParts] to the stock ore tanks using IFS
+    * thank you to forum user [DrJonez](https://forum.kerbalspaceprogram.com/index.php?/user/36466-*/)
+  * closes #131 - [Bug 🐞]: KSPie hides the stock metal and rocketparts tanks
+
+### GUI Issues
+
+* Probably causes by a missing flag
+  * closes #111 - [Bug 🐞]: GUI issues
+
+### Status
+
+* Issues
+  * closes #133 - 4.0.99.9 Verify Legal Mumbo Jumbo
+  * closes #134 - 4.0.99.9 Update Documentation
+  * closes #135 - 4.0.99.9 Update Social Media
+  * closes #136 - SimpleConstruction! (SCON) 4.0.99.9-prerelease `<Merci DrJonez>`
+
+---
+
 ## 4.0.99.8-prerelease `<Ghosted Ghosts>`
 
 ### This is PRE-RELEASE - and WILL break saves
