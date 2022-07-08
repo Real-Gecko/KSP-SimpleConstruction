@@ -17,6 +17,18 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## 4.0.99.9-prerelease `<Merci DrJonez>` 
+
+### Localalization
+
+* Add
+  * thank you to [izeau (Jean Dupouy)](https://github.com/izeau)!
+  * French (Français)
+  * <fr-fr.cfg>+
+  * Fixes #31 - Localization - French (Français) <fr-fr.cfg>
+
+---
+
 ## 4.0.99.8-prerelease `<Ghosted Ghosts>`
 
 ### This is PRE-RELEASE - and WILL break saves
