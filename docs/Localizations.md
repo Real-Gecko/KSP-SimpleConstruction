@@ -20,16 +20,16 @@ updated: 13 May 2022 -->
 
 [Home](./index.md)
 
-* ![English][EN] English <us-en.cfg>
+## has been translated into the following languages:
 
-has been translated into the following languages:
+>* ![English][EN] English
+>* ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54][x13x54]
+>* ![Français][FR] French (Français) - courtesy of GitHub user: [izeau (Jean Dupouy)][izeau]!
+>* ![German][DE] German (Deutsch)
+>* ![Chinese][CN] Chinese (简体中文)
+>* ***your translation here***
 
-* ![Deutsch][DE] German (Deutsch) <de.cfg>  
-* ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
-* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
-* ![Français][FR] French (Français) <fr-fr.cfg>  thank you to [izeau (Jean Dupouy)](https://github.com/izeau)!
-
-__These localizations for KSP and its DLC's are available through Steam:__
+### These localizations for KSP and its DLC's are available through Steam:
 
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
 * ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
@@ -37,7 +37,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Português Brasil][BR] Brazil Portuguese (Português Brasil) <pt-br.cfg>  
 * ![Русский][RU] Russian (Русский) <ru.cfg>  
 
-## Included just in case
+### Included just in case
 
 * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
 * ![한국어][KO] [Korean (한국어) <ko.cfg>  
