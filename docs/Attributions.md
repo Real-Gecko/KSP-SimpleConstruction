@@ -66,10 +66,11 @@ updated: 01 May 2022
   
 #### SimpleConstruction! (SCON)  
 
-* ![English][EN] English  
-* ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54][x13x54]  
-* ![German][DE] German (Deutsch)  
-* ![Chinese][CN] Simplified Chinese (简体中文)  
+* ![English][EN] English
+* ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54][x13x54]
+* ![Français][FR] French (Français) - courtesy of GitHub user: [izeau (Jean Dupouy)][izeau]
+* ![German][DE] German (Deutsch)
+* ![Chinese][CN] Simplified Chinese (简体中文)
   
 *Additions and corrections welcome!*  
   
@@ -99,6 +100,7 @@ Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://g
 [ericwi]: https://forum.kerbalspaceprogram.com/index.php?/profile/152716-*/ "Ericwi"
 [maculator]: https://forum.kerbalspaceprogram.com/index.php?/profile/122127-*/ "maculator"
 [x13x54]: https://github.com/x13x54 "GitHub: x13x54"
+[izeau]: https://github.com/izeau "GitHub: izeau"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 [taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/ "taniwha"

@@ -100,6 +100,7 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 
 > * ![English][EN] English
 > * ![Dutch][NL] Dutch -courtesy of GitHub user: [x13x54][x13x54]
+> * ![Français][FR] French (Français) - courtesy of GitHub user: [izeau (Jean Dupouy)][izeau]!
 > * ![German][DE] German (Deutsch)
 > * ![Chinese][CN] Chinese (简体中文)
 > * ***your translation here***
@@ -156,8 +157,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Olympic's ARP Icons (ARPI)][ARPI]
 * [Community Trait Icons][cti]
 * Either:
-  *  [B9 Part Switch][B9PS] *or*
-  *  [Interstellar Fuel Switch Core][ifsc]
+  * [B9 Part Switch][B9PS] *or*
+  * [Interstellar Fuel Switch Core][ifsc]
 * [Kerbal Inventory System][kis]
 * [Kerbal Attachment System][kas]
 
@@ -363,6 +364,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 [x13x54]: https://github.com/x13x54 "GitHub: x13x54"
+[izeau]: https://github.com/izeau "GitHub: izeau"
 [maculator]: https://forum.kerbalspaceprogram.com/index.php?/profile/122127-*/ "maculator"
 [eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwal"
 [badsector]: https://forum.kerbalspaceprogram.com/index.php?/profile/118465-*/ "Badsector"
