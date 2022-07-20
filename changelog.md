@@ -28,48 +28,56 @@ updated: 05 Mar 2022
 
 * [Launchpad.dll] 6.99.2
   * minimum KSP version: 1.12.x
-* 
+* No longer two folders in GameData
+  * moved ExtraplanetaryLaunchPads contents into SimpleConstruction folder
+  * remember to delete the folder: GameData/ExtraplanetaryLaunchPads
+* NEW: ***EXPERIMENTAL*** Added recycler to "The Klaw" [GrapplingDevice]
+  * updates #40 - Stock Recycler
+* closes #144 - Update [Launchpad.dll] to 0.6.99.2
 
-## XPL
+### Extraplanetary Launchpads 0.6.99.2
 
-* Localization
-  * updated:
-    * en-us.cfg
-    * zh-cn.cfg
-  * added:
-    * pt-br.cfg
+* Update
+  * [Launchpad.dll] 6.99.2
+    * minimum KSP version: 1.12.x
+    * closes #144 - Update [Launchpad.dll] to v0.6.99.2
+* Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/
+  * remember to delete the folder: GameData/ExtraplanetaryLaunchPads
 
+### Parts
 
-RocketParts --> Rocket Parts
+* NEW: ***EXPERIMENTAL***
+  * Added recycler to "The Klaw" [GrapplingDevice]
+  * updates #40 - Stock Recycler
 
 ### Localization
 
-
+* XPL
+  * Localization
+    * updated:
+      * en-us.cfg
+      * zh-cn.cfg
+    * added:
+      * pt-br.cfg
+* corrected long standing typo:
+  * RocketParts --> Rocket Parts
 * Move XPL dictionaries from EL to SCON
-* Add
-  * French (Français)
-    * thank you to [izeau (Jean Dupouy)](https://github.com/izeau)!
-    * <fr-fr.cfg>
+* updates #24 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+* closes #39 - Adjust Localization to represent SimpleConstruction!
 * updates #19 - Localization - Master
-* closes #31 - Localization - French (Français) <fr-fr.cfg>
 
 ### Compatibility
 
 * [Interstellar.cfg] v1.0.1.0
-  * localizize
-
-### GUI Issues
-
-* Probably causes by a missing flag
-  * closes #111 - [Bug 🐞]: GUI issues
+  * localize
 
 ### Status
 
 * Issues
-  * closes #133 - 4.0.99.9 Verify Legal Mumbo Jumbo
-  * closes #134 - 4.0.99.9 Update Documentation
-  * closes #135 - 4.0.99.9 Update Social Media
-  * closes #136 - SimpleConstruction! (SCON) 4.0.99.9-prerelease `<Merci DrJonez>`
+  * closes #139 - SimpleConstruction! (SCON) 4.0.99.20-prerelease `<EDITION>`
+  * closes #140 - 4.0.99.20 Verify Legal Mumbo Jumbo
+  * closes #141 - 4.0.99.20 Update Documentation
+  * closes #142 - 4.0.99.20 Update Social Media
 
 ---
 
