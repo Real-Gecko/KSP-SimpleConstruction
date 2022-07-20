@@ -13,6 +13,9 @@
         "**/LegalMumboJumbo/**",
         "**/Parts/**",
         "**/PluginData/**",
+        "**/Props/**",
+        "**/SimpleIcons/**",
+        "**/Spaces/**",
         "**/Textures/**",
         "**/UI/**"
     ],
