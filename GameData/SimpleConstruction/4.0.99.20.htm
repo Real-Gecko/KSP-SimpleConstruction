@@ -6,8 +6,8 @@ updated: 03 Jun 2022 -->
 <p><a
 href="https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/"
 title="SimpleConstruction! forum thread"><img
-src="https://img.shields.io/badge/SimpleConstruction!%20(SCON)-4.0.99.9--prerelease-BADA55.svg?style=plastic&amp;labelColor=darkgreen"
-title="4.0.99.9-prerelease"
+src="https://img.shields.io/badge/SimpleConstruction!%20(SCON)-4.0.99.20--prerelease-BADA55.svg?style=plastic&amp;labelColor=darkgreen"
+title="4.0.99.20-prerelease"
 alt="SimpleConstruction! Version" /></a><br />
 <a href="http://kerbalspaceprogram.com/"
 title="Kerbal Space Program"><img
@@ -24,8 +24,8 @@ href="https://zer0kerbal.github.io/SimpleConstruction"
 title="GitHub.io Pages"><img
 src="https://img.shields.io/badge/GitHub-Pages-white?style=plastic&amp;labelColor=9cf&amp;logoColor=181717&amp;logo=github/"
 title="GitHub IO" alt="Pages" /></a></p>
-<h1 id="version-40999-prerelease---merci-drjonez-edition">Version
-4.0.99.9-prerelease - <code>&lt;Merci DrJonez&gt;</code> edition</h1>
+<h1 id="409920-prerelease-new-launchpad-edition">4.0.99.20-prerelease
+<code>&lt;New Launchpad&gt;</code> edition</h1>
 <h2 id="this-is-pre-release---and-will-break-saves">This is PRE-RELEASE
 - and WILL break saves</h2>
 <p>meaning things have changed, including file names - so delete
@@ -33,61 +33,156 @@ title="GitHub IO" alt="Pages" /></a></p>
 <code>GameData/SimpleConstruction</code> folders - THEN install new
 version</p>
 <ul>
-<li>07 Jul 2022</li>
+<li>19 Jul 2022</li>
 <li>Release for Kerbal Space Program [KSP 1.12.x]</li>
 </ul>
 <div style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center"><h4>
 <b>DO A CLEAN INSTALL:</br> DELETE EXISTING INSTALLATION THEN RE-INSTALL</b></h4><p>Download from <a href="https://www.curseforge.com/kerbal/ksp-mods/sc/files">CurseForge</a></p></div>
 
+<h3 id="summary">Summary</h3>
+<ul>
+<li>[Launchpad.dll] 6.99.2
+<ul>
+<li>minimum KSP version: 1.12.x</li>
+</ul></li>
+</ul>
 <h2 id="changes">Changes</h2>
+<h3 id="extraplanetary-launchpads-06992">Extraplanetary Launchpads
+0.6.99.2</h3>
+<ul>
+<li><p>Update</p>
+<ul>
+<li>[Launchpad.dll] 6.99.2
+<ul>
+<li>minimum KSP version: 1.12.x</li>
+<li>closes #144 - Update [Launchpad.dll] to v0.6.99.2</li>
+</ul></li>
+</ul></li>
+<li><p>Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/</p>
+<ul>
+<li>only leaves the toolbar button icons in
+ExtraplanetaryLaunchpads/</li>
+</ul></li>
+<li><p>closes #144 - Update [Launchpad.dll] to 0.6.99.2</p></li>
+<li><p>Changes from 6.99.1 from <a
+href="https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/">taniwha</a>'s
+changelog for <a
+href="https://github.com/taniwha/Extraplanetary-Launchpads">Extraplanetary
+Launchpads</a>:</p>
+<ul>
+<li>Minimum KSP version is now 1.12 (might be able to use in 1.11).</li>
+<li>Check for missing flag textures. Fixes stuck UI (visible symptom is
+a white flag icon).</li>
+<li>Better consistency on the UI toggle button (maybe a bit small now,
+though).</li>
+<li>Update resource manager correctly on vessel switch.</li>
+<li>Don't interpolate single-point efficiency curves (fixes exception in
+converter module)</li>
+<li>Add ModuleCargoPart to most parts, but only if KIS is not installed
+(based on the assumption that if KIS is installed, its storage options
+are considered to be superior)</li>
+<li>Tweak the rocket builder's eject vectors, making exiting a "seat"
+less weird.</li>
+<li>UI strings localized (always were in the new UI, but not in a config
+file: they're now loaded).</li>
+<li>Add Brazilian Portuguese translation (many thanks to [@Steven
+Marinelli](<a
+href="https://forum.kerbalspaceprogram.com/index.php?/">https://forum.kerbalspaceprogram.com/index.php?/</a>
+profile/221885-steven-marinelli/))</li>
+<li>Add agency localizations</li>
+<li>Add support for subdirectories. I had over 150 craft files in my VAB
+(1.9.1 save). This... makes a very welcome difference.</li>
+<li>Wait for work sinks (currently just the various pads) to become
+ready before doing catch-up. This prevents an NRE in the build control
+code that I was not able to reproduce myself. Many many thanks to
+[@Rodger](<a
+href="https://forum.kerbalspaceprogram.com/">https://forum.kerbalspaceprogram.com/</a>
+index.php?/profile/153575-rodger/) (who ran into it) for his patience in
+testing (heavily modded JNSQ... load times are looooooong).</li>
+<li>Add support for stock inventory parts to the resource manager. This
+means that resources stored in tanks stored in cargo containers are now
+counted correctly (only one level deep, though, so tanks in containers
+in containers won't be counted properly (same as KIS)). This is the
+reason for abandoning older versions of KSP.</li>
+<li>As always, feedback and bug reports are welcome. Preferably github
+for the bug reports, and logs (KSP.log, make sure LOG_INSTANT_FLUSH in
+settings.cfg is True. Player.log accepted only if KSP actually crashes
+as it is normally an unreadable mess (and doesn't have timestamps)) or
+it didn't happen.</li>
+<li>While this is still in the .99 series, I would say that EL is pretty
+stable and can be considered late beta or even final pre-release. It's
+more I have a few more things I want to get in before going to 7.0. Many
+many thanks to everyone who as given feedback and bug reports, and for
+putting up with my absence (gallivanting between The Bubble and Colonia,
+mostly in a DBX, both above and below the galactic plane, and a lot of
+work done on QuakeForge).</li>
+</ul></li>
+</ul>
+<h3 id="experimental"><em><strong>EXPERIMENTAL</strong></em></h3>
+<ul>
+<li>download only from GitHub <a
+href="https://github.com/zer0Kerbal/SimpleConstruction/discussions/145">here</a>
+<ul>
+<li>updates will be in same discussion as the download link</li>
+</ul></li>
+<li>NEW:
+<ul>
+<li>Added recycler to "The Klaw" [GrapplingDevice]</li>
+<li>updates #40 - Stock Recycler</li>
+<li>adds a seperate mesh for the recycler</li>
+<li>mesh needs some placement and size tweaks</li>
+</ul></li>
+<li>Compatibility
+<ul>
+<li>[Interstellar.cfg] v1.0.1.0
+<ul>
+<li>localize</li>
+<li>update patch</li>
+</ul></li>
+<li>[InterstellarFuelSwitch.cfg] v1.0.4.0
+<ul>
+<li>localize</li>
+<li>update patch</li>
+</ul></li>
+</ul></li>
+</ul>
 <h3 id="localization">Localization</h3>
 <ul>
-<li>Add
+<li>XPL
 <ul>
-<li>French (Français)
+<li>Localization
 <ul>
-<li>thank you to <a href="https://github.com/izeau">izeau (Jean
-Dupouy)</a>!</li>
-<li>&lt;fr-fr.cfg&gt;</li>
+<li>updated:
+<ul>
+<li>en-us.cfg</li>
+<li>zh-cn.cfg</li>
+</ul></li>
+<li>added:
+<ul>
+<li>pt-br.cfg</li>
 </ul></li>
 </ul></li>
+</ul></li>
+<li>corrected long standing typo:
+<ul>
+<li>RocketParts --&gt; Rocket Parts</li>
+</ul></li>
+<li>Move XPL dictionaries from EL to SCON</li>
+<li>updates #24 - Localization - Brazil Portuguese (Português Brasil)
+&lt;pt-br.cfg&gt;</li>
+<li>closes #39 - Adjust Localization to represent
+SimpleConstruction!</li>
 <li>updates #19 - Localization - Master</li>
-<li>closes #31 - Localization - French (Français) &lt;fr-fr.cfg&gt;</li>
-</ul>
-<h3 id="compatibility">Compatibility</h3>
-<ul>
-<li>Interstellar aka KSPie
-<ul>
-<li>having Interstellar installed make RocketParts and Metal unavailable
-in stock tanks</li>
-<li>Added
-<ul>
-<li>[Interstellar.cfg] v1.0.0.1</li>
-<li>this patch adds [Metal] and [RocketParts] to the stock ore tanks
-using IFS</li>
-<li>thank you to forum user <a
-href="https://forum.kerbalspaceprogram.com/index.php?/user/36466-*/">DrJonez</a></li>
-</ul></li>
-<li>closes #131 - [Bug 🐞]: KSPie hides the stock metal and rocketparts
-tanks</li>
-</ul></li>
-</ul>
-<h3 id="gui-issues">GUI Issues</h3>
-<ul>
-<li>Probably causes by a missing flag
-<ul>
-<li>closes #111 - [Bug 🐞]: GUI issues</li>
-</ul></li>
 </ul>
 <h3 id="status">Status</h3>
 <ul>
 <li>Issues
 <ul>
-<li>closes #133 - 4.0.99.9 Verify Legal Mumbo Jumbo</li>
-<li>closes #134 - 4.0.99.9 Update Documentation</li>
-<li>closes #135 - 4.0.99.9 Update Social Media</li>
-<li>closes #136 - SimpleConstruction! (SCON) 4.0.99.9-prerelease
-<code>&lt;Merci DrJonez&gt;</code></li>
+<li>closes #139 - SimpleConstruction! (SCON) 4.0.99.20-prerelease
+<code>&lt;New Launchpad&gt;</code> edition</li>
+<li>closes #140 - 4.0.99.20 Verify Legal Mumbo Jumbo</li>
+<li>closes #141 - 4.0.99.20 Update Documentation</li>
+<li>closes #142 - 4.0.99.20 Update Social Media</li>
 </ul></li>
 </ul>
 <hr />

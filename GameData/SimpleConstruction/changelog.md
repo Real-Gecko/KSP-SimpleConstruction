@@ -17,6 +17,88 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## 4.0.99.20-prerelease `<New Launchpad>` edition
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 19 Jul 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Summary
+
+* [Launchpad.dll] 6.99.2
+  * minimum KSP version: 1.12.x
+
+### Extraplanetary Launchpads 0.6.99.2
+
+* Update
+  * [Launchpad.dll] 6.99.2
+    * minimum KSP version: 1.12.x
+    * closes #144 - Update [Launchpad.dll] to v0.6.99.2
+* Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/
+  * only leaves the toolbar button icons in ExtraplanetaryLaunchpads/
+* closes #144 - Update [Launchpad.dll] to 0.6.99.2
+
+* Changes from 6.99.1 from [taniwha](https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/)'s changelog for [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads):
+  * Minimum KSP version is now 1.12 (might be able to use in 1.11).
+  * Check for missing flag textures. Fixes stuck UI (visible symptom is a white flag icon).
+  * Better consistency on the UI toggle button (maybe a bit small now, though).
+  * Update resource manager correctly on vessel switch.
+  * Don't interpolate single-point efficiency curves (fixes exception in converter module)
+  * Add ModuleCargoPart to most parts, but only if KIS is not installed (based on the assumption that if KIS is installed, its storage options are considered to be superior)
+  * Tweak the rocket builder's eject vectors, making exiting a "seat" less weird.
+  * UI strings localized (always were in the new UI, but not in a config file: they're now loaded).
+  * Add Brazilian Portuguese translation (many thanks to [@Steven Marinelli](https://forum.kerbalspaceprogram.com/index.php?/  profile/221885-steven-marinelli/))
+  * Add agency localizations
+  * Add support for subdirectories. I had over 150 craft files in my VAB (1.9.1 save). This... makes a very welcome difference.
+  * Wait for work sinks (currently just the various pads) to become ready before doing catch-up. This prevents an NRE in the   build control code that I was not able to reproduce myself. Many many thanks to [@Rodger](https://forum.kerbalspaceprogram.com/  index.php?/profile/153575-rodger/) (who ran into it) for his patience in testing (heavily modded JNSQ... load times are looooooong).
+  * Add support for stock inventory parts to the resource manager. This means that resources stored in tanks stored in cargo   containers are now counted correctly (only one level deep, though, so tanks in containers in containers won't be counted   properly (same as KIS)). This is the reason for abandoning older versions of KSP.
+  * As always, feedback and bug reports are welcome. Preferably github for the bug reports, and logs (KSP.log, make sure   LOG_INSTANT_FLUSH in settings.cfg is True. Player.log accepted only if KSP actually crashes as it is normally an unreadable   mess (and doesn't have timestamps)) or it didn't happen.
+  * While this is still in the .99 series, I would say that EL is pretty stable and can be considered late beta or even final   pre-release. It's more I have a few more things I want to get in before going to 7.0. Many many thanks to everyone who as given feedback and bug reports, and for putting up with my absence (gallivanting between The Bubble and Colonia, mostly in a DBX, both above and below the galactic plane, and a lot of work done on QuakeForge).
+
+### ***EXPERIMENTAL***
+
+* download only from GitHub [here](https://github.com/zer0Kerbal/SimpleConstruction/discussions/145)
+  * updates will be in same discussion as the download link
+* NEW:
+  * Added recycler to "The Klaw" [GrapplingDevice]
+  * updates #40 - Stock Recycler
+  * adds a seperate mesh for the recycler
+  * mesh needs some placement and size tweaks
+* Compatibility
+  * [Interstellar.cfg] v1.0.1.0
+    * localize
+    * update patch
+  * [InterstellarFuelSwitch.cfg] v1.0.4.0
+    * localize
+    * update patch
+
+### Localization
+
+* XPL
+  * Localization
+    * updated:
+      * en-us.cfg
+      * zh-cn.cfg
+    * added:
+      * pt-br.cfg
+* corrected long standing typo:
+  * RocketParts --> Rocket Parts
+* Move XPL dictionaries from EL to SCON
+* updates #24 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+* closes #39 - Adjust Localization to represent SimpleConstruction!
+* updates #19 - Localization - Master
+
+### Status
+
+* Issues
+  * closes #139 - SimpleConstruction! (SCON) 4.0.99.20-prerelease `<New Launchpad>` edition
+  * closes #140 - 4.0.99.20 Verify Legal Mumbo Jumbo
+  * closes #141 - 4.0.99.20 Update Documentation
+  * closes #142 - 4.0.99.20 Update Social Media
+
+---
+
 ## 4.0.99.9-prerelease `<Merci DrJonez>`
 
 ### This is PRE-RELEASE - and WILL break saves
