@@ -32,7 +32,7 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## 4.0.99.20-prerelease `<New Launchpad>` edition
+## Version 4.0.99.20-prerelease `<New Launchpad>` edition
 
 ### This is PRE-RELEASE - and WILL break saves
 
@@ -114,7 +114,7 @@ updated: 05 Mar 2022
 
 ---
 
-## 4.0.99.9-prerelease `<Merci DrJonez>`
+## Version 4.0.99.9-prerelease `<Merci DrJonez>`
 
 ### This is PRE-RELEASE - and WILL break saves
 
