@@ -64,12 +64,17 @@ updated: 05 Mar 2022
 ### Compatibility 4.0.99.30
 
 * Update
-  * [Interstellar.cfg] v1.0.1.0
+  * <Interstellar.cfg> v1.0.1.0
     * localize
     * update patch
-  * [InterstellarFuelSwitch.cfg] v1.0.4.0
+  * <InterstellarFuelSwitch.cfg> v1.0.4.0
     * localize
     * update patch
+  * <Recipes.cfg> v4.1.0.0
+    * add
+      * recycler recipes
+      * transfer recipes
+      * header
 
 ### Localization
 
