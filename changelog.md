@@ -37,24 +37,19 @@ updated: 05 Mar 2022
     * closes #144 - Update [Launchpad.dll] to v0.6.99.2
 * Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/
   * only leaves the toolbar button icons in ExtraplanetaryLaunchpads/
-* closes #144 - Update [Launchpad.dll] to 0.6.99.2
+* closes #156 - Update [Launchpad.dll] to 0.6.99.3
 
-* Changes from 6.99.1 from [taniwha](https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/)'s changelog for [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads):
+* Changes from 6.99.2 from [taniwha](https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/)'s changelog for [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads):
   * Minimum KSP version is now 1.12 (might be able to use in 1.11).
-  * Check for missing flag textures. Fixes stuck UI (visible symptom is a white flag icon).
-  * Better consistency on the UI toggle button (maybe a bit small now, though).
-  * Update resource manager correctly on vessel switch.
-  * Don't interpolate single-point efficiency curves (fixes exception in converter module)
-  * Add ModuleCargoPart to most parts, but only if KIS is not installed (based on the assumption that if KIS is installed, its storage options are considered to be superior)
-  * Tweak the rocket builder's eject vectors, making exiting a "seat" less weird.
-  * UI strings localized (always were in the new UI, but not in a config file: they're now loaded).
-  * Add Brazilian Portuguese translation (many thanks to [@Steven Marinelli](https://forum.kerbalspaceprogram.com/index.php?/  profile/221885-steven-marinelli/))
-  * Add agency localizations
-  * Add support for subdirectories. I had over 150 craft files in my VAB (1.9.1 save). This... makes a very welcome difference.
-  * Wait for work sinks (currently just the various pads) to become ready before doing catch-up. This prevents an NRE in the   build control code that I was not able to reproduce myself. Many many thanks to [@Rodger](https://forum.kerbalspaceprogram.com/  index.php?/profile/153575-rodger/) (who ran into it) for his patience in testing (heavily modded JNSQ... load times are looooooong).
-  * Add support for stock inventory parts to the resource manager. This means that resources stored in tanks stored in cargo   containers are now counted correctly (only one level deep, though, so tanks in containers in containers won't be counted   properly (same as KIS)). This is the reason for abandoning older versions of KSP.
   * As always, feedback and bug reports are welcome. Preferably github for the bug reports, and logs (KSP.log, make sure   LOG_INSTANT_FLUSH in settings.cfg is True. Player.log accepted only if KSP actually crashes as it is normally an unreadable   mess (and doesn't have timestamps)) or it didn't happen.
-  * While this is still in the .99 series, I would say that EL is pretty stable and can be considered late beta or even final   pre-release. It's more I have a few more things I want to get in before going to 7.0. Many many thanks to everyone who as given feedback and bug reports, and for putting up with my absence (gallivanting between The Bubble and Colonia, mostly in a DBX, both above and below the galactic plane, and a lot of work done on QuakeForge).
+  * While this is still in the .99 series, I would say that EL is pretty stable and can be considered late beta or even final   pre-release. It's more I have a few more things I want to get in before going to 7.0. Many many thanks to everyone who as given feedback and bug reports, and for putting up with my absence.
+  * Fix hiding EL's launch clamp (Louis Bach)
+  * Fix incorrect vertical offset (5m) for survey builds
+  * Fix inconsistent directory tree indentation
+  * Japanese translation (Yark-Aki). Only partial due to the PR being before I did a release with the UI localization.
+  * Survey stake CoM put underground (@zer0Kerbal, @Robin Patenall), and some tweaks to make it have the correct height offset for the build. Thanks to @Rodger for initial testing of the PR.
+  * Allow survey station when KIS is not installed.
+  * Patch Kerbal inventory mass limit to include the Kerbal's mass (ModuleInventoryPart massLimit is TOTAL mass, not just inventory mass), allowing kerbals to pick up stakes after they've been placed.
 
 ### ***EXPERIMENTAL***
 
@@ -65,7 +60,10 @@ updated: 05 Mar 2022
   * updates #40 - Stock Recycler
   * adds a seperate mesh for the recycler
   * mesh needs some placement and size tweaks
-* Compatibility
+
+### Compatibility 4.0.99.30
+
+* Update
   * [Interstellar.cfg] v1.0.1.0
     * localize
     * update patch
