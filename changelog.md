@@ -75,20 +75,25 @@ updated: 05 Mar 2022
       * recycler recipes
       * transfer recipes
       * header
+  * <CommunityCategoryKit.cfg> v1.0.1.0
+    * update locations
+      * from ExtraplanetaryLaunchpads/Texture to SimpleConstruction/Texture folders
+      * icon_filter_n
+      * icon_filter_s
 
 ### Localization
 
-* XPL
+* SCON
   * Localization
     * updated:
-      * en-us.cfg
-      * zh-cn.cfg
-    * added:
-      * pt-br.cfg
-* corrected long standing typo:
-  * RocketParts --> Rocket Parts
-* Move XPL dictionaries from EL to SCON
-* updates #24 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+      * <en-us.cfg> v1.2.3.0
+      * <pt-br.cfg> v1.0.2.0
+      * <de.cfg> v1.0.2.0
+      * <nl-nl.cfg> v1.0.2.0
+      * <zh-cn.cfg> v1.0.2.0
+  * corrected long standing typo:
+    * #SCON_Karbonite-name -> #SCON-Karbonite-name
+* closes #24 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
 * closes #39 - Adjust Localization to represent SimpleConstruction!
 * updates #19 - Localization - Master
 
