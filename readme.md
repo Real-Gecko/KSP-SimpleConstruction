@@ -1,11 +1,11 @@
-<!-- readme.md v1.6.9.0
+<!-- readme.md v1.6.9.3
 SimpleConstruction! (SCON)
 created: 17 Jul 2017
-updated: 24 Jun 2022 -->
+updated: 31 Jul 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![SimpleConstruction! (SCON)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![SimpleConstruction][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
@@ -17,7 +17,7 @@ This mod aims to provide simple craft building capability in flight mode with st
 
 
 
-#### Author [`zer0Kerbal`][zer0Kerbal], adopted  from [`EricWi`][ericwi], then previously from [`RealGecko`][realgecko]; originally by [`MatterBeam`][matterbeam]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`MatterBeam`][matterbeam] and then by [`RealGecko`][realgecko];  then previously from  [`EricWi`][ericwi]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -37,11 +37,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
     Workshop-->Profit
 ```
 
-<img src="https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg" alt="SimpleConstruction! Hero" width="50%" height="50%">
+<img src="https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg" alt="SimpleConstruction! Hero" width="75%" height="75%">
 
-![SimpleConstruction!][IMG:hero:1]
-
-## Description
+## Preamble by [`MatterBeam`][matterbeam]
 
 > After testing out Extraplanetary Launchpads and Roverdude's MK/OKS, [`MatterBeam`][matterbeam] had the idea of creating a simple, user friendly mod that would allow you to build rockets without taking a 200MB hit to RAM or having to juggle multitudes of resource pathways. If you know how to set up a drill, ISRU and a fuel tank for an Ore to Fuel conversion, then you should know how to build rockets.
 
@@ -57,6 +55,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
+* See our [Parts Catalog][MOD:parts] for part pictures
+* For more images, see our [Marketing Slicks][MOD:markt]
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
 * Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
@@ -66,8 +66,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Documentation
 
-remember - this is the FULL manual and not written for SimpleConstruction!
-[Extraplanetary Launchpads PDF Manual](http://taniwha.org/~bill/EL_Manual.pdf)
+remember - this is the FULL [Extraplanetary Launchpads PDF Manual](http://taniwha.org/~bill/EL_Manual.pdf) manual and not written specifically for SimpleConstruction!
+
+---
 
 ### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
@@ -75,16 +76,10 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 
 [![Kottabos talks SimpleConstruction](https://img.youtube.com/vi/3T_dren-6cc/0.jpg)](https://www.youtube.com/watch?v=3T_dren-6cc)
 
-<details>
-  <summary>Embedded Kottabo Youtube Video</summary>
-    <iframe width="1070" height="602" src="https://www.youtube.com/embed/3T_dren-6cc" title="Kottabo Talks SimpleConstruction!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
-
 #### Cabin notes
 
-* Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads *release*
+* Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
 * `WIP` - work in progress
-* A config that turns a STOCK part (no new models, textures) into a recycler. Maybe the Klaw? 
 * Am open to adding more features, great project for someone!
 * I have not personally tested the patches
 * Have a request? Glad to have them, kindly submit through [GitHub][GitHub:url] push.
@@ -92,6 +87,19 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 #### Known issue(s)
 
 * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
+
+### Help Wanted
+
+> * Compatibility patches
+> * Testing of experimental features:
+>   * A config that turns a STOCK part (Klaw) into a recycler
+>   * discussion and download on [GitHub](https://github.com/zer0Kerbal/SimpleConstruction/discussions/145)
+> * Contracts for these glorious parts
+> * Variant Textures
+> * Converting from FireSpitter to Stock and/or KSPWheel  
+> * Model updates to Unity 2019
+> * Marketing Images and Videos such as hero shots, animated gifs, short highlight
+> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ---
 
@@ -114,18 +122,21 @@ remember - this is the FULL manual and not written for SimpleConstruction!
 >* ![Chinese][CN] Chinese (简体中文)
 >* ***your translation here***
 >
->Kindly help out [`taniwha`][taniwha] and help translate? See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
+>Kindly help translate [Extraplanetary Launchpads][epl] by [`taniwha`][taniwha] See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
 
 ---
 
-### Installation Directions
+### Installation Directions [^1]
 
-***Use***  [^1]
-  CurseForge/OverWolf App (currently does not install dependencies)
+***Use***
+  CurseForge/OverWolf App (currently does not install dependencies)  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
+
+Whilst I agree CKAN is a great mod for those that can't use zip tools. I take no part, nor am I interested in maintaining the CKAN mod metadata for my mods.
+Please don't ask me about it but refer to the CKAN mod thread if you are having issues with CKAN or the metadata it maintains. Beware, CKAN *can* really mess up though it tries very, very, very hard not to.
 
 or [![CKAN][CKAN:img]][CKAN:url]
 
@@ -185,8 +196,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * parts, plugin, config, flags, convenience, editor, resources, crewed, uncrewed
 
----
-
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
   <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
@@ -234,32 +243,14 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ---
 
-#### Mining Ore
+### DONATIONS: How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
-![Mining Ore][IMG:hero:2a]
-
-#### Refining Ore to Metal
-
-![Refining Ore to Metal][IMG:hero:2b]
-
-#### Printing Rocketparts from Metal
-
-![Printing Rocketparts from Metal][IMG:hero:2c]
-
-#### Building Rockets
-
-![Building Rockets][IMG:hero:2d]
-
-#### Finalize build (PROFIT!)
-
-![Finalize build!][IMG:hero:2e]
-
-### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
+> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
+> <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" height="25" >cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a> 
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
----
-
+*and it is true.*
 <!-- mod links -->
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/changelog.md "Changelog"
@@ -268,8 +259,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Mod Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/SimpleConstruction/issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/SimpleConstruction/blob/master/LICENSE
-[MOD:notic]: https://zer0kerbal.github.io/SimpleConstruction/Notices "GitHub Pages"
-[MOD:pages]: https://zer0kerbal.github.io/SimpleConstruction/ "GitHub Pages"
+[MOD:markt]: https://zer0kerbal.github.io/SimpleConstruction/Marketing "Marketing Slicks"
+[MOD:notic]: https://zer0kerbal.github.io/SimpleConstruction/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/SimpleConstruction/PartsCatalog "Parts Catalog"
+[MOD:pages]: https://zer0kerbal.github.io/SimpleConstruction "GitHub Pages"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/mod.json
@@ -290,9 +283,9 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:0:dnload]: https://github.com/matterbeam/SimpleConstruction  "MatterBeam's GitHub Repo"
 
 <!--- license provenance-->
-[LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPLv3"  
-[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPLv3"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json "GPLv3"
+[LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPL-3.0"  
+[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-3.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json "GPL-3.0"
 
 [LIC:1:url]: https://opensource.org/licenses/MIT "Expat-MIT"
 [LIC:1:log]: https://i.postimg.cc/bvjfsMP5/MIT-17x17.png "Expat-MIT"
@@ -371,47 +364,57 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [badsector]: https://forum.kerbalspaceprogram.com/index.php?/profile/118465-*/ "Badsector"
 [cy-one]: https://forum.kerbalspaceprogram.com/index.php?/profile/74874-*/ "cy-one"
 
-<!--- misc logos -->
-[IMG:hero:0]: https://i.imgur.com/y01A9en.png "SimpleConstruction! Flag"
-[IMG:hero:1]: https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg "SimpleConstruction"
-
-[IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
-[IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
-[IMG:hero:2c]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
-[IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
-[IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
-
-[UTUBE:img]: https://img.youtube.com/vi/3T_dren-6cc/0.jpg "YouTube! link"
-[UTUBE:link]: https://youtu.be/3T_dren-6cc "Kottabo Talks SimpleConstruction!"
-
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-Ore-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL "PayPal"
-[PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503 "Patreon"
-[GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors "Github Sponsors"
-[GSPONS:url]: https://github.com/sponsors/zer0Kerbal "Github Sponsors"
-[BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"
-[BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Coffee"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
+[PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
+[PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
+[GSPONS:img]: https://img.shields.io/badge/Github%20-Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors/ "Github Sponsors"
+[GSPONS:url]: https://github.com/sponsors/zer0Kerbal/ "Github Sponsors"
+[BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee/ "Buy Me A Snack"
+[BMCC:url]: https://buymeacoffee.com/zer0Kerbal/ "Buy Me A Snack"
+
+<!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png "中文"  
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/KO.png "한국어"  
-[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png "Mexicano Español"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"  
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"
-[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"  
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"  
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"  
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"  
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"  
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"  
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"  
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"  
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"  
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"  
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"  
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"  
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"  
+[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"  
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
+
+[curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
+[reddit]: https://www.reddit.com/user/zer0Kerbal
+[twitch]: https://www.twitch.tv/zer0kerbal
+[twitter]: https://twitter.com/zer0Kerbal
+[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+
+[DaMichel]: https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "DaMichel"
+[blackheart]: https://forum.kerbalspaceprogram.com/index.php?/profile/42741-*/ "Blackheart612"
+[daemoria]: https://forum.kerbalspaceprogram.com/index.php?/profile/103696-*/ "Daemoria"  
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
+
+#### Connect with me
+
+Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/MOD-NAME/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+
+---
+
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
+
+---
 
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P
