@@ -85,7 +85,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
         ...
       * #.#.#.#.htm
       * changelog.md
-      * GPLv3.txt
+      * GPL-3.0.txt
       * readme.htm
       * SimpleConstruction.version
     ...
