@@ -32,6 +32,98 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## Version 4.0.99.30-prerelease `<Launchpad 30>` edition
+
+### This is PRE-RELEASE - and WILL break saves
+
+* 07 Aug 2022
+* Release for Kerbal Space Program [KSP 1.12.x]
+
+### Summary
+
+* [Launchpad.dll] 6.99.3
+  * minimum KSP version: 1.12.x
+* Compatability patches updated
+  * Interstellar
+  * InterstellarFuelSwitch
+
+### Extraplanetary Launchpads 0.6.99.3
+
+* Update
+  * [Launchpad.dll] 6.99.3
+    * minimum KSP version: 1.12.x
+    * closes #144 - Update [Launchpad.dll] to v0.6.99.3
+* Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/
+  * only leaves the toolbar button icons in ExtraplanetaryLaunchpads/
+* closes #156 - Update [Launchpad.dll] to 0.6.99.3
+
+* Changes from 6.99.2 from [taniwha](https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/)'s changelog for [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads):
+  * Minimum KSP version is now 1.12 (might be able to use in 1.11).
+  * As always, feedback and bug reports are welcome. Preferably github for the bug reports, and logs (KSP.log, make sure   LOG_INSTANT_FLUSH in settings.cfg is True. Player.log accepted only if KSP actually crashes as it is normally an unreadable   mess (and doesn't have timestamps)) or it didn't happen.
+  * While this is still in the .99 series, I would say that EL is pretty stable and can be considered late beta or even final   pre-release. It's more I have a few more things I want to get in before going to 7.0. Many many thanks to everyone who as given feedback and bug reports, and for putting up with my absence.
+  * Fix hiding EL's launch clamp (Louis Bach)
+  * Fix incorrect vertical offset (5m) for survey builds
+  * Fix inconsistent directory tree indentation
+  * Japanese translation (Yark-Aki). Only partial due to the PR being before I did a release with the UI localization.
+  * Survey stake CoM put underground (@zer0Kerbal, @Robin Patenall), and some tweaks to make it have the correct height offset for the build. Thanks to @Rodger for initial testing of the PR.
+  * Allow survey station when KIS is not installed.
+  * Patch Kerbal inventory mass limit to include the Kerbal's mass (ModuleInventoryPart massLimit is TOTAL mass, not just inventory mass), allowing kerbals to pick up stakes after they've been placed.
+
+### ***EXPERIMENTAL***
+
+* download only from GitHub [here](https://github.com/zer0Kerbal/SimpleConstruction/discussions/145)
+  * updates will be in same discussion as the download link
+* NEW:
+  * Added recycler to "The Klaw" [GrapplingDevice]
+  * updates #40 - Stock Recycler
+  * adds a separate mesh for the recycler
+  * mesh needs some placement and size tweaks
+
+### Compatibility 4.0.99.30
+
+* Update
+  * <Interstellar.cfg> v1.0.1.0
+    * localize
+    * update patch
+  * <InterstellarFuelSwitch.cfg> v1.0.4.0
+    * localize
+    * update patch
+  * <Recipes.cfg> v4.1.0.0
+    * add
+      * recycler recipes
+      * transfer recipes
+      * header
+  * <CommunityCategoryKit.cfg> v1.0.1.0
+    * update locations
+      * from ExtraplanetaryLaunchpads/Texture to SimpleConstruction/Texture folders
+      * icon_filter_n
+      * icon_filter_s
+
+### Localization
+
+* Localization
+  * updated:
+    * <en-us.cfg> v1.2.3.0
+    * <pt-br.cfg> v1.0.2.0
+    * <de.cfg> v1.0.2.0
+    * <nl-nl.cfg> v1.0.2.0
+    * <zh-cn.cfg> v1.0.2.0
+* corrected long standing typo:
+  * #SCON_Karbonite-name -> #SCON-Karbonite-name
+* closes #24 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+* closes #39 - Adjust Localization to represent SimpleConstruction!
+* updates #19 - Localization - Master
+
+### Status
+
+* Issues
+  * closes #150 - SimpleConstruction! (SCON) 4.0.99.30-prerelease `<Launchpad 30>` edition
+  * closes #151 - 4.0.99.30 Verify Legal Mumbo Jumbo
+  * closes #152 - 4.0.99.30 Update Documentation
+  * closes #153 - 4.0.99.30 Update Social Media
+
+---
+
 ## Version 4.0.99.20-prerelease `<New Launchpad>` edition
 
 ### This is PRE-RELEASE - and WILL break saves
@@ -78,7 +170,7 @@ updated: 05 Mar 2022
 * NEW:
   * Added recycler to "The Klaw" [GrapplingDevice]
   * updates #40 - Stock Recycler
-  * adds a seperate mesh for the recycler
+  * adds a separate mesh for the recycler
   * mesh needs some placement and size tweaks
 * Compatibility
   * [Interstellar.cfg] v1.0.1.0
