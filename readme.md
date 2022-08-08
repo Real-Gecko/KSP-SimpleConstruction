@@ -35,7 +35,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
     Workshop-->Profit
 ```
 
----
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/img/HeroLogo_1920x1920.png" alt="SimpleConstruction! Hero" width="50%" height="50%">
 
 ![SC Flag][IMG:hero:0]
 ![SimpleConstruction!][IMG:hero:1]
