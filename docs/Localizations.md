@@ -2,7 +2,6 @@
 permalink: /Localizations.html
 title: Localizations
 description: camera goes *click-click*
-# layout: bare
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
