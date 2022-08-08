@@ -17,7 +17,7 @@ updated: 05 Mar 2022
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.30-prerelease `<New Launchpad>` edition
+## Version 4.0.99.30-prerelease `<Launchpad 30>` edition
 
 ### This is PRE-RELEASE - and WILL break saves
 
@@ -28,16 +28,19 @@ updated: 05 Mar 2022
 
 * [Launchpad.dll] 6.99.3
   * minimum KSP version: 1.12.x
+* Compatability patches updated
+  * Interstellar
+  * InterstellarFuelSwitch
 
 ### Extraplanetary Launchpads 0.6.99.3
 
 * Update
   * [Launchpad.dll] 6.99.3
     * minimum KSP version: 1.12.x
-    * closes #144 - Update [Launchpad.dll] to v0.6.99.2
+    * closes #144 - Update [Launchpad.dll] to v0.6.99.3
 * Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/
   * only leaves the toolbar button icons in ExtraplanetaryLaunchpads/
-* closes #156 - Update [Launchpad.dll] to 0.6.99.3
+* closes #154 - Update [Launchpad.dll] to 0.6.99.3
 
 * Changes from 6.99.2 from [taniwha](https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/)'s changelog for [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads):
   * Minimum KSP version is now 1.12 (might be able to use in 1.11).
@@ -58,7 +61,7 @@ updated: 05 Mar 2022
 * NEW:
   * Added recycler to "The Klaw" [GrapplingDevice]
   * updates #40 - Stock Recycler
-  * adds a seperate mesh for the recycler
+  * adds a separate mesh for the recycler
   * mesh needs some placement and size tweaks
 
 ### Compatibility 4.0.99.30
@@ -83,16 +86,15 @@ updated: 05 Mar 2022
 
 ### Localization
 
-* SCON
-  * Localization
-    * updated:
-      * <en-us.cfg> v1.2.3.0
-      * <pt-br.cfg> v1.0.2.0
-      * <de.cfg> v1.0.2.0
-      * <nl-nl.cfg> v1.0.2.0
-      * <zh-cn.cfg> v1.0.2.0
-  * corrected long standing typo:
-    * #SCON_Karbonite-name -> #SCON-Karbonite-name
+* Localization
+  * updated:
+    * <en-us.cfg> v1.2.3.0
+    * <pt-br.cfg> v1.0.2.0
+    * <de.cfg> v1.0.2.0
+    * <nl-nl.cfg> v1.0.2.0
+    * <zh-cn.cfg> v1.0.2.0
+* corrected long standing typo:
+  * #SCON_Karbonite-name -> #SCON-Karbonite-name
 * closes #24 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
 * closes #39 - Adjust Localization to represent SimpleConstruction!
 * updates #19 - Localization - Master
@@ -100,10 +102,10 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues
-  * closes # - SimpleConstruction! (SCON) 4.0.99.30-prerelease `<New Launchpad>` edition
-  * closes # - 4.0.99.30 Verify Legal Mumbo Jumbo
-  * closes # - 4.0.99.30 Update Documentation
-  * closes # - 4.0.99.30 Update Social Media
+  * closes #150 - SimpleConstruction! (SCON) 4.0.99.30-prerelease `<Launchpad 30>` edition
+  * closes #151 - 4.0.99.30 Verify Legal Mumbo Jumbo
+  * closes #152 - 4.0.99.30 Update Documentation
+  * closes #153 - 4.0.99.30 Update Social Media
 
 ---
 
@@ -153,7 +155,7 @@ updated: 05 Mar 2022
 * NEW:
   * Added recycler to "The Klaw" [GrapplingDevice]
   * updates #40 - Stock Recycler
-  * adds a seperate mesh for the recycler
+  * adds a separate mesh for the recycler
   * mesh needs some placement and size tweaks
 * Compatibility
   * [Interstellar.cfg] v1.0.1.0
