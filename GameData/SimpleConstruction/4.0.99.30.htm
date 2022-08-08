@@ -41,21 +41,25 @@ version</p>
 
 <h3 id="summary">Summary</h3>
 <ul>
-<li>[Launchpad.dll] 6.99.2
+<li>[Launchpad.dll] 6.99.3
 <ul>
 <li>minimum KSP version: 1.12.x</li>
 </ul></li>
+<li>Compatability patches updated
+<ul>
+<li>Interstellar</li>
+<li>InterstellarFuelSwitch</li>
+</ul></li>
 </ul>
-<h2 id="changes">Changes</h2>
-<h3 id="extraplanetary-launchpads-06992">Extraplanetary Launchpads
-0.6.99.2</h3>
+<h3 id="extraplanetary-launchpads-06993">Extraplanetary Launchpads
+0.6.99.3</h3>
 <ul>
 <li><p>Update</p>
 <ul>
-<li>[Launchpad.dll] 6.99.2
+<li>[Launchpad.dll] 6.99.3
 <ul>
 <li>minimum KSP version: 1.12.x</li>
-<li>closes #144 - Update [Launchpad.dll] to v0.6.99.2</li>
+<li>closes #144 - Update [Launchpad.dll] to v0.6.99.3</li>
 </ul></li>
 </ul></li>
 <li><p>Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/</p>
@@ -63,47 +67,14 @@ version</p>
 <li>only leaves the toolbar button icons in
 ExtraplanetaryLaunchpads/</li>
 </ul></li>
-<li><p>closes #144 - Update [Launchpad.dll] to 0.6.99.2</p></li>
-<li><p>Changes from 6.99.1 from <a
+<li><p>closes #156 - Update [Launchpad.dll] to 0.6.99.3</p></li>
+<li><p>Changes from 6.99.2 from <a
 href="https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/">taniwha</a>'s
 changelog for <a
 href="https://github.com/taniwha/Extraplanetary-Launchpads">Extraplanetary
 Launchpads</a>:</p>
 <ul>
 <li>Minimum KSP version is now 1.12 (might be able to use in 1.11).</li>
-<li>Check for missing flag textures. Fixes stuck UI (visible symptom is
-a white flag icon).</li>
-<li>Better consistency on the UI toggle button (maybe a bit small now,
-though).</li>
-<li>Update resource manager correctly on vessel switch.</li>
-<li>Don't interpolate single-point efficiency curves (fixes exception in
-converter module)</li>
-<li>Add ModuleCargoPart to most parts, but only if KIS is not installed
-(based on the assumption that if KIS is installed, its storage options
-are considered to be superior)</li>
-<li>Tweak the rocket builder's eject vectors, making exiting a "seat"
-less weird.</li>
-<li>UI strings localized (always were in the new UI, but not in a config
-file: they're now loaded).</li>
-<li>Add Brazilian Portuguese translation (many thanks to [@Steven
-Marinelli](<a
-href="https://forum.kerbalspaceprogram.com/index.php?/">https://forum.kerbalspaceprogram.com/index.php?/</a>
-profile/221885-steven-marinelli/))</li>
-<li>Add agency localizations</li>
-<li>Add support for subdirectories. I had over 150 craft files in my VAB
-(1.9.1 save). This... makes a very welcome difference.</li>
-<li>Wait for work sinks (currently just the various pads) to become
-ready before doing catch-up. This prevents an NRE in the build control
-code that I was not able to reproduce myself. Many many thanks to
-[@Rodger](<a
-href="https://forum.kerbalspaceprogram.com/">https://forum.kerbalspaceprogram.com/</a>
-index.php?/profile/153575-rodger/) (who ran into it) for his patience in
-testing (heavily modded JNSQ... load times are looooooong).</li>
-<li>Add support for stock inventory parts to the resource manager. This
-means that resources stored in tanks stored in cargo containers are now
-counted correctly (only one level deep, though, so tanks in containers
-in containers won't be counted properly (same as KIS)). This is the
-reason for abandoning older versions of KSP.</li>
 <li>As always, feedback and bug reports are welcome. Preferably github
 for the bug reports, and logs (KSP.log, make sure LOG_INSTANT_FLUSH in
 settings.cfg is True. Player.log accepted only if KSP actually crashes
@@ -113,9 +84,19 @@ it didn't happen.</li>
 stable and can be considered late beta or even final pre-release. It's
 more I have a few more things I want to get in before going to 7.0. Many
 many thanks to everyone who as given feedback and bug reports, and for
-putting up with my absence (gallivanting between The Bubble and Colonia,
-mostly in a DBX, both above and below the galactic plane, and a lot of
-work done on QuakeForge).</li>
+putting up with my absence.</li>
+<li>Fix hiding EL's launch clamp (Louis Bach)</li>
+<li>Fix incorrect vertical offset (5m) for survey builds</li>
+<li>Fix inconsistent directory tree indentation</li>
+<li>Japanese translation (Yark-Aki). Only partial due to the PR being
+before I did a release with the UI localization.</li>
+<li>Survey stake CoM put underground (@zer0Kerbal, @Robin Patenall), and
+some tweaks to make it have the correct height offset for the build.
+Thanks to @Rodger for initial testing of the PR.</li>
+<li>Allow survey station when KIS is not installed.</li>
+<li>Patch Kerbal inventory mass limit to include the Kerbal's mass
+(ModuleInventoryPart massLimit is TOTAL mass, not just inventory mass),
+allowing kerbals to pick up stakes after they've been placed.</li>
 </ul></li>
 </ul>
 <h3 id="experimental"><em><strong>EXPERIMENTAL</strong></em></h3>
@@ -132,43 +113,60 @@ href="https://github.com/zer0Kerbal/SimpleConstruction/discussions/145">here</a>
 <li>adds a separate mesh for the recycler</li>
 <li>mesh needs some placement and size tweaks</li>
 </ul></li>
-<li>Compatibility
+</ul>
+<h3 id="compatibility-409930">Compatibility 4.0.99.30</h3>
 <ul>
-<li>[Interstellar.cfg] v1.0.1.0
+<li>Update
+<ul>
+<li>&lt;Interstellar.cfg&gt; v1.0.1.0
 <ul>
 <li>localize</li>
 <li>update patch</li>
 </ul></li>
-<li>[InterstellarFuelSwitch.cfg] v1.0.4.0
+<li>&lt;InterstellarFuelSwitch.cfg&gt; v1.0.4.0
 <ul>
 <li>localize</li>
 <li>update patch</li>
+</ul></li>
+<li>&lt;Recipes.cfg&gt; v4.1.0.0
+<ul>
+<li>add
+<ul>
+<li>recycler recipes</li>
+<li>transfer recipes</li>
+<li>header</li>
+</ul></li>
+</ul></li>
+<li>&lt;CommunityCategoryKit.cfg&gt; v1.0.1.0
+<ul>
+<li>update locations
+<ul>
+<li>from ExtraplanetaryLaunchpads/Texture to SimpleConstruction/Texture
+folders</li>
+<li>icon_filter_n</li>
+<li>icon_filter_s</li>
+</ul></li>
 </ul></li>
 </ul></li>
 </ul>
 <h3 id="localization">Localization</h3>
 <ul>
-<li>XPL
-<ul>
 <li>Localization
 <ul>
 <li>updated:
 <ul>
-<li>en-us.cfg</li>
-<li>zh-cn.cfg</li>
-</ul></li>
-<li>added:
-<ul>
-<li>pt-br.cfg</li>
-</ul></li>
+<li>&lt;en-us.cfg&gt; v1.2.3.0</li>
+<li>&lt;pt-br.cfg&gt; v1.0.2.0</li>
+<li>&lt;de.cfg&gt; v1.0.2.0</li>
+<li>&lt;nl-nl.cfg&gt; v1.0.2.0</li>
+<li>&lt;zh-cn.cfg&gt; v1.0.2.0</li>
 </ul></li>
 </ul></li>
 <li>corrected long standing typo:
 <ul>
-<li>RocketParts --&gt; Rocket Parts</li>
+<li>#SCON_Karbonite-name -&gt; #SCON-Karbonite-name</li>
 </ul></li>
-<li>Move XPL dictionaries from EL to SCON</li>
-<li>updates #24 - Localization - Brazil Portuguese (Português Brasil)
+<li>closes #24 - Localization - Brazil Portuguese (Português Brasil)
 &lt;pt-br.cfg&gt;</li>
 <li>closes #39 - Adjust Localization to represent
 SimpleConstruction!</li>
@@ -178,11 +176,11 @@ SimpleConstruction!</li>
 <ul>
 <li>Issues
 <ul>
-<li>closes #139 - SimpleConstruction! (SCON) 4.0.99.30-prerelease
-<code>&lt;New Launchpad&gt;</code> edition</li>
-<li>closes #140 - 4.0.99.30 Verify Legal Mumbo Jumbo</li>
-<li>closes #141 - 4.0.99.30 Update Documentation</li>
-<li>closes #142 - 4.0.99.30 Update Social Media</li>
+<li>closes #150 - SimpleConstruction! (SCON) 4.0.99.30-prerelease
+<code>&lt;Launchpad 30&gt;</code> edition</li>
+<li>closes #151 - 4.0.99.30 Verify Legal Mumbo Jumbo</li>
+<li>closes #152 - 4.0.99.30 Update Documentation</li>
+<li>closes #153 - 4.0.99.30 Update Social Media</li>
 </ul></li>
 </ul>
 <hr />
