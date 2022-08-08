@@ -55,7 +55,7 @@ updated: 05 Mar 2022
     * closes #144 - Update [Launchpad.dll] to v0.6.99.3
 * Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/
   * only leaves the toolbar button icons in ExtraplanetaryLaunchpads/
-* closes #156 - Update [Launchpad.dll] to 0.6.99.3
+* closes #154 - Update [Launchpad.dll] to 0.6.99.3
 
 * Changes from 6.99.2 from [taniwha](https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/)'s changelog for [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads):
   * Minimum KSP version is now 1.12 (might be able to use in 1.11).
