@@ -21,6 +21,8 @@ This mod aims to provide simple craft building capability in flight mode with st
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/img/HeroLogo_1920x1920.png" alt="SimpleConstruction! Hero" width="50%" height="50%">
+
 ---
 <!-- ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png) -->
 
@@ -35,9 +37,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
     Workshop-->Profit
 ```
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/img/HeroLogo_1920x1920.png" alt="SimpleConstruction! Hero" width="50%" height="50%">
+<img src="https://spacedock.info/content/matterbeam_328/SimpleConstruction/SimpleConstruction-1455675320.902058.jpg" alt="SimpleConstruction! Hero" width="50%" height="50%">
 
-![SC Flag][IMG:hero:0]
 ![SimpleConstruction!][IMG:hero:1]
 
 ## Description
