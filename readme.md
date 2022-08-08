@@ -120,6 +120,7 @@ remember - this is the FULL [Extraplanetary Launchpads PDF Manual](http://taniwh
 
 >* ![English][EN] English
 >* ![Chinese][CN] Chinese (简体中文)
+>* ![Português Brasil][BR] Brazilian (Português Brasil) - courtesy of Steven Marinelli
 >* ***your translation here***
 >
 >Kindly help translate [Extraplanetary Launchpads][epl] by [`taniwha`][taniwha] See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
