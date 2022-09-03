@@ -12,6 +12,10 @@
 
 ## Version 4.0.99.31-prerelease `<TheNamedOyster>` edition
 
+### Summary
+
+* Kerbalism Compatibility
+
 ### Kerbalism
 
 * Compatibility
