@@ -13,24 +13,32 @@ created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 -->
-﻿<!-- 
-changelog.md v1.1.1.1
-SimpleConstruction! (SCON) 
-created: 01 Aug 2016
-updated: 05 Mar 2022
--->
-
-# Changelog  
+﻿# Changelog  
 
 | modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPL-3.0                                                             |
+| license    | GPL-3.0                                                           |
 | author     | RealGecko, EricWi and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
+
+## Version 4.0.99.31-prerelease `<TheNamedOyster>` edition
+
+### Summary
+
+* Kerbalism Compatibility
+
+### Kerbalism
+
+* Compatibility
+  * <Recipies.cfg> v4.1.1.0
+  * <Resources.cfg> v1.0.6.0
+  * <ScienceLabs.cfg> v1.0.4.0
+
+---
 
 ## Version 4.0.99.30-prerelease `<Launchpad 30>` edition
 
