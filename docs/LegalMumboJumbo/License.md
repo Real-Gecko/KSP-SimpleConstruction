@@ -1,18 +1,18 @@
 ---
 permalink: /License.html
-title: License - GPLv3
+title: License - GPL-3.0
 description: when the revolution comes, part deux.... Legal Mumbo Jumbo (Douglas Adams)
 # layout: bare
 tags: licence,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-GPLv3.md v1.0.1.0
+GPL-3.0.md v1.0.1.0
 SimpleConstruction! (SCON)
 created: 20 Feb 2022
 updated: 
 -->
-<img src="https://www.gnu.org/graphics/gplv3-127x51.png" alt=" [GPLv3 Logo] " style="zoom:75%;" />
+<img src="https://www.gnu.org/graphics/GPL-3.0-127x51.png" alt=" [GPL-3.0 Logo] " style="zoom:75%;" />
 
 # SimpleConstruction! (SCON)
 * Copyright © (c) 2016 Alexandr Bezenkov
