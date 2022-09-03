@@ -24,8 +24,8 @@ updated: 05 Mar 2022
 
 | modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPLv3                                                             |
-| author     | RealGecho, EricWi and zer0Kerbal                                  |
+| license    | GPL-3.0                                                             |
+| author     | RealGecko, EricWi and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
@@ -433,9 +433,9 @@ updated: 05 Mar 2022
 
 ### License
 
-* Updated to GPLv3
+* Updated to GPL-3.0
   * To match Extraplanetary Launchpads license
-  * closes #97 - Update License to GPLv3
+  * closes #97 - Update License to GPL-3.0
 
 ### Status
 
