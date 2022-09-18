@@ -151,7 +151,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Recommends
 
-* [KerbalStats][ks] - keeps tract of time on task, which can increase task efficiency
+* [KerbalStats][kstat] - keeps tract of time on task, which can increase task efficiency
 * [Not So SimpleConstructon! (NSSC)][NSSC]
 * [Keridian Dynamics Vessel Assembly (KDVA)][KDVA]
 * [SimpleLogistics! (SLOG!)][SLOG!]
@@ -258,7 +258,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/SimpleConstruction/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "Mod Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstruction! Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/SimpleConstruction/issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/SimpleConstruction/blob/master/LICENSE
 [MOD:markt]: https://zer0kerbal.github.io/SimpleConstruction/Marketing "Marketing Slicks"
@@ -286,7 +286,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 <!--- license provenance-->
 [LIC:url]: https://www.gnu.org/licenses/gpl-3.0-standalone.html "GPL-3.0"  
-[LIC:log]: https://i.postimg.cc/9FrwMgK6/GPL-17x17.png "GPL-3.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json "GPL-3.0"
 
 [LIC:1:url]: https://opensource.org/licenses/MIT "Expat-MIT"
@@ -331,7 +330,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[ks]: https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*/ "KerbalStats"
+[kstat]: https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*/ "KerbalStats"
 [crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
 [cti]: https://forum.kerbalspaceprogram.com/index.php?/topic/162509-*/ "Community Trait Icons"
 [kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*/ "Kerbal ChangeLog"
