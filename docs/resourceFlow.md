@@ -25,6 +25,7 @@ updated: 26 Feb 2022
 
 <!-- https://mermaid-js.github.io/mermaid/ -->
 ```mermaid
+  %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#bada55'}}}%%
   graph LR
     id[Resource Flow];
       Drill-->StoreOre((Ore Tank)) & ISRU
