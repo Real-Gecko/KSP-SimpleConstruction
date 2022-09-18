@@ -27,6 +27,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 <!-- ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png) -->
 
 ```mermaid
+  %%{init: {'theme': 'forest', 'themeVariables': { 'primaryColor': '#bada55'}}}%%
   graph LR
   id[Resource Flow];
     Drill-->StoreOre((Ore Tank)) & ISRU
