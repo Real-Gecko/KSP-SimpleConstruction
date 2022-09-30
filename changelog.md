@@ -20,6 +20,10 @@
 * This *may* have an impact on all docking ports not pushing away anything when released.
 * closes #165 - [BUG 🐛 ] build 'flies; after releasing a finalizing project
 
+* universally update abbreviation from SCON to SC
+* imgbot
+* move @thumbs (to prevent possible game crashes due to malformed thumbs)
+
 ### Status 4.0.99.31
 
 * Issues
