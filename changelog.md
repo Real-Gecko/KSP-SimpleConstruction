@@ -18,11 +18,22 @@
 
 * Updated Docking Port patch to prevent finalized builds from flying away when released
 * This *may* have an impact on all docking ports not pushing away anything when released.
-* closes #165 - [BUG 🐛 ] build 'flies; after releasing a finalizing project
+
+### Changes 4.0.99.31
 
 * universally update abbreviation from SCON to SC
 * imgbot
-* move @thumbs (to prevent possible game crashes due to malformed thumbs)
+* move thumbs (to prevent possible game crashes due to malformed thumbs)
+
+### Config 4.0.99.31
+
+* Update
+  * [DockingPorts.cfg] v1.0.3.0
+    * Updated Docking Port patch to prevent finalized builds from flying away when released
+    * thank you to ItchyBrother for asking about this
+    * @MODULE[ModuleDockingNode]
+      * %undockEjectionForce = 0]
+* closes #165 - [BUG 🐛] build 'flies; after releasing a finalizing project
 
 ### Compatibility 4.0.99.31
 
