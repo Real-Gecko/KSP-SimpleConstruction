@@ -1,18 +1,16 @@
 ﻿# Changelog  
 
-| modName    | SimpleConstruction! (SCON)                                        |
+| modName    | SimpleConstruction! (SC)                                          |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
-| author     | RealGecko, EricWi and zer0Kerbal                                  |
+| author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.31-prerelease `<TheNamedOyster>` edition
-
-### Summary
+## Version 4.0.99.32-prerelease `<TheNamedOyster>` edition
 
 * Kerbalism Compatibility
 
@@ -22,6 +20,12 @@
   * <Recipies.cfg> v4.1.1.0
   * <Resources.cfg> v1.0.6.0
   * <ScienceLabs.cfg> v1.0.4.0
+
+---
+
+## Version 4.0.99.31-prerelease `<ItchyBrother>` edition
+
+### Summary
 
 ---
 
