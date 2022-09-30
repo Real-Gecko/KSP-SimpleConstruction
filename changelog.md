@@ -10,22 +10,25 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.32-prerelease `<TheNamedOyster>` edition
 
-* Kerbalism Compatibility
-
-### Kerbalism
-
-* Compatibility
-  * <Recipies.cfg> v4.1.1.0
-  * <Resources.cfg> v1.0.6.0
-  * <ScienceLabs.cfg> v1.0.4.0
-
----
 
 ## Version 4.0.99.31-prerelease `<ItchyBrother>` edition
 
 ### Summary
+
+* Updated Docking Port patch to prevent finalized builds from flying away when released
+* This *may* have an impact on all docking ports not pushing away anything when released.
+* closes #165 - [BUG 🐛 ] build 'flies; after releasing a finalizing project
+
+### Status 4.0.99.31
+
+* Issues
+  * closes #161 - 4.0.99.31 Update Social Media
+  * closes #160 - 4.0.99.31 Update Documentation
+  * closes #159 - 4.0.99.31 Verify Legal Mumbo Jumbo
+  * closes #158 - SimpleConstruction! (SCON) 4.0.99.31-prerelease - `<ItchyBrother>` edition
+* Beta testing
+  * updates #40 - Stock Recycler - no feedback yet
 
 ---
 
