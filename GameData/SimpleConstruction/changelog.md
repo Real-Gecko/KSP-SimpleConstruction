@@ -1,27 +1,57 @@
 ﻿# Changelog  
 
-| modName    | SimpleConstruction! (SC)                                        |
+| modName    | SimpleConstruction! (SC)                                          |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
-| author     | RealGecko, EricWi and zer0Kerbal                                  |
+| author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.31-prerelease `<TheNamedOyster>` edition
+
+
+## Version 4.0.99.31-prerelease `<ItchyBrother>` edition
 
 ### Summary
 
-* Kerbalism Compatibility
+* Updated Docking Port patch to prevent finalized builds from flying away when released
+* This *may* have an impact on all docking ports not pushing away anything when released.
 
-### Kerbalism
+### Changes 4.0.99.31
 
-* Compatibility
-  * <Recipies.cfg> v4.1.1.0
-  * <Resources.cfg> v1.0.6.0
-  * <ScienceLabs.cfg> v1.0.4.0
+* universally update abbreviation from SCON to SC
+* imgbot
+* move thumbs (to prevent possible game crashes due to malformed thumbs)
+
+### Config 4.0.99.31
+
+* Update
+  * [DockingPorts.cfg] v1.0.3.0
+    * Updated Docking Port patch to prevent finalized builds from flying away when released
+    * thank you to ItchyBrother for asking about this
+    * @MODULE[ModuleDockingNode]
+      * %undockEjectionForce = 0]
+* closes #165 - [BUG 🐛] build 'flies; after releasing a finalizing project
+
+### Compatibility 4.0.99.31
+
+* rename
+  * files
+    * <KKAOSS_Smelter.cfg> --> <Smelter.cfg> v1.0.2.2
+    * <KKAOSS_Workshop.cfg> --> <Workshop.cfg> v1.0.3.2
+
+### Status 4.0.99.31
+
+* Issues
+  * closes #158 - SimpleConstruction! (SC) 4.0.99.31-prerelease - `<ItchyBrother>` edition
+  * closes #159 - 4.0.99.31 Verify Legal Mumbo Jumbo
+  * closes #160 - 4.0.99.31 Update Documentation
+  * closes #161 - 4.0.99.31 Update Social Media
+  * #162 - [ImgBot] Optimize images - contributed by imgbot[bot]
+* Beta testing
+  * updates #40 - Stock Recycler - no feedback yet
 
 ---
 
