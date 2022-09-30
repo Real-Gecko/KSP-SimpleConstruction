@@ -27,6 +27,8 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 4.0.99.32-prerelease `<TheNamedOyster>` edition
 
 * Kerbalism Compatibility
+* [Launchpad.dll] 6.99.3
+  * minimum KSP version: 1.12.x
 * [WIP] XPL/SC/NSSC manual
   * based on work by taniwha, thank you!
   * [temporary link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
@@ -39,8 +41,24 @@ CC BY-ND 4.0 by zer0Kerbal
   * <ScienceLabs.cfg> v1.0.5.0
     * the patch was looking for all parts that have a MODULE[ModuleScienceLab], which Kerbalism deleted and replaces with MODULE[Laboratory] (and other stuff); _i.e._ the SC patch finds no parts fulfilling it's :NEEDS and does nothing.
     * made the patch look for either module
-  * <DockingPorts.cfg> v1.0.3.1
-    * localized the description suplimenter
+* closes #163 - [Bug 🐞]: SCON+KERB bug
+
+### Update 4.0.99.32
+
+* <DockingPorts.cfg> v1.0.3.1
+  * localized the description suplimenter
+  * updates #19 - Localization - Master
+* Hero Image
+  * was too dark and lacked authors name
+  * closes #32 - 🎨 : Update Hero Image
+
+### Status 4.0.99.32
+
+* Issues
+  * closes #166 - SimpleConstruction! (SCON) 4.0.99.32-prerelease `<TheNamedOyster>` edition
+  * closes #167 - 4.0.99.32 Verify Legal Mumbo Jumbo
+  * closes #168 - 4.0.99.32 Update Documentation
+  * closes #169 - 4.0.99.32 Update Social Media
 
 ---
 
