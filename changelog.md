@@ -23,10 +23,11 @@
 ### Status 4.0.99.31
 
 * Issues
-  * closes #161 - 4.0.99.31 Update Social Media
-  * closes #160 - 4.0.99.31 Update Documentation
-  * closes #159 - 4.0.99.31 Verify Legal Mumbo Jumbo
   * closes #158 - SimpleConstruction! (SCON) 4.0.99.31-prerelease - `<ItchyBrother>` edition
+  * closes #159 - 4.0.99.31 Verify Legal Mumbo Jumbo
+  * closes #160 - 4.0.99.31 Update Documentation
+  * closes #161 - 4.0.99.31 Update Social Media
+  * #162 - [ImgBot] Optimize images - contributed by imgbot[bot]
 * Beta testing
   * updates #40 - Stock Recycler - no feedback yet
 
