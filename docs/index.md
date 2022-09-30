@@ -13,7 +13,7 @@
 - [ManualInstallation](ManualInstallation.md)
 - [Marketing](Marketing.md)
 - [Notices](Notices.md)
-- [PartInvoice](PartInvoice.md)
+- [PartsCatalog](PartsCatalog.md)
 - [Why](Why.md)
 - [changelog](changelog.md)
 - [resourceFlow](resourceFlow.md)
