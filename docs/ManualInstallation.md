@@ -7,13 +7,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-SimpleConstruction! (SCON)
+SimpleConstruction! (SC)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# SimpleConstruction! (SCON)
+# SimpleConstruction! (SC)
 
 [Home](./index.md)
 
