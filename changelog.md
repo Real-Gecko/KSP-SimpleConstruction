@@ -10,6 +10,19 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## Version 4.0.99.32-prerelease `<TheNamedOyster>` edition
+
+* Kerbalism Compatibility
+
+### Kerbalism
+
+* Compatibility
+  * <Recipies.cfg> v4.1.1.0
+  * <Resources.cfg> v1.0.6.0
+  * <ScienceLabs.cfg> v1.0.4.0
+
+---
+
 ## Version 4.0.99.31-prerelease `<ItchyBrother>` edition
 
 ### Summary
