@@ -8,13 +8,13 @@ tags: licence,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 GPL-3.0.md v1.0.1.0
-SimpleConstruction! (SCON)
+SimpleConstruction! (SC)
 created: 20 Feb 2022
 updated: 
 -->
 <img src="https://www.gnu.org/graphics/GPL-3.0-127x51.png" alt=" [GPL-3.0 Logo] " style="zoom:75%;" />
 
-# SimpleConstruction! (SCON)
+# SimpleConstruction! (SC)
 * Copyright © (c) 2016 Alexandr Bezenkov
 * Copyright © (c) 2020, 2021, 2022 zer0Kerbal
 

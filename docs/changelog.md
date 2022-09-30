@@ -2,35 +2,70 @@
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- 
 hdr-changelog.md v1.0.0.0
-SimpleConstruction! (SCON)
+SimpleConstruction! (SC)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 -->
-﻿<!-- 
-changelog.md v1.1.1.1
-SimpleConstruction! (SCON) 
-created: 01 Aug 2016
-updated: 05 Mar 2022
--->
+﻿# Changelog  
 
-# Changelog  
-
-| modName    | SimpleConstruction! (SCON)                                        |
+| modName    | SimpleConstruction! (SC)                                          |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPL-3.0                                                             |
-| author     | RealGecko, EricWi and zer0Kerbal                                  |
+| license    | GPL-3.0                                                           |
+| author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
+
+## Version 4.0.99.31-prerelease `<ItchyBrother>` edition
+
+### Summary
+
+* Updated Docking Port patch to prevent finalized builds from flying away when released
+* This *may* have an impact on all docking ports not pushing away anything when released.
+
+### Changes 4.0.99.31
+
+* universally update abbreviation from SCON to SC
+* imgbot
+* move thumbs (to prevent possible game crashes due to malformed thumbs)
+
+### Config 4.0.99.31
+
+* Update
+  * [DockingPorts.cfg] v1.0.3.0
+    * Updated Docking Port patch to prevent finalized builds from flying away when released
+    * thank you to ItchyBrother for asking about this
+    * @MODULE[ModuleDockingNode]
+      * %undockEjectionForce = 0]
+* closes #165 - [BUG 🐛] build 'flies; after releasing a finalizing project
+
+### Compatibility 4.0.99.31
+
+* rename
+  * files
+    * <KKAOSS_Smelter.cfg> --> <Smelter.cfg> v1.0.2.2
+    * <KKAOSS_Workshop.cfg> --> <Workshop.cfg> v1.0.3.2
+
+### Status 4.0.99.31
+
+* Issues
+  * closes #158 - SimpleConstruction! (SC) 4.0.99.31-prerelease - `<ItchyBrother>` edition
+  * closes #159 - 4.0.99.31 Verify Legal Mumbo Jumbo
+  * closes #160 - 4.0.99.31 Update Documentation
+  * closes #161 - 4.0.99.31 Update Social Media
+  * #162 - [ImgBot] Optimize images - contributed by imgbot[bot]
+* Beta testing
+  * updates #40 - Stock Recycler - no feedback yet
+
+---
 
 ## Version 4.0.99.30-prerelease `<Launchpad 30>` edition
 
@@ -117,7 +152,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues
-  * closes #150 - SimpleConstruction! (SCON) 4.0.99.30-prerelease `<Launchpad 30>` edition
+  * closes #150 - SimpleConstruction! (SC) 4.0.99.30-prerelease `<Launchpad 30>` edition
   * closes #151 - 4.0.99.30 Verify Legal Mumbo Jumbo
   * closes #152 - 4.0.99.30 Update Documentation
   * closes #153 - 4.0.99.30 Update Social Media
@@ -199,7 +234,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues
-  * closes #139 - SimpleConstruction! (SCON) 4.0.99.20-prerelease `<New Launchpad>` edition
+  * closes #139 - SimpleConstruction! (SC) 4.0.99.20-prerelease `<New Launchpad>` edition
   * closes #140 - 4.0.99.20 Verify Legal Mumbo Jumbo
   * closes #141 - 4.0.99.20 Update Documentation
   * closes #142 - 4.0.99.20 Update Social Media
@@ -243,7 +278,7 @@ updated: 05 Mar 2022
   * closes #133 - 4.0.99.9 Verify Legal Mumbo Jumbo
   * closes #134 - 4.0.99.9 Update Documentation
   * closes #135 - 4.0.99.9 Update Social Media
-  * closes #136 - SimpleConstruction! (SCON) 4.0.99.9-prerelease `<Merci DrJonez>`
+  * closes #136 - SimpleConstruction! (SC) 4.0.99.9-prerelease `<Merci DrJonez>`
 
 ---
 
@@ -284,7 +319,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues
-  * closes #124 - SimpleConstruction! (SCON) 4.0.99.8-prerelease `<Ghosted Ghosts>`
+  * closes #124 - SimpleConstruction! (SC) 4.0.99.8-prerelease `<Ghosted Ghosts>`
   * closes #125 - 4.0.99.8 Verify Legal Mumbo Jumbo
   * closes #126 - 4.0.99.8 Update Documentation
   * closes #127 - 4.0.99.8 Update Social Media
@@ -316,7 +351,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues
-  * closes #116 - SimpleConstruction! (SCON) 4.0.99.7-prerelease `<// B9 Ghosted Parts>`
+  * closes #116 - SimpleConstruction! (SC) 4.0.99.7-prerelease `<// B9 Ghosted Parts>`
   * closes #117 - 4.0.99.7 Verify Legal Mumbo Jumbo
   * closes #118 - 4.0.99.7 Update Documentation
   * closes #119 - 4.0.99.7 Update Social Media
@@ -386,7 +421,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues
-  * closes #107 - SimpleConstruction! (SCON) 4.0.99.6-prerelease `<EDITION>`
+  * closes #107 - SimpleConstruction! (SC) 4.0.99.6-prerelease `<EDITION>`
   * closes #108 - 4.0.99.6 Verify Legal Mumbo Jumbo
   * closes #109 - 4.0.99.6 Update Documentation
   * closes #110 - 4.0.99.6 Update Social Media
@@ -440,7 +475,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues/Milestones
-  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease `<Metal Bugs>`
+  * closes #93 - SimpleConstruction! (SC) 4.0.99.5-prerelease `<Metal Bugs>`
   * closes #94 - 4.0.99.5 Verify Legal Mumbo Jumbo
   * closes #95 - 4.0.99.5 Update Documentation
   * closes #96 - 4.0.99.5 Update Social Media
@@ -468,14 +503,14 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues/Milestones
-* closed #86 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
+* closed #86 - SimpleConstruction! (SC) 4.0.99.4-prerelease <% Bugs>
 * closes #87 - 4.0.99.4 Verify Legal Mumbo Jumbo
 * closes #88 - 4.0.99.4 Update DocumentationUTC
 * closes #89 - 4.0.99.4 Social Media
 
 * Pull Requests
   * closes #85 - 84 bug elxxxskill log spam - contributed by zer0Kerbal
-  * closed #90 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
+  * closed #90 - SimpleConstruction! (SC) 4.0.99.4-prerelease <% Bugs>
 
 ---
 
@@ -563,7 +598,7 @@ updated: 05 Mar 2022
 ### Status
 
 * Issues/Milestones
-  * closes #72 - SimpleConstruction! (SCON) 4.0.99.3-prerelease - Bucketful of Sand
+  * closes #72 - SimpleConstruction! (SC) 4.0.99.3-prerelease - Bucketful of Sand
   * closes #73 - 4.0.99.2 Verify Legal Mumbo Jumbo
   * closes #74 - 4.0.99.2 Update Documentation
   * closes #75 - 4.0.99.2 Social Media
@@ -712,7 +747,7 @@ updated: 05 Mar 2022
 
 * Issues/Milestones
   * closes #63 - [Bug &#55357;&#56350;]:  KPBS Smelter not heating
-  * closes #64 - SimpleConstruction! (SCON) 4.0.99.2-prerelease A Little Too Spicy
+  * closes #64 - SimpleConstruction! (SC) 4.0.99.2-prerelease A Little Too Spicy
   * closes #65 - 4.0.99.2 Verify Legal Mumbo Jumbo
   * closes #66 - 4.0.99.2 Update Documentation
   * closes #67 - 4.0.99.2 Social Media

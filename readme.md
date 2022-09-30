@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.3
-SimpleConstruction! (SCON)
+SimpleConstruction! (SC)
 created: 17 Jul 2017
 updated: 31 Jul 2022 -->
 
@@ -11,7 +11,7 @@ updated: 31 Jul 2022 -->
 
 
 
-# SimpleConstruction! (SCON)
+# SimpleConstruction! (SC)
 
 This mod aims to provide simple craft building capability in flight mode with stock parts and streamlined IRSU mining for Kerbal Space Program.
 
@@ -73,7 +73,7 @@ remember - this is the FULL [Extraplanetary Launchpads PDF](http://taniwha.org/~
 
 ### Youtube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
-#### Kottabo Talks SimpleConstruction! (SCON)
+#### Kottabo Talks SimpleConstruction! (SC)
 
 [![Kottabos talks SimpleConstruction](https://img.youtube.com/vi/3T_dren-6cc/0.jpg)](https://www.youtube.com/watch?v=3T_dren-6cc)
 
@@ -106,7 +106,7 @@ remember - this is the FULL [Extraplanetary Launchpads PDF](http://taniwha.org/~
 
 ### Localizations
 
-#### SimpleConstruction! (SCON)
+#### SimpleConstruction! (SC)
 
 > * ![English][EN] English
 > * ![Dutch][NL] Dutch -courtesy of GitHub user: [x13x54][x13x54]
@@ -158,7 +158,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Foundations (FND) - beta][FND] <i><small>Helps prevent ground constructions from floating away :)</small></i>
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
-### Suggests Mods that benefit SimpleConstruction! (SCON)
+### Suggests Mods that benefit SimpleConstruction! (SC)
 
 * [KaboOom! (BOOM)][BOOM] another way to not go to space today
 * [On Demand Fuel Cells (ODFC))][ODFC]

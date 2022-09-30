@@ -7,7 +7,7 @@ tags: error,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- FAKQ.md v1.0.3.1
-SimpleConstruction! (SCON)
+SimpleConstruction! (SC)
 created: 12 Dec 2021
 updated: 
 -->
