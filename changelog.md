@@ -10,8 +10,6 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-
-
 ## Version 4.0.99.31-prerelease `<ItchyBrother>` edition
 
 ### Summary
