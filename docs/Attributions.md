@@ -8,7 +8,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.0
-SimpleConstruction! (SC)
+SimpleConstruction! (SCON)
 created: 01 Feb 2022
 updated: 01 May 2022
 -->
@@ -16,7 +16,7 @@ updated: 01 May 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# SimpleConstruction! (SC)
+# SimpleConstruction! (SCON)
 
 [Home](/index.md)
 
@@ -64,7 +64,7 @@ updated: 01 May 2022
   
 ### Translations  
   
-#### SimpleConstruction! (SC)  
+#### SimpleConstruction! (SCON)  
 
 * ![English][EN] English
 * ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54][x13x54]
@@ -93,7 +93,7 @@ Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://g
 </ul>
   
 [tb]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*/ "Blizzy78's Toolbar"
-[SCON]: https://forum.kerbalspaceprogram.com/threads/50884-*/ "SimpleConstruction! (SC)"
+[SCON]: https://forum.kerbalspaceprogram.com/threads/50884-*/ "SimpleConstruction! (SCON)"
 
 [MatterBeam]: https://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "MatterBeam"
 [realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-*/ "RealGecko"
