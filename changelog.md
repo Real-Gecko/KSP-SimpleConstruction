@@ -24,6 +24,13 @@
 * imgbot
 * move @thumbs (to prevent possible game crashes due to malformed thumbs)
 
+### Compatibility 4.0.99.31
+
+* rename
+  * files
+    * <KKAOSS_Smelter.cfg> --> <Smelter.cfg> v1.0.2.2
+    * <KKAOSS_Workshop.cfg> --> <Workshop.cfg> v1.0.3.2
+
 ### Status 4.0.99.31
 
 * Issues
