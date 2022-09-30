@@ -1,6 +1,6 @@
 ﻿# Changelog  
 
-| modName    | SimpleConstruction! (SC)                                          |
+| modName    | SimpleConstruction! (SCON)                                          |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
 | author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
@@ -13,13 +13,20 @@
 ## Version 4.0.99.32-prerelease `<TheNamedOyster>` edition
 
 * Kerbalism Compatibility
+* [WIP] XPL/SC/NSSC manual
+  * based on work by taniwha, thank you!
+  * [temporary link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
 
 ### Kerbalism
 
-* Compatibility
-  * <Recipies.cfg> v4.1.1.0
-  * <Resources.cfg> v1.0.6.0
-  * <ScienceLabs.cfg> v1.0.4.0
+* Config
+  * <Recipies.cfg> v4.1.1.1
+  * <Resources.cfg> v1.0.6.1
+  * <ScienceLabs.cfg> v1.0.5.0
+    * the patch was looking for all parts that have a MODULE[ModuleScienceLab], which Kerbalism deleted and replaces with MODULE[Laboratory] (and other stuff); _i.e._ the SC patch finds no parts fulfilling it's :NEEDS and does nothing.
+    * made the patch look for either module
+  * <DockingPorts.cfg> v1.0.3.1
+    * localized the description suplimenter
 
 ---
 
@@ -56,7 +63,7 @@
 ### Status 4.0.99.31
 
 * Issues
-  * closes #158 - SimpleConstruction! (SC) 4.0.99.31-prerelease - `<ItchyBrother>` edition
+  * closes #158 - SimpleConstruction! (SCON) 4.0.99.31-prerelease - `<ItchyBrother>` edition
   * closes #159 - 4.0.99.31 Verify Legal Mumbo Jumbo
   * closes #160 - 4.0.99.31 Update Documentation
   * closes #161 - 4.0.99.31 Update Social Media
@@ -151,7 +158,7 @@
 ### Status
 
 * Issues
-  * closes #150 - SimpleConstruction! (SC) 4.0.99.30-prerelease `<Launchpad 30>` edition
+  * closes #150 - SimpleConstruction! (SCON) 4.0.99.30-prerelease `<Launchpad 30>` edition
   * closes #151 - 4.0.99.30 Verify Legal Mumbo Jumbo
   * closes #152 - 4.0.99.30 Update Documentation
   * closes #153 - 4.0.99.30 Update Social Media
@@ -233,7 +240,7 @@
 ### Status
 
 * Issues
-  * closes #139 - SimpleConstruction! (SC) 4.0.99.20-prerelease `<New Launchpad>` edition
+  * closes #139 - SimpleConstruction! (SCON) 4.0.99.20-prerelease `<New Launchpad>` edition
   * closes #140 - 4.0.99.20 Verify Legal Mumbo Jumbo
   * closes #141 - 4.0.99.20 Update Documentation
   * closes #142 - 4.0.99.20 Update Social Media
@@ -277,7 +284,7 @@
   * closes #133 - 4.0.99.9 Verify Legal Mumbo Jumbo
   * closes #134 - 4.0.99.9 Update Documentation
   * closes #135 - 4.0.99.9 Update Social Media
-  * closes #136 - SimpleConstruction! (SC) 4.0.99.9-prerelease `<Merci DrJonez>`
+  * closes #136 - SimpleConstruction! (SCON) 4.0.99.9-prerelease `<Merci DrJonez>`
 
 ---
 
@@ -318,7 +325,7 @@
 ### Status
 
 * Issues
-  * closes #124 - SimpleConstruction! (SC) 4.0.99.8-prerelease `<Ghosted Ghosts>`
+  * closes #124 - SimpleConstruction! (SCON) 4.0.99.8-prerelease `<Ghosted Ghosts>`
   * closes #125 - 4.0.99.8 Verify Legal Mumbo Jumbo
   * closes #126 - 4.0.99.8 Update Documentation
   * closes #127 - 4.0.99.8 Update Social Media
@@ -350,7 +357,7 @@
 ### Status
 
 * Issues
-  * closes #116 - SimpleConstruction! (SC) 4.0.99.7-prerelease `<// B9 Ghosted Parts>`
+  * closes #116 - SimpleConstruction! (SCON) 4.0.99.7-prerelease `<// B9 Ghosted Parts>`
   * closes #117 - 4.0.99.7 Verify Legal Mumbo Jumbo
   * closes #118 - 4.0.99.7 Update Documentation
   * closes #119 - 4.0.99.7 Update Social Media
@@ -420,7 +427,7 @@
 ### Status
 
 * Issues
-  * closes #107 - SimpleConstruction! (SC) 4.0.99.6-prerelease `<EDITION>`
+  * closes #107 - SimpleConstruction! (SCON) 4.0.99.6-prerelease `<EDITION>`
   * closes #108 - 4.0.99.6 Verify Legal Mumbo Jumbo
   * closes #109 - 4.0.99.6 Update Documentation
   * closes #110 - 4.0.99.6 Update Social Media
@@ -474,7 +481,7 @@
 ### Status
 
 * Issues/Milestones
-  * closes #93 - SimpleConstruction! (SC) 4.0.99.5-prerelease `<Metal Bugs>`
+  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease `<Metal Bugs>`
   * closes #94 - 4.0.99.5 Verify Legal Mumbo Jumbo
   * closes #95 - 4.0.99.5 Update Documentation
   * closes #96 - 4.0.99.5 Update Social Media
@@ -502,14 +509,14 @@
 ### Status
 
 * Issues/Milestones
-* closed #86 - SimpleConstruction! (SC) 4.0.99.4-prerelease <% Bugs>
+* closed #86 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
 * closes #87 - 4.0.99.4 Verify Legal Mumbo Jumbo
 * closes #88 - 4.0.99.4 Update DocumentationUTC
 * closes #89 - 4.0.99.4 Social Media
 
 * Pull Requests
   * closes #85 - 84 bug elxxxskill log spam - contributed by zer0Kerbal
-  * closed #90 - SimpleConstruction! (SC) 4.0.99.4-prerelease <% Bugs>
+  * closed #90 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
 
 ---
 
@@ -597,7 +604,7 @@
 ### Status
 
 * Issues/Milestones
-  * closes #72 - SimpleConstruction! (SC) 4.0.99.3-prerelease - Bucketful of Sand
+  * closes #72 - SimpleConstruction! (SCON) 4.0.99.3-prerelease - Bucketful of Sand
   * closes #73 - 4.0.99.2 Verify Legal Mumbo Jumbo
   * closes #74 - 4.0.99.2 Update Documentation
   * closes #75 - 4.0.99.2 Social Media
@@ -746,7 +753,7 @@
 
 * Issues/Milestones
   * closes #63 - [Bug &#55357;&#56350;]:  KPBS Smelter not heating
-  * closes #64 - SimpleConstruction! (SC) 4.0.99.2-prerelease A Little Too Spicy
+  * closes #64 - SimpleConstruction! (SCON) 4.0.99.2-prerelease A Little Too Spicy
   * closes #65 - 4.0.99.2 Verify Legal Mumbo Jumbo
   * closes #66 - 4.0.99.2 Update Documentation
   * closes #67 - 4.0.99.2 Social Media
