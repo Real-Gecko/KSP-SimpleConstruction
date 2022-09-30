@@ -7,13 +7,13 @@ tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
 ---
 
 <!-- Marketing.md v1.0.0.0
-SimpleConstruction! (SCON)
+SimpleConstruction! (SC)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# SimpleConstruction! (SCON)
+# SimpleConstruction! (SC)
 
 [Home](./index.md)
 
