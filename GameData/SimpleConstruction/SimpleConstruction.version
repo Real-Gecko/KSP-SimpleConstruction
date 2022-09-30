@@ -1,5 +1,5 @@
 {
-    "NAME"           : "SimpleConstruction! (SC)",
+    "NAME"           : "SimpleConstruction! (SCON)",
     "URL"            : "https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/SimpleConstruction.version",
     "DOWNLOAD"       : "https://github.com/zer0Kerbal/SimpleConstruction/releases/latest",
     "CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/changelog.md",
@@ -13,7 +13,7 @@
         "MAJOR" : 4,
         "MINOR" : 0,
         "PATCH" : 99,
-        "BUILD" : 31
+        "BUILD" : 32
     },
     "KSP_VERSION" :
     {
