@@ -7,7 +7,7 @@ tags: Micropad,flow,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
 Micropad.md v1.0.1.0
-SimpleConstruction! (SC)
+SimpleConstruction! (SCON)
 created: 12 Dec 2021
 updated: 
 -->
@@ -15,7 +15,7 @@ updated:
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# SimpleConstruction! (SC)
+# SimpleConstruction! (SCON)
 
 [Home](/index.md)
 
