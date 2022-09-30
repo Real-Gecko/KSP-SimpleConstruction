@@ -1,13 +1,10 @@
-<!-- ReleaseLayout.md v1.3.2.0
-SimpleConstruction! (SCON)
-created: 11 Aug 2018
-updated: 03 Jun 2022 -->
+
 
 <p><a
 href="https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/"
 title="SimpleConstruction! forum thread"><img
-src="https://img.shields.io/badge/SimpleConstruction!%20(SCON)-4.0.99.30--prerelease-BADA55.svg?style=plastic&amp;labelColor=darkgreen"
-title="4.0.99.30-prerelease"
+src="https://img.shields.io/badge/SimpleConstruction!%20(SCON)-4.0.99.31--prerelease-BADA55.svg?style=plastic&amp;labelColor=darkgreen"
+title="4.0.99.31-prerelease"
 alt="SimpleConstruction! Version" /></a><br />
 <a href="http://kerbalspaceprogram.com/"
 title="Kerbal Space Program"><img
@@ -24,8 +21,8 @@ href="https://zer0kerbal.github.io/SimpleConstruction"
 title="GitHub.io Pages"><img
 src="https://img.shields.io/badge/GitHub-Pages-white?style=plastic&amp;labelColor=9cf&amp;logoColor=181717&amp;logo=github/"
 title="GitHub IO" alt="Pages" /></a></p>
-<h1 id="version-409930-prerelease-launchpad-30-edition">Version
-4.0.99.30-prerelease <code>&lt;Launchpad 30&gt;</code> edition</h1>
+<h1 id="version-409931-prerelease-itchybrother-edition">Version
+4.0.99.31-prerelease <code>&lt;ItchyBrother&gt;</code> edition</h1>
 <h2 id="this-is-pre-release---and-will-break-saves">This is PRE-RELEASE
 - and WILL break saves</h2>
 <p>meaning things have changed, including file names - so delete
@@ -33,160 +30,77 @@ title="GitHub IO" alt="Pages" /></a></p>
 <code>GameData/SimpleConstruction</code> folders - THEN install new
 version</p>
 <ul>
-<li>07 Aug 2022</li>
-<li>Release for Kerbal Space Program [KSP 1.12.x]</li>
+<li>29 Sep 2022</li>
+<li>Release for Kerbal Space Program 1.12.3</li>
 </ul>
 <div style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center"><h4>
 <b>DO A CLEAN INSTALL:</br> DELETE EXISTING INSTALLATION THEN RE-INSTALL</b></h4><p>Download from <a href="https://www.curseforge.com/kerbal/ksp-mods/sc/files">CurseForge</a></p></div>
 
 <h3 id="summary">Summary</h3>
+<h3 id="summary-1">Summary</h3>
 <ul>
-<li>[Launchpad.dll] 6.99.3
-<ul>
-<li>minimum KSP version: 1.12.x</li>
-</ul></li>
-<li>Compatibility patches updated
-<ul>
-<li>Interstellar</li>
-<li>InterstellarFuelSwitch</li>
-</ul></li>
+<li>Updated Docking Port patch to prevent finalized builds from flying
+away when released</li>
+<li>This <em>may</em> have an impact on all docking ports not pushing
+away anything when released.</li>
 </ul>
-<h3 id="extraplanetary-launchpads-06993">Extraplanetary Launchpads
-0.6.99.3</h3>
+<h3 id="changes-409931">Changes 4.0.99.31</h3>
 <ul>
-<li><p>Update</p>
-<ul>
-<li>[Launchpad.dll] 6.99.3
-<ul>
-<li>minimum KSP version: 1.12.x</li>
-<li>closes #144 - Update [Launchpad.dll] to v0.6.99.3</li>
-</ul></li>
-</ul></li>
-<li><p>Combine ExtraplanetaryLaunchpads/ with SimpleConstruction/</p>
-<ul>
-<li>only leaves the toolbar button icons in
-ExtraplanetaryLaunchpads/</li>
-</ul></li>
-<li><p>closes #156 - Update [Launchpad.dll] to 0.6.99.3</p></li>
-<li><p>Changes from 6.99.2 from <a
-href="https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/">taniwha</a>'s
-changelog for <a
-href="https://github.com/taniwha/Extraplanetary-Launchpads">Extraplanetary
-Launchpads</a>:</p>
-<ul>
-<li>Minimum KSP version is now 1.12 (might be able to use in 1.11).</li>
-<li>As always, feedback and bug reports are welcome. Preferably github
-for the bug reports, and logs (KSP.log, make sure LOG_INSTANT_FLUSH in
-settings.cfg is True. Player.log accepted only if KSP actually crashes
-as it is normally an unreadable mess (and doesn't have timestamps)) or
-it didn't happen.</li>
-<li>While this is still in the .99 series, I would say that EL is pretty
-stable and can be considered late beta or even final pre-release. It's
-more I have a few more things I want to get in before going to 7.0. Many
-many thanks to everyone who as given feedback and bug reports, and for
-putting up with my absence.</li>
-<li>Fix hiding EL's launch clamp (Louis Bach)</li>
-<li>Fix incorrect vertical offset (5m) for survey builds</li>
-<li>Fix inconsistent directory tree indentation</li>
-<li>Japanese translation (Yark-Aki). Only partial due to the PR being
-before I did a release with the UI localization.</li>
-<li>Survey stake CoM put underground (@zer0Kerbal, @Robin Patenall), and
-some tweaks to make it have the correct height offset for the build.
-Thanks to @Rodger for initial testing of the PR.</li>
-<li>Allow survey station when KIS is not installed.</li>
-<li>Patch Kerbal inventory mass limit to include the Kerbal's mass
-(ModuleInventoryPart massLimit is TOTAL mass, not just inventory mass),
-allowing kerbals to pick up stakes after they've been placed.</li>
-</ul></li>
+<li>universally update abbreviation from SCON to SC</li>
+<li>imgbot</li>
+<li>move thumbs (to prevent possible game crashes due to malformed
+thumbs)</li>
 </ul>
-<h3 id="experimental"><em><strong>EXPERIMENTAL</strong></em></h3>
-<ul>
-<li>download only from GitHub <a
-href="https://github.com/zer0Kerbal/SimpleConstruction/discussions/145">here</a>
-<ul>
-<li>updates will be in same discussion as the download link</li>
-</ul></li>
-<li>NEW:
-<ul>
-<li>Added recycler to "The Klaw" [GrapplingDevice]</li>
-<li>updates #40 - Stock Recycler</li>
-<li>adds a separate mesh for the recycler</li>
-<li>mesh needs some placement and size tweaks</li>
-</ul></li>
-</ul>
-<h3 id="compatibility-409930">Compatibility 4.0.99.30</h3>
+<h3 id="config-409931">Config 4.0.99.31</h3>
 <ul>
 <li>Update
 <ul>
-<li>&lt;Interstellar.cfg&gt; v1.0.1.0
+<li>[DockingPorts.cfg] v1.0.3.0
 <ul>
-<li>localize</li>
-<li>update patch</li>
-</ul></li>
-<li>&lt;InterstellarFuelSwitch.cfg&gt; v1.0.4.0
+<li>Updated Docking Port patch to prevent finalized builds from flying
+away when released</li>
+<li>thank you to ItchyBrother for asking about this</li>
+<li>@MODULE[ModuleDockingNode]
 <ul>
-<li>localize</li>
-<li>update patch</li>
-</ul></li>
-<li>&lt;Recipes.cfg&gt; v4.1.0.0
-<ul>
-<li>add
-<ul>
-<li>recycler recipes</li>
-<li>transfer recipes</li>
-<li>header</li>
+<li>%undockEjectionForce = 0]</li>
 </ul></li>
 </ul></li>
-<li>&lt;CommunityCategoryKit.cfg&gt; v1.0.1.0
-<ul>
-<li>update locations
-<ul>
-<li>from ExtraplanetaryLaunchpads/Texture to SimpleConstruction/Texture
-folders</li>
-<li>icon_filter_n</li>
-<li>icon_filter_s</li>
 </ul></li>
+<li>closes #165 - [BUG 🐛] build 'flies; after releasing a finalizing
+project</li>
+</ul>
+<h3 id="compatibility-409931">Compatibility 4.0.99.31</h3>
+<ul>
+<li>rename
+<ul>
+<li>files
+<ul>
+<li>&lt;KKAOSS_Smelter.cfg&gt; --&gt; &lt;Smelter.cfg&gt; v1.0.2.2</li>
+<li>&lt;KKAOSS_Workshop.cfg&gt; --&gt; &lt;Workshop.cfg&gt;
+v1.0.3.2</li>
 </ul></li>
 </ul></li>
 </ul>
-<h3 id="localization">Localization</h3>
-<ul>
-<li>Localization
-<ul>
-<li>updated:
-<ul>
-<li>&lt;en-us.cfg&gt; v1.2.3.0</li>
-<li>&lt;pt-br.cfg&gt; v1.0.2.0</li>
-<li>&lt;de.cfg&gt; v1.0.2.0</li>
-<li>&lt;nl-nl.cfg&gt; v1.0.2.0</li>
-<li>&lt;zh-cn.cfg&gt; v1.0.2.0</li>
-</ul></li>
-</ul></li>
-<li>corrected long standing typo:
-<ul>
-<li>#SCON_Karbonite-name -&gt; #SCON-Karbonite-name</li>
-</ul></li>
-<li>closes #24 - Localization - Brazil Portuguese (Português Brasil)
-&lt;pt-br.cfg&gt;</li>
-<li>closes #39 - Adjust Localization to represent
-SimpleConstruction!</li>
-<li>updates #19 - Localization - Master</li>
-</ul>
-<h3 id="status">Status</h3>
+<h3 id="status-409931">Status 4.0.99.31</h3>
 <ul>
 <li>Issues
 <ul>
-<li>closes #150 - SimpleConstruction! (SCON) 4.0.99.30-prerelease
-<code>&lt;Launchpad 30&gt;</code> edition</li>
-<li>closes #151 - 4.0.99.30 Verify Legal Mumbo Jumbo</li>
-<li>closes #152 - 4.0.99.30 Update Documentation</li>
-<li>closes #153 - 4.0.99.30 Update Social Media</li>
+<li>closes #158 - SimpleConstruction! (SC) 4.0.99.31-prerelease -
+<code>&lt;ItchyBrother&gt;</code> edition</li>
+<li>closes #159 - 4.0.99.31 Verify Legal Mumbo Jumbo</li>
+<li>closes #160 - 4.0.99.31 Update Documentation</li>
+<li>closes #161 - 4.0.99.31 Update Social Media</li>
+<li>#162 - [ImgBot] Optimize images - contributed by imgbot[bot]</li>
+</ul></li>
+<li>Beta testing
+<ul>
+<li>updates #40 - Stock Recycler - no feedback yet</li>
 </ul></li>
 </ul>
 <hr />
 <h2 id="see-more">See More</h2>
 <ul>
-<li>Changelog Summary for more details of changes : See <a
+<li>Changelog Summary for more details of changes: See <a
 href="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/Changelog.cfg"
 title="Changelog">ChangeLog</a></li>
 <li>Discussions and news on this mod : See <a
@@ -201,8 +115,8 @@ title="GitHub Issues">Known Issues</a></li>
 href="https://zer0kerbal.github.io/SimpleConstruction"
 title="GitHub.io Pages">Pages</a></li>
 </ul>
-<h3 id="localization-1">Localization</h3>
-<h4 id="simpleconstruction-scon">SimpleConstruction! (SCON)</h4>
+<h3 id="localization">Localization</h3>
+<h4 id="simpleconstruction-sc">SimpleConstruction! (SC)</h4>
 <blockquote>
 <ul>
 <li><img
@@ -283,4 +197,3 @@ title="Github Sponsors" alt="Github Sponsor" /></a> <a
 href="https://buymeacoffee.com/zer0Kerbal" title="Buy Me A Snack"><img
 src="https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&amp;logo=buymeacoffee"
 title="Buy Me A Snack" alt="Buy zer0Kerbal a snack" /></a></p>
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->

@@ -6,7 +6,7 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Localizations.md v1.1.5.0
-SimpleConstruction! (SCON)
+SimpleConstruction! (SC)
 created: 01 Feb 2022
 updated: 13 May 2022 -->
 
@@ -15,7 +15,7 @@ updated: 13 May 2022 -->
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# SimpleConstruction! (SCON)
+# SimpleConstruction! (SC)
 
 [Home](./index.md)
 
