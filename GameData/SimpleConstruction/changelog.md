@@ -32,7 +32,7 @@
 ### Update 4.0.99.32
 
 * <DockingPorts.cfg> v1.0.3.1
-  * localized the description suplimenter
+  * localized the description supplementer
   * updates #19 - Localization - Master
 * Hero Image
   * was too dark and lacked authors name
