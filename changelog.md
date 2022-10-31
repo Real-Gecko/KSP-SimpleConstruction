@@ -1,12 +1,12 @@
 ﻿# Changelog  
 
-| modName    | SimpleConstruction! (SCON)                                          |
+| modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
 | author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)    |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
