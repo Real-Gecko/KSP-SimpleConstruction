@@ -20,11 +20,11 @@
 ### Summary 4.0.99.32
 
 * Kerbalism Compatibility
-* SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
+* SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/) o7
 * [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
-* [WIP] XPL/SC/NSSC manual * [temporary link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
   * based on work by taniwha, thank you!
-* We came to an agreement (many KerboBucks didn't change hands) with STEADLER Engineering Corps to allow them to install a virtual workshop in two of their models, the RC-001S Remote Guidance Unit and the RC-L01 Remote Guidance Unit. This virtual workshop allows for unmanned construction, albiet at a slower pace than with a manned construction vessel. We didn't install a speed limiter because we aren't totally afraid of the AI revolution that isn't coming; and no, a non-hostile, non-killer robot AI didn't make me say ....
+* We came to an agreement (many KerboBucks didn't change hands that day) with STEADLER Engineering Corps to allow them to install a virtual workshop in two of their models, the RC-001S Remote Guidance Unit and the RC-L01 Remote Guidance Unit. This virtual workshop allows for unmanned construction, albiet at a slower pace than with a manned construction vessel. We didn't install a speed limiter because we aren't totally afraid of the AI revolution that isn't coming; and no, a non-hostile, non-killer robot AI didn't make me say ....
 * After news was leaked from the STEADLER Engineering Corps about our deal, C7 Aerospace Division may or may not have reverse engineered the technology and may or may not have hacked into their MK2 drone core.
 * As part of this upgrade program, we issued the mk2 pencil and paper to all workshops increasing their base productivity from 0.25 to 0.5; this excludes science labs and other specific parts that have crew capacity but are not command modules.
 
@@ -44,9 +44,9 @@
     * made the patch look for either module
 * closes #163 - [Bug 🐞]: SCON+KERB bug
 
-### Add 4.0.99.32
+### Config 4.0.99.32
 
-* <AdvancedDroneCores.cfg> v1.0.0.0
+* Add <AdvancedDroneCores.cfg> v1.0.0.0
   * [probeStackSmall] - RC-001S Remote Guidance Unit
   * [probeStackLarge] - RC-L01 Remote Guidance Unit
   * [mk2DroneCore] - MK2 Drone Core
@@ -71,6 +71,7 @@
   * closes #167 - 4.0.99.32 Verify Legal Mumbo Jumbo
   * closes #168 - 4.0.99.32 Update Documentation
   * closes #169 - 4.0.99.32 Update Social Media
+  * updates #173 - B9 combo tank mass issue(s)
 
 ---
 
