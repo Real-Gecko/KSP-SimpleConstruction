@@ -76,7 +76,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * updates #19 - Localization - Master
 * Hero Image
   * was too dark and lacked authors name
-  * closes #32 - 🎨 : Update Hero Image
+  * closes #172 - 🎨 : Update Hero Image
 
 ### Status 4.0.99.32
 
