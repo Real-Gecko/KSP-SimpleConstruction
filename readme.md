@@ -56,12 +56,12 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
-* See our [Parts Catalog][MOD:parts] for part pictures
-* For more images, see our [Marketing Slicks][MOD:markt]
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes: See [ChangeLog][MOD:chlog]
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:issue]
-* GitHub Pages : See [Pages][MOD:pages]
+>* [GitHub Pages][MOD:pages]
+>* [Marketing Slicks][MOD:markt]
+>* [Parts Catalog][MOD:parts] for part pictures
+>* [Discussions][MOD:discu] or [KSP Forums][MOD:forum] for discussions and news
+>* [ChangeLog][MOD:chlog] for more details of changes
+>* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
 ---
 
@@ -88,6 +88,8 @@ remember - this is the FULL [Extraplanetary Launchpads PDF](http://taniwha.org/~
 #### Known issue(s)
 
 * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
+* Kerbalism compatibility is considered EXPERIMENTAL.
+  * certain builds may require no RocketParts and time to complete. We are aware of this and any assistance with this issue would be appreciated.
 
 ### Help Wanted
 
@@ -106,11 +108,11 @@ remember - this is the FULL [Extraplanetary Launchpads PDF](http://taniwha.org/~
 
 ### Localizations
 
-#### SimpleConstruction! (SCON)
+#### [SimpleConstruction!][MOD:forum]
 
 > * ![English][EN] English
-> * ![Dutch][NL] Dutch -courtesy of GitHub user: [x13x54][x13x54]
-> * ![Français][FR] French (Français) - courtesy of GitHub user: [izeau (Jean Dupouy)][izeau]!
+> * ![Dutch][NL] Dutch -courtesy of GitHub user: [x13x54](https://github.com/x13x54)
+> * ![Français][FR] French (Français) - courtesy of GitHub user: [izeau (Jean Dupouy)](https://github.com/izeau)
 > * ![German][DE] German (Deutsch)
 > * ![Chinese][CN] Chinese (简体中文)
 > * ***your translation here***
@@ -121,10 +123,10 @@ remember - this is the FULL [Extraplanetary Launchpads PDF](http://taniwha.org/~
 
 >* ![English][EN] English
 >* ![Chinese][CN] Chinese (简体中文)
->* ![Português Brasil][BR] Brazilian (Português Brasil) - courtesy of Steven Marinelli
+>* ![Português Brasil][BR] Brazilian (Português Brasil)
 >* ***your translation here***
 >
->Kindly help translate [Extraplanetary Launchpads][epl] by [`taniwha`][taniwha] See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
+> Kindly help translate [Extraplanetary Launchpads][epl] by [`taniwha`][taniwha] See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
 
 ---
 
@@ -137,8 +139,7 @@ remember - this is the FULL [Extraplanetary Launchpads PDF](http://taniwha.org/~
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-Whilst I agree CKAN is a great mod for those that can't use zip tools. I take no part, nor am I interested in maintaining the CKAN mod metadata for my mods.
-Please don't ask me about it but refer to the CKAN mod thread if you are having issues with CKAN or the metadata it maintains. Beware, CKAN *can* really mess up though it tries very, very, very hard not to.
+I take no part, nor am I interested in maintaining the [CKAN][ckan:url] mod metadata for my mods. [CKAN][ckan:url] is a great mod for those that can't use zip tools. If you are having issues please let the [CKAN][ckan:url] people know and refer to the [CKAN][ckan:url] thread. My support of [CKAN][ckan:url] extends as far as me checking the checkbox in Spacedock when I upload. Beware, [CKAN][ckan:url] *can* really mess up though it tries very, very, very hard not to.
 
 or [![CKAN][CKAN:img]][CKAN:url]
 
@@ -185,6 +186,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Kethane/KethanePlus][keth]
 * [Community Resource Pack][crp]
 * [Extraplanetary Launchpads - No More Production][elx]
+* Experimental: [Kerbalism][kerb]
 
 ### Conflicts
 
@@ -335,7 +337,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [kstat]: https://forum.kerbalspaceprogram.com/index.php?/topic/89285-*/ "KerbalStats"
 [crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/ "Community Resource Pack"
 [cti]: https://forum.kerbalspaceprogram.com/index.php?/topic/162509-*/ "Community Trait Icons"
-[kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*/ "Kerbal ChangeLog"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 [mks]: http://forum.kerbalspaceprogram.com/index.php?/topic/154587-*/ "Modular Kolonization System (MKS)"
 [tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-*/ "Toolbar Controller"
@@ -352,6 +353,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [keth]: http://forum.kerbalspaceprogram.com/index.php?/topic/119480-*/ "Kethane/Kethane+"
 [ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch Core"
 [kjrn]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement - Next"
+[kerb]: https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*/ "Kerbalism"
 
 <!--- statics -->
 [matterbeam]: http://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "MatterBeam"
@@ -359,13 +361,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [ericwi]: https://forum.kerbalspaceprogram.com/index.php?/profile/152716-*/ "EricWi"
 [taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/ "Taniwha"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-[x13x54]: https://github.com/x13x54 "GitHub: x13x54"
-[izeau]: https://github.com/izeau "GitHub: izeau"
-[maculator]: https://forum.kerbalspaceprogram.com/index.php?/profile/122127-*/ "maculator"
-[eleusislaarwall]: https://forum.kerbalspaceprogram.com/index.php?/profile/116286-*/ "Eleusis La Arwal"
-[badsector]: https://forum.kerbalspaceprogram.com/index.php?/profile/118465-*/ "Badsector"
-[cy-one]: https://forum.kerbalspaceprogram.com/index.php?/profile/74874-*/ "cy-one"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
