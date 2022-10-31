@@ -7,14 +7,14 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!-- 
 hdr-changelog.md v1.0.0.0
-SimpleConstruction! (SC)
+SimpleConstruction! (SCON)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 -->
 ﻿# Changelog  
 
-| modName    | SimpleConstruction! (SC)                                          |
+| modName    | SimpleConstruction! (SCON)                                          |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-3.0                                                           |
 | author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
@@ -23,6 +23,71 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SC)                   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
+
+## Version 4.0.99.32-prerelease `<eengie and TheNamedOyster meets Kerbalism>` edition
+
+* Released
+  * 30 Oct 2022
+  * for Kerbal Space Program 1.12.3
+  * by zer0Kerbal
+
+### Summary 4.0.99.32
+
+* Kerbalism Compatibility
+* SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/) o7
+* [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
+  * based on work by taniwha, thank you!
+* We came to an agreement (many KerboBucks didn't change hands that day) with STEADLER Engineering Corps to allow them to install a virtual workshop in two of their models, the RC-001S Remote Guidance Unit and the RC-L01 Remote Guidance Unit. This virtual workshop allows for unmanned construction, albiet at a slower pace than with a manned construction vessel. We didn't install a speed limiter because we aren't totally afraid of the AI revolution that isn't coming; and no, a non-hostile, non-killer robot AI didn't make me say ....
+* After news was leaked from the STEADLER Engineering Corps about our deal, C7 Aerospace Division may or may not have reverse engineered the technology and may or may not have hacked into their MK2 drone core.
+* As part of this upgrade program, we issued the mk2 pencil and paper to all workshops increasing their base productivity from 0.25 to 0.5; this excludes science labs and other specific parts that have crew capacity but are not command modules.
+
+* Cabin note concerning Kerbalism:
+  * Kerbalism compatibility is considered EXPERIMENTAL.
+  * certain builds may require no RocketParts and time to complete. We are aware of this and any assistance with this issue would be appreciated.
+
+### Kerbalism 4.0.99.32
+
+* Compatibility
+  * NEW: <Kerbalism.cfg> v1.0.0.0
+* Config
+  * <Recipies.cfg> v4.1.1.1
+  * <Resources.cfg> v1.0.6.1
+  * <ScienceLabs.cfg> v1.0.5.1
+    * the patch was looking for all parts that have a MODULE[ModuleScienceLab], which Kerbalism deleted and replaces with MODULE[Laboratory] (and other stuff); _i.e._ the SC patch finds no parts fulfilling it's :NEEDS and does nothing.
+    * made the patch look for either module
+* closes #163 - [Bug 🐞]: SCON+KERB bug
+
+### Config 4.0.99.32
+
+* Add <AdvancedDroneCores.cfg> v1.0.0.0
+  * [probeStackSmall] - RC-001S Remote Guidance Unit
+  * [probeStackLarge] - RC-L01 Remote Guidance Unit
+  * [mk2DroneCore] - MK2 Drone Core
+
+### Update 4.0.99.32
+
+* <Recipes.cfg> v4.1.1.2
+* <CrewedPods.cfg> v1.0.2.0
+* <Agents.cfg> v4.0.0.0
+  * localized, since XPL now provides strings
+* <DockingPorts.cfg> v1.0.3.1
+  * localized the description supplementer
+  * updates #19 - Localization - Master
+* Hero Image
+  * was too dark and lacked authors name
+  * closes #32 - 🎨 : Update Hero Image
+
+### Status 4.0.99.32
+
+* Issues
+  * closes #166 - SimpleConstruction! (SCON) 4.0.99.32-prerelease `<TheNamedOyster>` edition
+  * closes #167 - 4.0.99.32 Verify Legal Mumbo Jumbo
+  * closes #168 - 4.0.99.32 Update Documentation
+  * closes #169 - 4.0.99.32 Update Social Media
+  * updates #173 - B9 combo tank mass issue(s)
+
+---
 
 ## Version 4.0.99.31-prerelease `<ItchyBrother>` edition
 
@@ -57,7 +122,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status 4.0.99.31
 
 * Issues
-  * closes #158 - SimpleConstruction! (SC) 4.0.99.31-prerelease - `<ItchyBrother>` edition
+  * closes #158 - SimpleConstruction! (SCON) 4.0.99.31-prerelease - `<ItchyBrother>` edition
   * closes #159 - 4.0.99.31 Verify Legal Mumbo Jumbo
   * closes #160 - 4.0.99.31 Update Documentation
   * closes #161 - 4.0.99.31 Update Social Media
@@ -152,7 +217,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #150 - SimpleConstruction! (SC) 4.0.99.30-prerelease `<Launchpad 30>` edition
+  * closes #150 - SimpleConstruction! (SCON) 4.0.99.30-prerelease `<Launchpad 30>` edition
   * closes #151 - 4.0.99.30 Verify Legal Mumbo Jumbo
   * closes #152 - 4.0.99.30 Update Documentation
   * closes #153 - 4.0.99.30 Update Social Media
@@ -234,7 +299,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #139 - SimpleConstruction! (SC) 4.0.99.20-prerelease `<New Launchpad>` edition
+  * closes #139 - SimpleConstruction! (SCON) 4.0.99.20-prerelease `<New Launchpad>` edition
   * closes #140 - 4.0.99.20 Verify Legal Mumbo Jumbo
   * closes #141 - 4.0.99.20 Update Documentation
   * closes #142 - 4.0.99.20 Update Social Media
@@ -278,7 +343,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #133 - 4.0.99.9 Verify Legal Mumbo Jumbo
   * closes #134 - 4.0.99.9 Update Documentation
   * closes #135 - 4.0.99.9 Update Social Media
-  * closes #136 - SimpleConstruction! (SC) 4.0.99.9-prerelease `<Merci DrJonez>`
+  * closes #136 - SimpleConstruction! (SCON) 4.0.99.9-prerelease `<Merci DrJonez>`
 
 ---
 
@@ -319,7 +384,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #124 - SimpleConstruction! (SC) 4.0.99.8-prerelease `<Ghosted Ghosts>`
+  * closes #124 - SimpleConstruction! (SCON) 4.0.99.8-prerelease `<Ghosted Ghosts>`
   * closes #125 - 4.0.99.8 Verify Legal Mumbo Jumbo
   * closes #126 - 4.0.99.8 Update Documentation
   * closes #127 - 4.0.99.8 Update Social Media
@@ -351,7 +416,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #116 - SimpleConstruction! (SC) 4.0.99.7-prerelease `<// B9 Ghosted Parts>`
+  * closes #116 - SimpleConstruction! (SCON) 4.0.99.7-prerelease `<// B9 Ghosted Parts>`
   * closes #117 - 4.0.99.7 Verify Legal Mumbo Jumbo
   * closes #118 - 4.0.99.7 Update Documentation
   * closes #119 - 4.0.99.7 Update Social Media
@@ -421,7 +486,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #107 - SimpleConstruction! (SC) 4.0.99.6-prerelease `<EDITION>`
+  * closes #107 - SimpleConstruction! (SCON) 4.0.99.6-prerelease `<EDITION>`
   * closes #108 - 4.0.99.6 Verify Legal Mumbo Jumbo
   * closes #109 - 4.0.99.6 Update Documentation
   * closes #110 - 4.0.99.6 Update Social Media
@@ -475,7 +540,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues/Milestones
-  * closes #93 - SimpleConstruction! (SC) 4.0.99.5-prerelease `<Metal Bugs>`
+  * closes #93 - SimpleConstruction! (SCON) 4.0.99.5-prerelease `<Metal Bugs>`
   * closes #94 - 4.0.99.5 Verify Legal Mumbo Jumbo
   * closes #95 - 4.0.99.5 Update Documentation
   * closes #96 - 4.0.99.5 Update Social Media
@@ -503,14 +568,14 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues/Milestones
-* closed #86 - SimpleConstruction! (SC) 4.0.99.4-prerelease <% Bugs>
+* closed #86 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
 * closes #87 - 4.0.99.4 Verify Legal Mumbo Jumbo
 * closes #88 - 4.0.99.4 Update DocumentationUTC
 * closes #89 - 4.0.99.4 Social Media
 
 * Pull Requests
   * closes #85 - 84 bug elxxxskill log spam - contributed by zer0Kerbal
-  * closed #90 - SimpleConstruction! (SC) 4.0.99.4-prerelease <% Bugs>
+  * closed #90 - SimpleConstruction! (SCON) 4.0.99.4-prerelease <% Bugs>
 
 ---
 
@@ -598,7 +663,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues/Milestones
-  * closes #72 - SimpleConstruction! (SC) 4.0.99.3-prerelease - Bucketful of Sand
+  * closes #72 - SimpleConstruction! (SCON) 4.0.99.3-prerelease - Bucketful of Sand
   * closes #73 - 4.0.99.2 Verify Legal Mumbo Jumbo
   * closes #74 - 4.0.99.2 Update Documentation
   * closes #75 - 4.0.99.2 Social Media
@@ -747,7 +812,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Issues/Milestones
   * closes #63 - [Bug &#55357;&#56350;]:  KPBS Smelter not heating
-  * closes #64 - SimpleConstruction! (SC) 4.0.99.2-prerelease A Little Too Spicy
+  * closes #64 - SimpleConstruction! (SCON) 4.0.99.2-prerelease A Little Too Spicy
   * closes #65 - 4.0.99.2 Verify Legal Mumbo Jumbo
   * closes #66 - 4.0.99.2 Update Documentation
   * closes #67 - 4.0.99.2 Social Media

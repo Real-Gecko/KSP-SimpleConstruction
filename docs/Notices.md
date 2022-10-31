@@ -8,13 +8,13 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.0.0
-SimpleConstruction! (SC)
+SimpleConstruction! (SCON)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# SimpleConstruction! (SC)
+# SimpleConstruction! (SCON)
 
 [Home](./index.md)
 

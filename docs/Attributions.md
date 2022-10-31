@@ -8,7 +8,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.0
-SimpleConstruction! (SC)
+SimpleConstruction! (SCON)
 created: 01 Feb 2022
 updated: 01 May 2022
 -->
@@ -16,7 +16,7 @@ updated: 01 May 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# SimpleConstruction! (SC)
+# SimpleConstruction! (SCON)
 
 [Home](/index.md)
 
@@ -44,8 +44,12 @@ updated: 01 May 2022
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/"><img border="0" alt="MatterBeam" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-133334.png" width="50" height="50" > MatterBeam</a></li>
 </ul>
 
-### Special Thanks
+### Patrons
 
+  <li><a href="https://www.reddit.com/user/eengie/"><img border="0" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="75" height="75" > eengie</a> for going above and beyond. o7</li>
+
+### Special Thanks
+* 
 * sarbian for [ModuleManager](https://forum.kerbalspaceprogram.com/threads/55219-*).
 * cybutek for [KSP-AVC](https://forum.kerbalspaceprogram.com/threads/79745-*).
 * RoverDude for [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/)
@@ -64,7 +68,7 @@ updated: 01 May 2022
   
 ### Translations  
   
-#### SimpleConstruction! (SC)  
+#### SimpleConstruction! (SCON)  
 
 * ![English][EN] English
 * ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54][x13x54]
@@ -93,7 +97,7 @@ Kindly help out [@`taniwha][taniwha] and help translate! [Github Repo](https://g
 </ul>
   
 [tb]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*/ "Blizzy78's Toolbar"
-[SCON]: https://forum.kerbalspaceprogram.com/threads/50884-*/ "SimpleConstruction! (SC)"
+[SCON]: https://forum.kerbalspaceprogram.com/threads/50884-*/ "SimpleConstruction! (SCON)"
 
 [MatterBeam]: https://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/ "MatterBeam"
 [realgecko]: https://forum.kerbalspaceprogram.com/index.php?/profile/162682-*/ "RealGecko"
