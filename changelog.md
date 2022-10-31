@@ -10,27 +10,53 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.32-prerelease `<TheNamedOyster>` edition
+## Version 4.0.99.32-prerelease `<eengie and TheNamedOyster meets Kerbalism>` edition
+
+* Released
+  * 30 Oct 2022
+  * for Kerbal Space Program 1.12.3
+  * by zer0Kerbal
+
+### Summary 4.0.99.32
 
 * Kerbalism Compatibility
-* [Launchpad.dll] 6.99.3
-  * minimum KSP version: 1.12.x
-* [WIP] XPL/SC/NSSC manual
+* SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
+* [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
+* [WIP] XPL/SC/NSSC manual * [temporary link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
   * based on work by taniwha, thank you!
-  * [temporary link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
+* We came to an agreement (many KerboBucks didn't change hands) with STEADLER Engineering Corps to allow them to install a virtual workshop in two of their models, the RC-001S Remote Guidance Unit and the RC-L01 Remote Guidance Unit. This virtual workshop allows for unmanned construction, albiet at a slower pace than with a manned construction vessel. We didn't install a speed limiter because we aren't totally afraid of the AI revolution that isn't coming; and no, a non-hostile, non-killer robot AI didn't make me say ....
+* After news was leaked from the STEADLER Engineering Corps about our deal, C7 Aerospace Division may or may not have reverse engineered the technology and may or may not have hacked into their MK2 drone core.
+* As part of this upgrade program, we issued the mk2 pencil and paper to all workshops increasing their base productivity from 0.25 to 0.5; this excludes science labs and other specific parts that have crew capacity but are not command modules.
 
-### Kerbalism
+* Cabin note concerning Kerbalism:
+  * Kerbalism compatibility is considered EXPERIMENTAL.
+  * certain builds may require no RocketParts and time to complete. We are aware of this and any assistance with this issue would be appreciated.
 
+### Kerbalism 4.0.99.32
+
+* Compatibility
+  * NEW: <Kerbalism.cfg> v1.0.0.0
 * Config
   * <Recipies.cfg> v4.1.1.1
   * <Resources.cfg> v1.0.6.1
-  * <ScienceLabs.cfg> v1.0.5.0
+  * <ScienceLabs.cfg> v1.0.5.1
     * the patch was looking for all parts that have a MODULE[ModuleScienceLab], which Kerbalism deleted and replaces with MODULE[Laboratory] (and other stuff); _i.e._ the SC patch finds no parts fulfilling it's :NEEDS and does nothing.
     * made the patch look for either module
 * closes #163 - [Bug 🐞]: SCON+KERB bug
 
+### Add 4.0.99.32
+
+* <AdvancedDroneCores.cfg> v1.0.0.0
+  * [probeStackSmall] - RC-001S Remote Guidance Unit
+  * [probeStackLarge] - RC-L01 Remote Guidance Unit
+  * [mk2DroneCore] - MK2 Drone Core
+
 ### Update 4.0.99.32
 
+* <Recipes.cfg> v4.1.1.2
+* <CrewedPods.cfg> v1.0.2.0
+* <Agents.cfg> v4.0.0.0
+  * localized, since XPL now provides strings
 * <DockingPorts.cfg> v1.0.3.1
   * localized the description supplementer
   * updates #19 - Localization - Master
