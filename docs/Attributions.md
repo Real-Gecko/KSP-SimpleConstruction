@@ -44,8 +44,12 @@ updated: 01 May 2022
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133334-*/"><img border="0" alt="MatterBeam" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-133334.png" width="50" height="50" > MatterBeam</a></li>
 </ul>
 
-### Special Thanks
+### Patrons
 
+  <li><a href="https://www.reddit.com/user/eengie/"><img border="0" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="75" height="75" > eengie</a> for going above and beyond. o7</li>
+
+### Special Thanks
+* 
 * sarbian for [ModuleManager](https://forum.kerbalspaceprogram.com/threads/55219-*).
 * cybutek for [KSP-AVC](https://forum.kerbalspaceprogram.com/threads/79745-*).
 * RoverDude for [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/)
