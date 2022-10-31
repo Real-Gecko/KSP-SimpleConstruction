@@ -305,7 +305,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/ckan.json "CKAN"
 
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/sc "Curseforge"
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/simpleconstruction "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
 [GITHUB:url]: https://github.com/zer0Kerbal/SimpleConstruction/ "GitHub"
