@@ -10,6 +10,41 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## Version 4.0.99.33-prerelease `<B9 no fast builds>` edition
+
+* Released
+  * 08 Nov 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 4.0.99.33
+
+* The CurseForge url has been updated from `\sc` to `\SimpleConstruction`
+* [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
+  * based on work by taniwha, thank you!
+
+### Update 4.0.99.32
+
+* <Recipes.cfg> v4.1.1.2
+* <CrewedPods.cfg> v1.0.2.0
+* <Agents.cfg> v4.0.0.0
+  * localized, since XPL now provides strings
+* <DockingPorts.cfg> v1.0.3.1
+  * localized the description supplementer
+  * updates #19 - Localization - Master
+* Hero Image
+  * was too dark and lacked authors name
+  * closes #172 - 🎨 : Update Hero Image
+
+### Status 4.0.99.32
+
+* Issues
+
+
+
+---
+
 ## Version 4.0.99.32-prerelease `<eengie and TheNamedOyster meets Kerbalism>` edition
 
 * Released
