@@ -413,12 +413,10 @@
 
 ## Version 4.0.99.6-prerelease - `<Out of Dutch>`
 
-### This is PRE-RELEASE - and WILL break saves
-
 * 01 May 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
 
-### Update
+### Update 4.0.99.6
 
 * [ISRU.cfg] v1.1.1.0
   * to all resources
@@ -444,11 +442,11 @@
   * [releaseNotes.md]
 * closes #104 - Drills and ISRU
 
-### Localization
+### Localization 4.0.99.6
 
 * Add
   * Dutch
-    * thank you to GitHub user: [x13x54][x13x54]
+    * thank you to GitHub user: [x13x54](https://github.com/x13x54)!
     * <nl-nl.cfg>
 * updates #19 - Localization - Master
 * closes #27 - Localization - Dutch (Nederlands) <nl-nl.cfg>
