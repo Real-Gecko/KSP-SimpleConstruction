@@ -2,10 +2,8 @@
 permalink: /LegalMumboJumbo.html
 title: Legal Mumbo Jumbo
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
 LegalMumboJumbo.md v1.0.5.0
 SimpleConstruction! (SCON)
@@ -24,8 +22,8 @@ updated: 30 Apr 2022
 
 * Table of Contents
   * [License](#license)
-  * [Forum Post #1](#forum-I)
-  * [Forum Post #2](#forum-II)
+  * [Forum Post #1](#forum-i)
+  * [Forum Post #2](#forum-ii)
 
 ### License
 
