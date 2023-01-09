@@ -1,4 +1,4 @@
-﻿# Changelog  
+# Changelog  
 
 | modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
