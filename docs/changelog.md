@@ -1,10 +1,9 @@
-﻿---
+---
 permalink: /Changelog.html
 title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 SimpleConstruction! (SCON)
@@ -39,7 +38,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
   * based on work by taniwha, thank you!
 * We came to an agreement (many KerboBucks didn't change hands that day) with STEADLER Engineering Corps to allow them to install a virtual workshop in two of their models, the RC-001S Remote Guidance Unit and the RC-L01 Remote Guidance Unit. This virtual workshop allows for unmanned construction, albiet at a slower pace than with a manned construction vessel. We didn't install a speed limiter because we aren't totally afraid of the AI revolution that isn't coming; and no, a non-hostile, non-killer robot AI didn't make me say ....
-* After news was leaked from the STEADLER Engineering Corps about our deal, C7 Aerospace Division may or may not have reverse engineered the technology and may or may not have hacked into their MK2 drone core.
+* After news was leaked from the STEADLER Engineering Corps about our deal, C7 Aerospace Division may or may not have reverse engineered the technology and may or may not have hacked it into their MK2 drone core.
 * As part of this upgrade program, we issued the mk2 pencil and paper to all workshops increasing their base productivity from 0.25 to 0.5; this excludes science labs and other specific parts that have crew capacity but are not command modules.
 
 * Cabin note concerning Kerbalism:
