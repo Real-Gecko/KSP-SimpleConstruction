@@ -25,7 +25,7 @@ This add-on adds one part using stock models and textures
 
 * MicroPad
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/docs/%40thumbs/ELMicroPadSC_icon.png" alt="Micropad" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/docs/thumbs/ELMicroPadSC_icon.png" alt="Micropad" width="25%" height="25%" />
 ---
 
 [top](#part-catalog)

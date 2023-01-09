@@ -1,6 +1,6 @@
-# 1.0.4.0
+# 1.0.5.0
 # created: 05 Feb 2022
-# updated: 01 Oct 2022
+# updated: 05 Oct 2022
 # update checkout to v3.0.2
 # Create Indexes from Markdown
 # https://github.com/DaanV2/Markdown-Action-Create-Indexes
@@ -20,9 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # - uses: actions/checkout@latest
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@main
       # - uses: DaanV2/Markdown-Action-Create-Indexes@latest
-      - uses: DaanV2/Markdown-Action-Create-Indexes@v1.7.0
+      - uses: DaanV2/Markdown-Action-Create-Indexes@main
         with: 
           folder: ${{github.workspace}}/docs/
 
