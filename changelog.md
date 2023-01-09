@@ -22,6 +22,8 @@
 * Gremlin's have been removed from the <ScienceLabs.cfg> v1.0.5.2 that prevented it from functioning as intended. Bad gremlins!
 * The CurseForge url has been updated from `\sc` to `\SimpleConstruction`
 
+<Kerbalism.cfg> // %IgnoreCrewCapacity = False
+<AdvancedDroneCores.cfg>
 
 * [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
 * [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
