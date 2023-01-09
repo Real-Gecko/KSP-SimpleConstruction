@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.33-prerelease `<B9 no fast builds>` edition
+## Version 4.0.99.33-prerelease `<eengie B9 no fast builds>` edition
 
 * Released
   * 08 Nov 2022
@@ -19,7 +19,10 @@
 
 ### Summary 4.0.99.33
 
+* Gremlin's have been removed from the <ScienceLabs.cfg> v1.0.5.2 that prevented it from functioning as intended. Bad gremlins!
 * The CurseForge url has been updated from `\sc` to `\SimpleConstruction`
+
+
 * [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
 * [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
   * based on work by taniwha, thank you!
