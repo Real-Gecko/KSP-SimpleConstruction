@@ -25,6 +25,8 @@
 <Kerbalism.cfg> // %IgnoreCrewCapacity = False
 <AdvancedDroneCores.cfg>
 
+<Tanks.cfg> line 76
+
 * [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
 * [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
   * based on work by taniwha, thank you!
