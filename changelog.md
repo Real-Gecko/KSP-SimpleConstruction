@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.33-prerelease `<eengie B9 no fast builds>` edition
+## Version 4.0.99.33-prerelease `<eengie B9 Combo>` edition
 
 * Released
   * 08 Jan 2023
