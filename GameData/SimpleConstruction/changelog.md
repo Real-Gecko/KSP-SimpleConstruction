@@ -22,10 +22,25 @@
 * Gremlin's have been removed from the <ScienceLabs.cfg> v1.0.5.2 that prevented it from functioning as intended. Bad gremlins!
 * The CurseForge url has been updated from `\sc` to `\SimpleConstruction`
 
-<Kerbalism.cfg> // %IgnoreCrewCapacity = False
-<AdvancedDroneCores.cfg>
-
-<Tanks.cfg> line 76
+* Changes
+  * <Kerbalism.cfg> // %IgnoreCrewCapacity = False
+  * <AdvancedDroneCores.cfg>
+  * <B9TankTypes.cfg> v1.0.3.0
+    * put the tanks on a diet, and now their mass/amounts/prices should fall into 'normal'
+  * <Resources.cfg> v1.0.7.0
+    * had a misplaced :NEEDS statement, which white-outed RocketParts name
+    * had a `%` and `@` convention, the promoters have been sacked. there was much rejoicement.
+  * <DockingPorts.cfg> v1.0.3.2
+    * last change was so successful many built vessel didn't want to leave it's comfortable pad
+    * [ModuleDockingNode]
+      * [undockEjectionForce] now 0.1, up from 0.0
+  * <InterstellarFuelSwitch.cfg> v1.2.0.0
+    * combined two patches
+      * <Interstellar.cfg> and <InterstellarFuelSwitch.cfg>
+      * ...
+  * <Tanks.cfg>
+    * simplified patch that ghosts extra parts if B9PartSwitch or InterstellarFuelSwitch present
+    * It is very much less 'needy' now.
 
 * [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
 * [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
