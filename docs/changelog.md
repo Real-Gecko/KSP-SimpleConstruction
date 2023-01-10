@@ -23,7 +23,7 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.33-prerelease `<eengie B9 no fast builds>` edition
+## Version 4.0.99.33-prerelease `<eengie B9 Combo>` edition
 
 * Released
   * 08 Jan 2023
@@ -1402,3 +1402,4 @@ CC BY-ND 4.0 by zer0Kerbal
 [CRSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "CurseForge"
 
 <!-- CC BY-ND 3.0 Unported by zer0Kerbal>
+
