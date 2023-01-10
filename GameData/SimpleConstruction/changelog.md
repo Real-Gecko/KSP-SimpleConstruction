@@ -10,6 +10,58 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## Version 4.0.99.33-prerelease `<eengie B9 no fast builds>` edition
+
+* Released
+  * 08 Jan 2023
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 4.0.99.33
+
+* Gremlin's have been removed from the <ScienceLabs.cfg> v1.0.5.2 that prevented it from functioning as intended. Bad gremlins!
+* The CurseForge url has been updated from `\sc` to `\SimpleConstruction`
+* [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
+  * based on work by taniwha, thank you!
+* SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
+
+* Changes
+  * <Kerbalism.cfg>
+    * parts have been reminded that live crew is important!
+    * <AdvancedDroneCores.cfg>
+      * %IgnoreCrewCapacity = False
+  * <B9TankTypes.cfg> v1.0.3.0
+    * put the tanks on a diet, and now their mass/amounts/prices should fall into 'normal'
+    * closes #173 - B9 combo tank mass issue(s)
+  * <Resources.cfg> v1.0.7.0
+    * had a misplaced :NEEDS statement, which white-outed RocketParts name
+    * had a `%` and `@` convention, the promoters have been sacked. there was much rejoicement.
+  * <DockingPorts.cfg> v1.0.3.2
+    * last change was so successful many built vessel didn't want to leave it's comfortable pad
+    * [ModuleDockingNode]
+      * [undockEjectionForce] now 0.1, up from 0.0
+  * <InterstellarFuelSwitch.cfg> v1.2.0.0
+    * combined two patches
+      * <Interstellar.cfg> and <InterstellarFuelSwitch.cfg>
+      * ...
+  * <Tanks.cfg>
+    * simplified patch that ghosts extra parts if B9PartSwitch or InterstellarFuelSwitch present
+    * It is very much less 'needy' now.
+  * *and still the tanks don't show in the custom category*
+* Rational Resources now supports SimpleConstruction! (SCON)
+  * closes #37 - Rational Resources support
+* Still no feedback on the stock recycler - will consider a pigeon-holed request for now
+  * closes #40 - Stock Recycler
+
+### Status 4.0.99.33
+
+* Issues
+  * closes #176 - SimpleConstruction!! (SCON) 4.0.99.33-prerelease `<eengie B9 Combo>` edition
+  * closes #177 - 4.0.99.33 Additional Tasks
+
+---
+
 ## Version 4.0.99.32-prerelease `<eengie and TheNamedOyster meets Kerbalism>` edition
 
 * Released
