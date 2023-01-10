@@ -45,100 +45,70 @@ version</p>
 
 <h2 id="summary">Summary</h2>
 <ul>
-<li><p>Kerbalism Compatibility</p></li>
-<li><p>SPECIAL THANK YOU TO <a
-href="https://www.reddit.com/user/eengie/">eengie</a></p></li>
+<li><p>Gremlin's have been removed from the &lt;ScienceLabs.cfg&gt;
+v1.0.5.2 that prevented it from functioning as intended. Bad
+gremlins!</p></li>
+<li><p>The CurseForge url has been updated from <code>\sc</code> to
+<code>\SimpleConstruction</code></p></li>
 <li><p>[Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)</p></li>
-<li><p>[WIP] XPL/SC/NSSC manual * <a
-href="https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html">temporary
-link</a></p>
+<li><p>[WIP] XPL/SC/NSSC manual <a
+href="https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html">link</a></p>
 <ul>
 <li>based on work by taniwha, thank you!</li>
 </ul></li>
-<li><p>We came to an agreement (many KerboBucks didn't change hands)
-with STEADLER Engineering Corps to allow them to install a virtual
-workshop in two of their models, the RC-001S Remote Guidance Unit and
-the RC-L01 Remote Guidance Unit. This virtual workshop allows for
-unmanned construction, albiet at a slower pace than with a manned
-construction vessel. We didn't install a speed limiter because we aren't
-totally afraid of the AI revolution that isn't coming; and no, a
-non-hostile, non-killer robot AI didn't make me say ....</p></li>
-<li><p>After news was leaked from the STEADLER Engineering Corps about
-our deal, C7 Aerospace Division may or may not have reverse engineered
-the technology and may or may not have hacked it into their MK2 drone
-core.</p></li>
-<li><p>As part of this upgrade program, we issued the mk2 pencil and
-paper to all workshops increasing their base productivity from 0.25 to
-0.5; this excludes science labs and other specific parts that have crew
-capacity but are not command modules.</p></li>
-<li><p>Cabin note concerning Kerbalism:</p>
+<li><p>SPECIAL THANK YOU TO <a
+href="https://www.reddit.com/user/eengie/">eengie</a></p></li>
+<li><p>Changes</p>
 <ul>
-<li>Kerbalism compatibility is considered EXPERIMENTAL.</li>
-<li>certain builds may require no RocketParts and time to complete. We
-are aware of this and any assistance with this issue would be
-appreciated.</li>
-</ul></li>
-</ul>
-<h3 id="kerbalism">Kerbalism</h3>
+<li>&lt;Kerbalism.cfg&gt;
 <ul>
-<li>Compatibility
+<li>parts have been reminded that live crew is important!</li>
+<li>&lt;AdvancedDroneCores.cfg&gt;
 <ul>
-<li>NEW: &lt;Kerbalism.cfg&gt; v1.0.0.0</li>
-</ul></li>
-<li>Config
-<ul>
-<li>&lt;Recipies.cfg&gt; v4.1.1.1</li>
-<li>&lt;Resources.cfg&gt; v1.0.6.1</li>
-<li>&lt;ScienceLabs.cfg&gt; v1.0.5.1
-<ul>
-<li>the patch was looking for all parts that have a
-MODULE[ModuleScienceLab], which Kerbalism deleted and replaces with
-MODULE[Laboratory] (and other stuff); <em>i.e.</em> the SC patch finds
-no parts fulfilling it's :NEEDS and does nothing.</li>
-<li>made the patch look for either module</li>
+<li>%IgnoreCrewCapacity = False</li>
 </ul></li>
 </ul></li>
-<li>closes #163 - [Bug 🐞]: SCON+KERB bug</li>
-</ul>
-<h3 id="config">Config</h3>
+<li>&lt;B9TankTypes.cfg&gt; v1.0.3.0
 <ul>
-<li>Add &lt;AdvancedDroneCores.cfg&gt; v1.0.0.0
-<ul>
-<li>[probeStackSmall] - RC-001S Remote Guidance Unit</li>
-<li>[probeStackLarge] - RC-L01 Remote Guidance Unit</li>
-<li>[mk2DroneCore] - MK2 Drone Core</li>
+<li>put the tanks on a diet, and now their mass/amounts/prices should
+fall into 'normal'</li>
 </ul></li>
-</ul>
-<h3 id="update">Update</h3>
+<li>&lt;Resources.cfg&gt; v1.0.7.0
 <ul>
-<li>&lt;Recipes.cfg&gt; v4.1.1.2</li>
-<li>&lt;CrewedPods.cfg&gt; v1.0.2.0</li>
-<li>&lt;Agents.cfg&gt; v4.0.0.0
-<ul>
-<li>localized, since XPL now provides strings</li>
+<li>had a misplaced :NEEDS statement, which white-outed RocketParts
+name</li>
+<li>had a <code>%</code> and <code>@</code> convention, the promoters
+have been sacked. there was much rejoicement.</li>
 </ul></li>
-<li>&lt;DockingPorts.cfg&gt; v1.0.3.1
+<li>&lt;DockingPorts.cfg&gt; v1.0.3.2
 <ul>
-<li>localized the description supplementer</li>
-<li>updates #19 - Localization - Master</li>
+<li>last change was so successful many built vessel didn't want to leave
+it's comfortable pad</li>
+<li>[ModuleDockingNode]
+<ul>
+<li>[undockEjectionForce] now 0.1, up from 0.0</li>
 </ul></li>
-<li>Hero Image
-<ul>
-<li>was too dark and lacked authors name</li>
-<li>closes #172 - 🎨 : Update Hero Image</li>
 </ul></li>
-</ul>
-<h3 id="status">Status</h3>
+<li>&lt;InterstellarFuelSwitch.cfg&gt; v1.2.0.0
 <ul>
-<li>Issues
+<li>combined two patches
 <ul>
-<li>closes #166 - SimpleConstruction! (SCON) 4.0.99.33-prerelease
-<code>&lt;TheNamedOyster&gt;</code> edition</li>
-<li>closes #167 - 4.0.99.33 Verify Legal Mumbo Jumbo</li>
-<li>closes #168 - 4.0.99.33 Update Documentation</li>
-<li>closes #169 - 4.0.99.33 Update Social Media</li>
-<li>updates #173 - B9 combo tank mass issue(s)</li>
+<li>&lt;Interstellar.cfg&gt; and &lt;InterstellarFuelSwitch.cfg&gt;</li>
+<li>...</li>
 </ul></li>
+</ul></li>
+<li>&lt;Tanks.cfg&gt;
+<ul>
+<li>simplified patch that ghosts extra parts if B9PartSwitch or
+InterstellarFuelSwitch present</li>
+<li>It is very much less 'needy' now.</li>
+</ul></li>
+<li><em>and still the tanks don't show in the custom category</em></li>
+</ul></li>
+<li><p>Rational Resources now supports SimpleConstruction!
+(SCON)</p></li>
+<li><p>Still no feedback on the stock recycler - will consider a
+pigeon-holed request for now</p></li>
 </ul>
 <hr />
 <h2 id="see-more">See More</h2>
