@@ -37,7 +37,9 @@ CC BY-ND 4.0 by zer0Kerbal
 
 <Kerbalism.cfg> // %IgnoreCrewCapacity = False
 <AdvancedDroneCores.cfg>
-
+  * <Resources.cfg> v1.0.7.0
+    * had a misplaced :NEEDS statement, which white-outed RocketParts name
+    * had a `%` and `@` convention, the promoters have been sacked. there was much rejoicement.
 <Tanks.cfg> line 76
 
 * [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
@@ -1392,3 +1394,4 @@ CC BY-ND 4.0 by zer0Kerbal
 [CRSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "CurseForge"
 
 <!-- CC BY-ND 3.0 Unported by zer0Kerbal>
+
