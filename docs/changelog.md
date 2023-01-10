@@ -1402,4 +1402,3 @@ CC BY-ND 4.0 by zer0Kerbal
 [CRSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "CurseForge"
 
 <!-- CC BY-ND 3.0 Unported by zer0Kerbal>
-
