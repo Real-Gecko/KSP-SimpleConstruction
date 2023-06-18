@@ -39,7 +39,7 @@ updated: 13 May 2022 -->
 ### Included just in case
 
 * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
-* ![한국어][KO] [Korean (한국어) <ko.cfg>  
+* ![한국어][KO] Korean (한국어) <ko.cfg>  
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Polski][PO] Polish (Polski) <pl.cfg>  
 * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
@@ -65,4 +65,4 @@ updated: 13 May 2022 -->
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
