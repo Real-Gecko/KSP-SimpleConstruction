@@ -27,4 +27,4 @@ updated:
 
 ![cartoon whale illustration, digital art, nature, flying, clouds HD wallpaper](https://c4.wallpaperflare.com/wallpaper/24/616/1007/digital-art-illustration-nature-flying-wallpaper-preview.jpg)
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
