@@ -30,4 +30,4 @@ This add-on adds one part using stock models and textures
 
 [top](#part-catalog)
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
