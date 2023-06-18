@@ -181,7 +181,7 @@
 
 * [Launchpad.dll] 6.99.3
   * minimum KSP version: 1.12.x
-* Compatability patches updated
+* Compatibility patches updated
   * Interstellar
   * InterstellarFuelSwitch
 
