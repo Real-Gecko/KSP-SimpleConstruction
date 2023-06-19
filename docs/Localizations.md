@@ -7,12 +7,15 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 <!-- Localizations.md v1.1.3.0.
 SimpleConstruction! (SCON)
 created: 01 Feb 2020
-updated: 18 Jun 2023 -->
+updated: 18 Jun 2023
 
+TEMPLATE: Localizations.md v1.1.9.0
+created: 01 Feb 2022
+updated: 24 Mar 2023
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<div class="fa-3x">
-  <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
-</div>
+<div class="fa-3x"><i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i></div>
 
 ## [SimpleConstruction! (SCON)][mod]
 
@@ -20,29 +23,29 @@ updated: 18 Jun 2023 -->
 
 ## has been translated into the following languages
 
->* ![English][EN] English
->* ![Dutch][NL] Dutch - courtesy of GitHub user: [x13x54](https://github.com/x13x54)
->* ![Français][FR] French (Français) - courtesy of GitHub user: [izeau (Jean Dupouy)](https://github.com/izeau)
->* ![German][DE] German (Deutsch)
->* ![Chinese][CN] Chinese (简体中文)
->* ***your translation here***
+* ![English][EN] English <us-en.cfg>
+* ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>
+* ![Français][FR] French (Français) <fr-fr.cfg>
+* ![Simplified Chinese (简体中文)][CN] Simplified Chinese (简体中文) <zh-cn.cfg>
 
-### These localizations for KSP and its DLC's are available through Steam
+__These localizations for KSP and its DLC's are available through Steam:__
 
-* ![Español][ES] Spanish (Español) <es-es.cfg>  
-* ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
-* ![日本語][JA] Japanese(日本語) <ja.cfg>  
-* ![Português Brasil][BR] Brazil Portuguese (Português Brasil) <pt-br.cfg>  
-* ![Русский][RU] Russian (Русский) <ru.cfg>  
+* ![Deutsch][DE] German (Deutsch) <de.cfg>
+* ![Español][ES] Spanish (Español) <es-es.cfg>
+* ![Italiano][IT] Italian (Italiano) <it-it.cfg>
+* ![日本語][JA] Japanese(日本語) <ja.cfg>
+* ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>
+* ![Russian (Русский)][RU] Russian (Русский) <ru.cfg>
 
-### Included just in case
+## Additionally Included
 
-* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
-* ![한국어][KO] Korean (한국어) <ko.cfg>  
-* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
-* ![Polski][PO] Polish (Polski) <pl.cfg>  
-* ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
-* ![国语][TW] Taiwanese (国语) <zh-tw.cfg>  
+* ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
+* ![한국어][KO] Korean (한국어) <ko.cfg>
+* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
+* ![Polski][PO] Polish (Polski) <pl.cfg>
+* ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
+* ![Türk][TR] Turkish (Türk) <tr-tr.cfg>
+* ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
@@ -63,5 +66,10 @@ updated: 18 Jun 2023 -->
 [PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png "Polski"
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"
+[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TR.png "Türk"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
