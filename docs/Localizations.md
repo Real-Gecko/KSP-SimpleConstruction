@@ -4,18 +4,17 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- Localizations.md v1.1.5.0
+<!-- Localizations.md v1.1.3.0.
 SimpleConstruction! (SCON)
-created: 01 Feb 2022
-updated: 13 May 2022 -->
+created: 01 Feb 2020
+updated: 18 Jun 2023 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# SimpleConstruction! (SCON)
+## [SimpleConstruction! (SCON)][mod]
 
 [Home](./index.md)
 
