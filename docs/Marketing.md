@@ -2,18 +2,16 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
 ---
-
-<!-- Marketing.md v1.0.0.0
+<!-- Marketing.md v1.1.3.0.
 SimpleConstruction! (SCON)
-created: 13 Apr 2022
-updated: 
+created: 01 Feb 2020
+updated: 18 Jun 2023
 
 based upon work by LisiasT -->
 
-# SimpleConstruction! (SCON)
+## [SimpleConstruction! (SCON)][mod]
 
 [Home](./index.md)
 
@@ -75,4 +73,7 @@ Finalize your build and load up the resources, and
 [IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
 [IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
