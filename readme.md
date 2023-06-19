@@ -14,6 +14,8 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
+![MOD-NAME][SHD:dll]
+
 This addon aims to provide simple craft building capability in flight mode with stock parts and streamlined IRSU mining for Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`MatterBeam`][matterbeam] and then by [`RealGecko`][realgecko]; then previously from [`EricWi`][ericwi]
@@ -260,6 +262,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/Attribution.md "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/changelog.md "Changelog"
 [discu]: https://github.com/zer0Kerbal/SimpleConstruction/discussions "Discussions"
+[fakq]: https://zer0kerbal.github.io/SimpleConstruction/FAKQ "Frequently Asked Kerbal Questions"
 [forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstruction! (SCON)"
 [issue]: https://github.com/zer0Kerbal/SimpleConstruction/issues "GitHub Issues"
 [markt]: https://zer0kerbal.github.io/SimpleConstruction/Marketing "Marketing Slicks"
@@ -267,7 +270,7 @@ Comment, click, like, share, up-vote, subscribe
 [pages]: https://zer0kerbal.github.io/SimpleConstruction "GitHub Pages"
 [parts]: https://zer0kerbal.github.io/SimpleConstruction/PartsCatalog "Parts Catalog"
 
-<!--- mod -->
+<!--- shields -->
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/mod.json
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 [SHD:dll]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/dll.json
