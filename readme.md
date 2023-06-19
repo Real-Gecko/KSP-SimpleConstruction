@@ -100,11 +100,11 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 #### [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
 
->* ![Chinese][CN] Chinese (简体中文)
->* ![Dutch][NL] Dutch
->* ![English][EN] English
->* ![Français][FR] French (Français)
->* ![Português Brasil][BR] Brazilian (Português Brasil)
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
+>* ![Português Brasil](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png) Brazilian (Português Brasil)
+>* ![Chinese](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png) Chinese (简体中文)
+>* ![Dutch](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png) Dutch
+>* ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png) French (Français)
 >* ***your translation here***
 >
 > Kindly help translate [Extraplanetary Launchpads][xpl] by [`taniwha`][taniwha] See above for instructions.  [Github Repo](https://github.com/taniwha/Extraplanetary-Launchpads)
@@ -120,7 +120,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
 > * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quick start guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Installation Directions
@@ -338,6 +338,7 @@ Comment, click, like, share, up-vote, subscribe
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Brazialian (Português Brasil)"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "Simplified Chinese (中文)"
 [DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "danke - German (Deutsch)"
