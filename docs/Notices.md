@@ -2,19 +2,16 @@
 permalink: /Notices.html
 title: Legal Notices
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!--
-Notices.md v1.0.0.0
+<!-- Notices.md v1.1.3.0.
 SimpleConstruction! (SCON)
-created: 13 Apr 2022
-updated: 
+created: 01 Feb 2020
+updated: 18 Jun 2023
 
 based upon work by LisiasT -->
 
-# SimpleConstruction! (SCON)
+## [SimpleConstruction! (SCON)][mod]
 
 [Home](./index.md)
 
@@ -41,4 +38,7 @@ Other trademarks and registered trademarks are the property of the respective tr
 
 © 2011-2022 zer0Kerbal™
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
