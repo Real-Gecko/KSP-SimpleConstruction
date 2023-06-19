@@ -2,10 +2,8 @@
 permalink: /License.html
 title: License - GPL-3.0
 description: when the revolution comes, part deux.... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
 tags: licence,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
 GPL-3.0.md v1.0.1.0
 SimpleConstruction! (SCON)
@@ -14,9 +12,10 @@ updated:
 -->
 <img src="https://www.gnu.org/graphics/GPL-3.0-127x51.png" alt=" [GPL-3.0 Logo] " style="zoom:75%;" />
 
-# SimpleConstruction! (SCON)
+## [SimpleConstruction! (SCON)][mod]
+
 * Copyright © (c) 2016 Alexandr Bezenkov
-* Copyright © (c) 2020, 2021, 2022 zer0Kerbal
+* Copyright © (c) 2020, 2021, 2022 and 2023 zer0Kerbal
 
 ## GNU General Public License version 3
 
@@ -27,14 +26,6 @@ License Contact: Free Software Foundation ([fsf.org](https://fsf.org/)).
 SPDX short identifier: GPL-3.0-only
 
 Further resources...
-
- 
-
-------
-
-*Begin license text.*
-
-------
 
 **Preamble**
 
@@ -52,7 +43,7 @@ Developers that use the GNU GPL protect your rights with two steps: (1) assert c
 
 For the developers' and authors' protection, the GPL clearly explains that there is no warranty for this free software. For both users' and authors' sake, the GPL requires that modified versions be marked as changed, so that their problems will not be attributed erroneously to authors of previous versions.
 
-Some devices are designed to deny users access to install or run modified versions of the software inside them, although the manufacturer can do so. This is fundamentally incompatible with the aim of protecting users' freedom to change the software. The systematic pattern of such abuse occurs in the area of products for individuals to use, which is precisely where it is most unacceptable. Therefore, we have designed this version of the GPL to prohibit the practice for those products. If such problems arise substantially in other domains, we stand ready to extend this provision to those domains in future versions of the GPL, as needed to protect the freedom of users.
+Some devices are designed to deny users access to install or run modified versions of the software inside them, although the manufacturer can do so. This is fundamentally incompatible with the aim of protecting users' freedom to change the software. The systematic pattern of such abuse occurs in the area of products for individuals to use, which is precisely where it is most unacceptable. Therefore, we have designed this version of the GPL to prohibit the practice for those products. If such problems 7arise substantially in other domains, we stand ready to extend this provision to those domains in future versions of the GPL, as needed to protect the freedom of users.
 
 Finally, every program is threatened constantly by software patents. States should not allow patents to restrict development and use of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program could make it effectively proprietary. To prevent this, the GPL assures that patents cannot be used to render the program non-free.
 
@@ -237,4 +228,7 @@ If the disclaimer of warranty and limitation of liability provided above cannot 
 
 END OF TERMS AND CONDITIONS
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
