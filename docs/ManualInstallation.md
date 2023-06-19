@@ -28,23 +28,23 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the ExtraplanetaryLaunchpads AND SimpleConstruction folders inside your Kerbal Space Program's GameData folder:
+To install, place the `ExtraplanetaryLaunchpads` AND `SimpleConstruction` folders inside your Kerbal Space Program's GameData folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/ExtraplanetaryLaunchpads` AND `<KSP_ROOT>/GameData/SimpleConstruction`
-* Extract the package's `SimpleConstruction/` folder into your KSP's as follows:
-  * `<PACKAGE>/SimpleConstruction` --> `<KSP_ROOT>/GameData`
-    * Overwrite any preexisting file.
 * Extract the package's `ExtraplanetaryLaunchpads/` folder into your KSP's as follows:
   * `<PACKAGE>/ExtraplanetaryLaunchpads` --> `<KSP_ROOT>/GameData`
+    * Overwrite any preexisting file.
+* Extract the package's `SimpleConstruction/` folder into your KSP's as follows:
+  * `<PACKAGE>/SimpleConstruction` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
   * you should end up with `<KSP_ROOT>/GameData/ExtraplanetaryLaunchpads` AND `<KSP_ROOT>/GameData/SimpleConstruction`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/ExtraplanetaryLaunchpads` AND `<KSP_ROOT>/GameData/SimpleConstruction`
 * Extract the package's `GameData` folder into your KSP's as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
@@ -57,18 +57,19 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [ExtraplanetaryLaunchpads]
-      + [Localization]
+      + [Textures]
+        * plaque.png
+        * ELGenericCraftThumb.png
+        * icon_button.png
+        * icon_filter_n.png
+        * icon_filter_s.png
         ...
-      + [Texture]
-        ...
-      + [UI]
-        ...
-      * License.txt
-      * License-KS.txt
     + [SimpleConstruction]
       + [Agencies]
         ...
       + [Compatibility]
+        ...
+      + [Config]
         ...
       + [Contracts]
         ...
@@ -83,14 +84,20 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
         * Launchpad.dll
         * License.txt
         * License-KS.txt
+      + [Textures]
+        ...
+      + [UI]
         ...
       * #.#.#.#.htm
+      * Attributions.htm
       * changelog.md
-      * GPL-3.0.txt
+      * GPL-3.0+ARR.txt
+      * ManualInstallation.htm
       * readme.htm
       * SimpleConstruction.version
     ...
-    * [Module Manager][mm] or [Module Manager /L][mml]
+    * [ModularManagement] or [Module Manager]
+    * ModuleManager.ConfigCache
   * KSP.log
   ...
 ```
