@@ -5,16 +5,16 @@ description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
-LegalMumboJumbo.md v1.0.5.0
+LegalMumboJumbo.md v1.1.3.0.
 SimpleConstruction! (SCON)
-created: 01 Feb 2022
-updated: 30 Apr 2022
+created: 01 Feb 2020
+updated: 18 Jun 2023
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# SimpleConstruction! (SCON)
+## [SimpleConstruction! (SCON)][mod]
 
 [Home](/index.md)
 
