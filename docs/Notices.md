@@ -9,20 +9,31 @@ SimpleConstruction! (SCON)
 created: 01 Feb 2020
 updated: 18 Jun 2023
 
+TEMPLATE: Notices.md v1.0.3.0
+created: 13 Apr 2022
+updated: 13 Jun 2023
+
 based upon work by LisiasT -->
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
 ## [SimpleConstruction! (SCON)][mod]
 
 [Home](./index.md)
 
-## Trademarks
+## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
 * "SimpleConstruction!" is trademark of MatterBeam
+* "Kairyuu Shipping" is trademark of taniwha
 * "Extraplanetary Launchpads" is trademark of taniwha
-* SCON and SCON! are trademarks of zer0Kerbal
-* Kerbal Simple Co is a trademark of zer0Kerbal
-* KerbSimCo is a trademark of zer0Kerbal
-* zer0Kerbal is trademark of zer0kerbal
+* SCON and SCON! are trademarks of [zer0Kerbal][zedk]
+* Kerbal Simple Co is a trademark of [zer0Kerbal][zedk]
+* KerbSimCo is a trademark of [zer0Kerbal][zedk]
+* zed'k, zedK and zer0Kerbal is trademark of [zer0Kerbal][zedk]
+
+## Kairyuu Shipping
+
+* "Kairyuu Shipping" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo)
 
@@ -36,9 +47,10 @@ based upon work by LisiasT -->
 
 Other trademarks and registered trademarks are the property of the respective trademark holders.
 
-© 2011-2022 zer0Kerbal™
+© ™ 2011-2023 [zer0Kerbal™][zedk]
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
+[zedk]: https://github.com/zer0Kerbal "zer0Kerbal"
 [mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
