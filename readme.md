@@ -54,14 +54,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Cabin notes by [zer0Kerbal][zedk]
 
-* Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
-* `WIP` - work in progress
-* Am open to adding more features, great project for someone!
+* Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease and so new prereleases ONLY available on [CurseForge][CURSFG:url]
 * I have not personally tested the patches
 * Known issue(s)
   * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
   * Kerbalism compatibility is considered EXPERIMENTAL.
   * certain builds may require no RocketParts and time to complete. We are aware of this and any assistance with this issue would be appreciated.
+  * most images/shields are also links.
 
 ### See More
 
