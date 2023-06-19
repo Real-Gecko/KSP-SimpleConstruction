@@ -6,25 +6,41 @@ description: an error page, the sequel
 tags: error,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- FAKQ.md v1.0.3.1
+<!-- FAKQ.md v1.1.3.0.
 SimpleConstruction! (SCON)
-created: 12 Dec 2021
-updated: 
+created: 01 Feb 2020
+updated: 18 Jun 2023
+
+TEMPLATE: FAKQ.md v1.0.0.0
+created: 01 Apr 2022
+updated: 30 Apr 2023
 -->
-
-<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 
-# 404 - Kerbal Not Found
-
-## Launch error : Bill is out to launch (oops lunch)
-
-*but we did find a Petunia and a Whale*
+## [SimpleConstruction! (SCON)][mod]
 
 [Home](./index.md)
 
+## Frequently Asked Kerbal Questions **FAK** by [`zeroKerbal`](https://github.com/zer0Kerbal)
+
+### Q: What is and how to use the MicroPad?  
+
+> [MicroPad](MicroPad.md)
+
+### Q: My base/lander/drill is running away!  
+
+> [Runaway](Runaway.md)
+
+### Q: This mod is awful!
+
+> That isn't a question.
+
+For those questioning the grips on my reality, please click [here](https://forum.kerbalspaceprogram.com/)
+
 ---
 
-![cartoon whale illustration, digital art, nature, flying, clouds HD wallpaper](https://c4.wallpaperflare.com/wallpaper/24/616/1007/digital-art-illustration-nature-flying-wallpaper-preview.jpg)
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
