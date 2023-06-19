@@ -2,13 +2,48 @@
 
 | modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPL-3.0+ARR                                                         |
+| license    | GPL-3.0+ARR                                                       |
 | author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)    |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
+
+## Version 4.0.99.34-prerelease `<eengie B9 Combo>` edition
+
+* 📌 Pinned
+  * Dependencies:
+    * [SimpleConstruction (ABBV)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
+* The CurseForge url has been updated from `\sc` to `\SimpleConstruction`
+* [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
+  * based on work by taniwha, thank you!
+
+  * Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
+  * new prereleases of SimpleConstruction! (SCON) ONLY available on [CurseForge][CURSFG:url]
+  * Known issue(s)
+    * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
+    * Kerbalism compatibility is considered EXPERIMENTAL.
+    * certain builds may require no RocketParts and time to complete. We are aware of this and any assistance with this issue would be appreciated.
+  
+
+* SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
+
+
+
+### This is PRE-RELEASE - and MIGHT break saves *(but probably won't)*
+
+>* meaning things have changed, including file names - delete `GameData/ExtraplanetaryLaunchpads` and `GameData/SimpleConstruction` folders - THEN install new version
+
+* Released
+  * 18 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 4.0.99.33
+
+---
 
 ## Version 4.0.99.33-prerelease `<eengie B9 Combo>` edition
 
