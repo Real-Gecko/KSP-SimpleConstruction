@@ -238,12 +238,11 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 >
 > [Thread][0:thr]  - [SpaceDock][0:dnl] - Source: [GitHub][0:src]  
 > License: [![License][0:shd]][0:url] [![License][0:log]][0:url]
+>
+> This mod contains [`taniwha`][taniwha]'s Launchpad.dll and textures licensed from [Extraplanetary Launchpads][xpl].
 
 #### Disclaimer(s)
 
-> This mod contains [`taniwha`][taniwha]'s Launchpad.dll and textures licensed from [Extraplanetary Launchpads][xpl].
->
->
 >* ***All bundled mods are distributed under their own licenses***  
 >* ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses. [![License][LIC:sp:shd]][LIC:sp:url]***
 >
