@@ -90,11 +90,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 #### [SimpleConstruction!][forum]
 
->* ![English][EN] English
->* ![Dutch][NL] Dutch - bedankt [x13x54](https://github.com/x13x54)
->* ![Français][FR] French (Français) - merci beaucoup [izeau (Jean Dupouy)](https://github.com/izeau)
->* ![(Deutsch)][DE] German (Deutsch) - danke *unknown*
->* ![Chinese (简体中文)][CN] Chinese (简体中文) - xièxiè - *wèizhī* (谢谢 - 未知)
+>* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
+>* ![Dutch](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png) Dutch - bedankt [x13x54](https://github.com/x13x54)
+>* ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français) - merci beaucoup [izeau (Jean Dupouy)](https://github.com/izeau)
+>* ![Chinese (简体中文)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png) Chinese (简体中文) - xièxiè - *wèizhī* (谢谢 - 未知)
 >* ***your translation here***
 
 #### [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
