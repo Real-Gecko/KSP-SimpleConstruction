@@ -2,18 +2,19 @@
 permalink: /ManualInstallation.html
 title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.7.0
+<!-- ManualInstallation.md v1.1.3.0.
 SimpleConstruction! (SCON)
-created: 01 Oct 2019
-updated: 18 Apr 2022 -->
+created: 01 Feb 2020
+updated: 18 Jun 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.1
+created: 01 Feb 2022
+updated: 26 Apr 2023
 
-# SimpleConstruction! (SCON)
+based upon work by Lisias -->
+## [SimpleConstruction! (SCON)][mod]
 
 [Home](./index.md)
 
@@ -27,23 +28,23 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the ExtraplanetaryLaunchpads AND SimpleConstruction folders inside your Kerbal Space Program's GameData folder:
+To install, place the `ExtraplanetaryLaunchpads` AND `SimpleConstruction` folders inside your Kerbal Space Program's GameData folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/ExtraplanetaryLaunchpads` AND `<KSP_ROOT>/GameData/SimpleConstruction`
-* Extract the package's `SimpleConstruction/` folder into your KSP's as follows:
-  * `<PACKAGE>/SimpleConstruction` --> `<KSP_ROOT>/GameData`
-    * Overwrite any preexisting file.
 * Extract the package's `ExtraplanetaryLaunchpads/` folder into your KSP's as follows:
   * `<PACKAGE>/ExtraplanetaryLaunchpads` --> `<KSP_ROOT>/GameData`
+    * Overwrite any preexisting file.
+* Extract the package's `SimpleConstruction/` folder into your KSP's as follows:
+  * `<PACKAGE>/SimpleConstruction` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
   * you should end up with `<KSP_ROOT>/GameData/ExtraplanetaryLaunchpads` AND `<KSP_ROOT>/GameData/SimpleConstruction`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/ExtraplanetaryLaunchpads` AND `<KSP_ROOT>/GameData/SimpleConstruction`
 * Extract the package's `GameData` folder into your KSP's as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
@@ -56,18 +57,19 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [ExtraplanetaryLaunchpads]
-      + [Localization]
+      + [Textures]
+        * plaque.png
+        * ELGenericCraftThumb.png
+        * icon_button.png
+        * icon_filter_n.png
+        * icon_filter_s.png
         ...
-      + [Texture]
-        ...
-      + [UI]
-        ...
-      * License.txt
-      * License-KS.txt
     + [SimpleConstruction]
       + [Agencies]
         ...
       + [Compatibility]
+        ...
+      + [Config]
         ...
       + [Contracts]
         ...
@@ -82,23 +84,32 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
         * Launchpad.dll
         * License.txt
         * License-KS.txt
+      + [Textures]
+        ...
+      + [UI]
         ...
       * #.#.#.#.htm
+      * Attributions.htm
       * changelog.md
-      * GPL-3.0.txt
+      * GPL-3.0+ARR.txt
+      * ManualInstallation.htm
       * readme.htm
       * SimpleConstruction.version
     ...
-    * [Module Manager][mm] or [Module Manager /L][mml]
+    * [ModularManagement] or [Module Manager]
+    * ModuleManager.ConfigCache
   * KSP.log
   ...
 ```
 
 ### Dependencies
 
-* *either*
-  * [Module Manager][mm]
-  * [Module Manager /L][mml]
+* [ModularManagement][MM] or [Module Manager][omm]
 
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
+[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"

@@ -2,72 +2,97 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
-tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
+tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- Marketing.md v1.0.0.0
+<!-- Marketing.md  v1.1.3.0.
 SimpleConstruction! (SCON)
+created: 01 Feb 2020
+updated: 18 Jun 2023
+
+TEMPLATE: Marketing.md v1.0.3.0
 created: 13 Apr 2022
-updated: 
+updated: 26 Apr 2023
 
-based upon work by LisiasT -->
+based upon work by Lisias
 
-# SimpleConstruction! (SCON)
+this file:
+    CC BY-ND 4.0 by zer0Kerbal
+    and used with express permission from zer0Kerbal -->
+
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
+
+# [MOD-NAME (ABBV)][mod] [WIP]
 
 [Home](./index.md)
 
-## Table of Contents
+## Marketing Slicks
+<!-- no toc -->
+* Table of Contents
+  * [Family Photo](#family-photo)
+  * [Mining Ore](#mining-ore)
+  * [Refining Ore to Metal](#refining-ore-to-metal)
+  * [Printing Rocketparts from Metal](#printing-rocketparts-from-metal)
+  * [Building Rockets](#building-rockets)
+  * [Finalize build](#finalize-build)
+  * [Base](#base)
+  * [Just a cool image](#just)
 
-* Marketing Slicks
-  * [Resource Flow](#Resource-Flow)
-  * [Mining Ore](#Mining-Ore)
-  * [Refining Ore to Metal](#Refining-Ore-to-Metal)
-  * [Printing Rocketparts from Metal](#Printing-Rocketparts-from-Metal)
-  * [Building Rockets](#Building-Rockets)
-  * [Finalize build](#Finalize-build)
+### Family Photo
 
-## Resource Flow
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/docs/Marketing/HERO-01.png" alt="Fuel Tanks Plus" width="100%" height="100%">
 
 ![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
-[top](#table-of-contents)
+[top](#marketing-slicks)
 
-## Mining Ore
+### Mining Ore
 
 First mine the ore *(after you find it)*
 
 ![Mining Ore][IMG:hero:2a]
-[top](#table-of-contents)
+[top](#marketing-slicks)
 
-## Refining Ore to Metal
+### Refining Ore to Metal
 
 Then refine the ore into metal
 
 ![Refining Ore to Metal][IMG:hero:2b]
-[top](#table-of-contents)
+[top](#marketing-slicks)
 
-## Printing Rocketparts from Metal
+### Printing Rocketparts from Metal
 
 Then using the MPL Science lab, print Rocket Parts
 
 ![Printing Rocketparts from Metal][IMG:hero:2c]
-[top](#table-of-contents)
+[top](#marketing-slicks)
 
-## Building Rockets
+### Building Rockets
 
 Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
 
 ![Building Rockets][IMG:hero:2d]
-[top](#table-of-contents)
+[top](#marketing-slicks)
 
-## Finalize build
+### Finalize build
 
 Finalize your build and load up the resources, and
 
 *PROFIT!*
 
 ![Finalize build!][IMG:hero:2e]
-[top](#table-of-contents)
+[top](#marketing-slicks)
+
+### Base
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/docs/Marketing/HBOzufJ.png" alt="Base" width="100%" height="100%">
+
+[top](#marketing-slicks)
+
+### Just a cool photo
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/docs/Marketing/SimpleConstructionHero0.jpg" alt="Just a Cool Photo" width="100%" height="100%">
+
+[top](#marketing-slicks)
 
 [IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
 [IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
@@ -75,4 +100,7 @@ Finalize your build and load up the resources, and
 [IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
 [IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"

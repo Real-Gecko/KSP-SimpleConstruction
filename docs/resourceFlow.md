@@ -4,18 +4,16 @@ title: Resource Flow
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present, the missing half
 tags: resource,flow,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!--
-resourceFlow.md v1.0.1.0
+<!--resourceFlow.md v1.1.3.0.
 SimpleConstruction! (SCON)
-created: 26 Feb 2022
-updated: 26 Feb 2022
+created: 01 Feb 2020
+updated: 18 Jun 2023
 -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# SimpleConstruction! (SCON)
+## [SimpleConstruction! (SCON)][mod]
 
 [Home](/index.md)
 
@@ -35,4 +33,7 @@ updated: 26 Feb 2022
       Workshop-->Profit
 ```
 
-<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
