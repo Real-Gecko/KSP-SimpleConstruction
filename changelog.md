@@ -10,6 +10,131 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## Version 4.0.99.34-prerelease `<Preventative Maintenance>` edition
+
+* 📌 Pinned
+  * new prereleases of SimpleConstruction! (SCON) ONLY available on [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
+  * Dependencies:
+    * [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+* [Launchpad.dll] 6.99.3 PRERELEASe (minimum KSP version: 1.12.x)
+  * SCON will remain prerelease until [taniwha](https://github.com/taniwha) releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html) and is based on work by taniwha, thank you!
+  * Known issue(s)
+    * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`](https://github.com/taniwha)
+    * Kerbalism compatibility is considered EXPERIMENTAL.
+    * bypassing the PD Launcher for starting the game might result
+      * builds may require no RocketParts and time to complete
+      * other odd behavior
+      * We are aware of this and any assistance with this issue would be appreciated.
+  * SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
+
+### This is PRE-RELEASE - and MIGHT break saves *(but probably won't)*
+
+>* meaning things have changed, including file names - delete `GameData/ExtraplanetaryLaunchpads` and `GameData/SimpleConstruction` folders - THEN install new version
+
+* Released
+  * 18 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 4.0.99.34
+
+* General linting and preventative maintenance
+* Update pass on all passes
+* Synchronized all localization files (not xpl-*.cfg)
+* More Gremlin's have been removed from the prevented the Laboratory from printing RocketParts Bad gremlins!
+* NEW: compatibility
+  * [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
+  * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities)
+  * [Special Parts Division (SPD)](https://curseforge.com/kerbal/ksp-mods/SpecialPartsDivision)
+
+### Changes 4.0.99.34
+
+#### Issues 4.0.99.34
+
+* `Restart Build` button bug
+  * informed XPL author of issue
+  * closes #148 - [Bug 🐞]: Restart build button bug
+* B9Part Switch throwing tantrum concerning KDMetalOre resource not found
+  * addressed issue in Keridian Dyanamics (KDVA)
+  * closes #186 - [Bug 🐞]: B9 Part switch not being able to load KDMmetalOre
+* Kerbalism Laboratory not able to print RocketParts
+  * issue is resolved by updating the Kerbalism compatibility patch
+  * closes #184 - ISRU with SCON and Kerbalism.
+
+#### Compatibility 4.0.99.34
+
+* Add
+  * [BehemothAerospaceEngineering.cfg] v1.0.0.0
+  * Klockheed Martian: [AsteroidCities.cfg] v1.0.0.0
+  * Klockheed Martian: [SpecialPartsDivision.cfg] v1.0.0.0
+* Update
+  * general linting and modernization
+  * B9PartSwitch/
+    * [B9PartSwitch\B9TankTypes.cfg] v1.0.3.1
+    * [B9PartSwitch\B9TankSwitch.cfg] v1.0.4.0
+  * KerbalPlanetaryBaseSystems/
+    * [KerbalPlanetaryBaseSystems.cfg] v1.0.2.2
+    * [Smelter.cfg] v1.0.3.2
+    * [Workshop.cfg] v1.0.2.0
+  * [USI-Kontainers.cfg] v1.0.1.0
+  * [CommunityCategoryKit.cfg] v1.0.1.0
+  * [Foundations.cfg] v1.0.1.0
+  * [InterstellarFuelSwitch.cfg] v1.2.1.0
+  * [KerbalInventorySystem.cfg] v1.0.0.2
+  * [Kerbalism.cfg] v1.0.1.0
+  * [StationPartsExpansionRedux.cfg] v1.0.1.0
+
+#### Localization 4.0.99.34
+
+* Add
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * header, give credit, lint, reorganize, add
+  * [de.cfg] v1.0.3.0
+  * [en-us.cfg] v1.2.4.0
+  * [fr-fr.cfg] v1.0.3.0
+  * [nl-nl.cfg] v1.0.3.0
+  * [zh-cn.cfg] v1.0.3.0
+* updates #18 - Localization - English <en-us.cfg>
+* updates #19 - Localization - Master
+* Updates #21 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #27 - Localization - Dutch (Nederlands) <nl-nl.cfg>
+* updates #31 - Localization - French (Français) <fr-fr.cfg>
+* Updates #34 - Localization - German (Deutsch) <de.cfg>
+
+#### Documentation 4.0.99.34
+
+* Add
+  * [FAKQ.md] v1.0.0.0
+* Update
+  * [_config.yml] v1.1.3.0
+  * [404.md] v1.1.3.0
+  * [Attributions.md] v1.1.3.0
+  * [LegalMumboJumbo.md] v1.1.3.0
+  * [Localizations.md] v1.1.3.0
+  * [ManualInstallation.md] v1.1.3.0
+  * [Marketing.md] v1.1.3.0
+  * [Notices.md] v1.1.3.0
+  * [PartsCatalog.md] v1.1.3.0
+  * [resourceFlow.md] v1.1.3.0
+  * [Why.md] v1.1.3.0
+  * [readme.md] v4.0.99.34
+  * [releaseNotes.md] v4.0.99.34
+* Replace empty file
+  * [4.0.99.31.md]
+
+### Status 4.0.99.34
+
+* Issues
+  * closes #180 - SimpleConstruction! (SCON) 4.0.99.34-prerelease `<Preventative Maintenance>` edition
+  * closes #181 - 4.0.99.34 Additional Tasks
+
+---
+
 ## Version 4.0.99.33-prerelease `<eengie B9 Combo>` edition
 
 * Released
