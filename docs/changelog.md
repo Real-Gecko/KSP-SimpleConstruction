@@ -56,6 +56,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * General linting and preventative maintenance
 * Update pass on all passes
 * Synchronized all localization files (not xpl-*.cfg)
+* More Gremlin's have been removed from the prevented the Laboratory from printing RocketParts Bad gremlins!
 * NEW: compatibility
   * [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
   * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities)
@@ -140,7 +141,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Replace empty file
   * [4.0.99.31.md]
 
-### Issues 4.0.99.34
+### Status 4.0.99.34
 
 * Issues
   * closes #180 - SimpleConstruction! (SCON) 4.0.99.34-prerelease `<Preventative Maintenance>` edition
