@@ -10,27 +10,24 @@
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
-## Version 4.0.99.34-prerelease `<eengie B9 Combo>` edition
+## Version 4.0.99.34-prerelease `<Preventative Maintenance>` edition
 
 * 📌 Pinned
-  * Dependencies:
-    * [SimpleConstruction (ABBV)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
-* The CurseForge url has been updated from `\sc` to `\SimpleConstruction`
-* [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x)
-* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
-  * based on work by taniwha, thank you!
-
-  * Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
   * new prereleases of SimpleConstruction! (SCON) ONLY available on [CurseForge][CURSFG:url]
+  * Dependencies:
+    * [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
+* [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x) PRERELEASE
+  * SCON will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html) and is based on work by taniwha, thank you!
   * Known issue(s)
     * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
     * Kerbalism compatibility is considered EXPERIMENTAL.
-    * certain builds may require no RocketParts and time to complete. We are aware of this and any assistance with this issue would be appreciated.
-  
-
-* SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
-
-
+    * bypassing the PD Launcher for starting the game might result
+      * builds may require no RocketParts and time to complete
+      * other odd behavior
+      * We are aware of this and any assistance with this issue would be appreciated.
+  * SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
 
 ### This is PRE-RELEASE - and MIGHT break saves *(but probably won't)*
 
@@ -42,6 +39,14 @@
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ### Change Summary 4.0.99.34
+
+* General linting and preventative maintenance
+* Update pass on all passes
+* Synchronized all localization files (not xpl-*.cfg)
+* NEW: compatibility
+  * [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
+  * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities)
+  * [Special Parts Division (SPD)](https://curseforge.com/kerbal/ksp-mods/SpecialPartsDivision)
 
 #### Compatibility 4.0.99.34
 
