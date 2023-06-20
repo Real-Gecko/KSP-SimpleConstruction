@@ -17,7 +17,7 @@
   * Dependencies:
     * [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
     * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
-* [Launchpad.dll] 6.99.3 (minimum KSP version: 1.12.x) PRERELEASE
+* [Launchpad.dll] 6.99.3 PRERELEASe (minimum KSP version: 1.12.x)
   * SCON will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
 * [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html) and is based on work by taniwha, thank you!
   * Known issue(s)
@@ -48,13 +48,90 @@
   * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities)
   * [Special Parts Division (SPD)](https://curseforge.com/kerbal/ksp-mods/SpecialPartsDivision)
 
+### Changes 4.0.99.34
+
+#### Issues 4.0.99.34
+
+* `Restart Build` button bug
+  * informed XPL author of issue
+  * closes #148 - [Bug 🐞]: Restart build button bug
+* B9Part Switch throwing tantrum concerning KDMetalOre resource not found
+  * addressed issue in Keridian Dyanamics (KDVA)
+  * closes #186 - [Bug 🐞]: B9 Part switch not being able to load KDMmetalOre
+* Kerbalism Laboratory not able to print RocketParts
+  * issue is resolved by updating the Kerbalism compatibility patch
+  * closes #184 - ISRU with SCON and Kerbalism.
+
 #### Compatibility 4.0.99.34
 
 * Add
   * [BehemothAerospaceEngineering.cfg] v1.0.0.0
-  * Klockheed Martian
-    * [AsteroidCities.cfg] v1.0.0.0
-    * [SpecialPartsDivision.cfg] v1.0.0.0
+  * Klockheed Martian: [AsteroidCities.cfg] v1.0.0.0
+  * Klockheed Martian: [SpecialPartsDivision.cfg] v1.0.0.0
+* Update
+  * general linting and modernization
+  * B9PartSwitch/
+    * [B9PartSwitch\B9TankTypes.cfg] v1.0.3.1
+    * [B9PartSwitch\B9TankSwitch.cfg] v1.0.4.0
+  * KerbalPlanetaryBaseSystems/
+    * [KerbalPlanetaryBaseSystems.cfg] v1.0.2.2
+    * [Smelter.cfg] v1.0.3.2
+    * [Workshop.cfg] v1.0.2.0
+  * [USI-Kontainers.cfg] v1.0.1.0
+  * [CommunityCategoryKit.cfg] v1.0.1.0
+  * [Foundations.cfg] v1.0.1.0
+  * [InterstellarFuelSwitch.cfg] v1.2.1.0
+  * [KerbalInventorySystem.cfg] v1.0.0.2
+  * [Kerbalism.cfg] v1.0.1.0
+  * [StationPartsExpansionRedux.cfg] v1.0.1.0
+
+#### Localization 4.0.99.34
+
+* Add
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * header, give credit, lint, reorganize, add
+  * [de.cfg] v1.0.3.0
+  * [en-us.cfg] v1.2.4.0
+  * [fr-fr.cfg] v1.0.3.0
+  * [nl-nl.cfg] v1.0.3.0
+  * [zh-cn.cfg] v1.0.3.0
+* updates #18 - Localization - English <en-us.cfg>
+* updates #19 - Localization - Master
+* Updates #21 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #27 - Localization - Dutch (Nederlands) <nl-nl.cfg>
+* updates #31 - Localization - French (Français) <fr-fr.cfg>
+* Updates #34 - Localization - German (Deutsch) <de.cfg>
+
+#### Documentation 4.0.99.34
+
+* Add
+  * [FAKQ.md] v1.0.0.0
+* Update
+  * [_config.yml] v1.1.3.0
+  * [404.md] v1.1.3.0
+  * [Attributions.md] v1.1.3.0
+  * [LegalMumboJumbo.md] v1.1.3.0
+  * [Localizations.md] v1.1.3.0
+  * [ManualInstallation.md] v1.1.3.0
+  * [Marketing.md] v1.1.3.0
+  * [Notices.md] v1.1.3.0
+  * [PartsCatalog.md] v1.1.3.0
+  * [resourceFlow.md] v1.1.3.0
+  * [Why.md] v1.1.3.0
+  * [readme.md] v4.0.99.34
+  * [releaseNotes.md] v4.0.99.34
+* Replace empty file
+  * [4.0.99.31.md]
+
+### Issues 4.0.99.34
+
+* Issues
+  * closes #180 - SimpleConstruction! (SCON) 4.0.99.34-prerelease `<Preventative Maintenance>` edition
+  * closes #181 - 4.0.99.34 Additional Tasks
 
 ---
 
