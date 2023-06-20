@@ -183,15 +183,18 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 #### Supports
 
+* [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities)
+* [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
 * [Blizzy's Toolbar](https://forum.kerbalspaceprogram.com/index.php?/topic/161857-*/)
 * [Community Resource Pack](https://legacy.curseforge.com/kerbal/ksp-mods/community-resource-pack)
 * [Extraplanetary Launchpads - No More Production](https://github.com/theRagingIrishman/USI_EL)
 * [Kerbal Planetary Base Systems (KPBS)](https://curseforge.com/kerbal/ksp-mods/kerbal-planetary-base-systems)
 * [Kerbalism (kerb)](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*/) - Experimental
 * [Kethane/KethanePlus](http://forum.kerbalspaceprogram.com/index.php?/topic/119480-*/)
+* [Special Parts Division (SPD)](https://curseforge.com/kerbal/ksp-mods/SpecialPartsDivision)
+* [Station Parts Expansion Redux (SSPX)](https://curseforge.com/kerbal/ksp-mods/stockalike-station-parts-expansion-redux)
 * [Toolbar Controller](https://forum.kerbalspaceprogram.com/index.php?/topic/169509-*/)
 * [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
-* [Station Parts Expansion Redux (SSPX)](https://curseforge.com/kerbal/ksp-mods/stockalike-station-parts-expansion-redux)
 
 #### Conflicts
 

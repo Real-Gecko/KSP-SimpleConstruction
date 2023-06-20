@@ -2,13 +2,139 @@
 
 | modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPL-3.0                                                           |
+| license    | GPL-3.0+ARR                                                       |
 | author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)    |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
+
+## Version 4.0.99.34-prerelease `<Preventative Maintenance>` edition
+
+* 📌 Pinned
+  * new prereleases of SimpleConstruction! (SCON) ONLY available on [CurseForge][CURSFG:url]
+  * Dependencies:
+    * [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
+* [Launchpad.dll] 6.99.3 PRERELEASe (minimum KSP version: 1.12.x)
+  * SCON will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html) and is based on work by taniwha, thank you!
+  * Known issue(s)
+    * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
+    * Kerbalism compatibility is considered EXPERIMENTAL.
+    * bypassing the PD Launcher for starting the game might result
+      * builds may require no RocketParts and time to complete
+      * other odd behavior
+      * We are aware of this and any assistance with this issue would be appreciated.
+  * SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
+
+### This is PRE-RELEASE - and MIGHT break saves *(but probably won't)*
+
+>* meaning things have changed, including file names - delete `GameData/ExtraplanetaryLaunchpads` and `GameData/SimpleConstruction` folders - THEN install new version
+
+* Released
+  * 18 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 4.0.99.34
+
+* General linting and preventative maintenance
+* Update pass on all passes
+* Synchronized all localization files (not xpl-*.cfg)
+* More Gremlin's have been removed from the prevented the Laboratory from printing RocketParts Bad gremlins!
+* NEW: compatibility
+  * [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
+  * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities)
+  * [Special Parts Division (SPD)](https://curseforge.com/kerbal/ksp-mods/SpecialPartsDivision)
+
+### Changes 4.0.99.34
+
+#### Issues 4.0.99.34
+
+* `Restart Build` button bug
+  * informed XPL author of issue
+  * closes #148 - [Bug 🐞]: Restart build button bug
+* B9Part Switch throwing tantrum concerning KDMetalOre resource not found
+  * addressed issue in Keridian Dyanamics (KDVA)
+  * closes #186 - [Bug 🐞]: B9 Part switch not being able to load KDMmetalOre
+* Kerbalism Laboratory not able to print RocketParts
+  * issue is resolved by updating the Kerbalism compatibility patch
+  * closes #184 - ISRU with SCON and Kerbalism.
+
+#### Compatibility 4.0.99.34
+
+* Add
+  * [BehemothAerospaceEngineering.cfg] v1.0.0.0
+  * Klockheed Martian: [AsteroidCities.cfg] v1.0.0.0
+  * Klockheed Martian: [SpecialPartsDivision.cfg] v1.0.0.0
+* Update
+  * general linting and modernization
+  * B9PartSwitch/
+    * [B9PartSwitch\B9TankTypes.cfg] v1.0.3.1
+    * [B9PartSwitch\B9TankSwitch.cfg] v1.0.4.0
+  * KerbalPlanetaryBaseSystems/
+    * [KerbalPlanetaryBaseSystems.cfg] v1.0.2.2
+    * [Smelter.cfg] v1.0.3.2
+    * [Workshop.cfg] v1.0.2.0
+  * [USI-Kontainers.cfg] v1.0.1.0
+  * [CommunityCategoryKit.cfg] v1.0.1.0
+  * [Foundations.cfg] v1.0.1.0
+  * [InterstellarFuelSwitch.cfg] v1.2.1.0
+  * [KerbalInventorySystem.cfg] v1.0.0.2
+  * [Kerbalism.cfg] v1.0.1.0
+  * [StationPartsExpansionRedux.cfg] v1.0.1.0
+
+#### Localization 4.0.99.34
+
+* Add
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github/evanisrael)
+* Update
+  * header, give credit, lint, reorganize, add
+  * [de.cfg] v1.0.3.0
+  * [en-us.cfg] v1.2.4.0
+  * [fr-fr.cfg] v1.0.3.0
+  * [nl-nl.cfg] v1.0.3.0
+  * [zh-cn.cfg] v1.0.3.0
+* updates #18 - Localization - English <en-us.cfg>
+* updates #19 - Localization - Master
+* Updates #21 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #27 - Localization - Dutch (Nederlands) <nl-nl.cfg>
+* updates #31 - Localization - French (Français) <fr-fr.cfg>
+* Updates #34 - Localization - German (Deutsch) <de.cfg>
+
+#### Documentation 4.0.99.34
+
+* Add
+  * [FAKQ.md] v1.0.0.0
+* Update
+  * [_config.yml] v1.1.3.0
+  * [404.md] v1.1.3.0
+  * [Attributions.md] v1.1.3.0
+  * [LegalMumboJumbo.md] v1.1.3.0
+  * [Localizations.md] v1.1.3.0
+  * [ManualInstallation.md] v1.1.3.0
+  * [Marketing.md] v1.1.3.0
+  * [Notices.md] v1.1.3.0
+  * [PartsCatalog.md] v1.1.3.0
+  * [resourceFlow.md] v1.1.3.0
+  * [Why.md] v1.1.3.0
+  * [readme.md] v4.0.99.34
+  * [releaseNotes.md] v4.0.99.34
+* Replace empty file
+  * [4.0.99.31.md]
+
+### Status 4.0.99.34
+
+* Issues
+  * closes #180 - SimpleConstruction! (SCON) 4.0.99.34-prerelease `<Preventative Maintenance>` edition
+  * closes #181 - 4.0.99.34 Additional Tasks
+
+---
 
 ## Version 4.0.99.33-prerelease `<eengie B9 Combo>` edition
 
@@ -177,7 +303,7 @@
 * 07 Aug 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-### Summary
+### Summary 4.0.99.30
 
 * [Launchpad.dll] 6.99.3
   * minimum KSP version: 1.12.x
@@ -185,7 +311,7 @@
   * Interstellar
   * InterstellarFuelSwitch
 
-### Extraplanetary Launchpads 0.6.99.3
+#### Extraplanetary Launchpads 0.6.99.3
 
 * Update
   * [Launchpad.dll] 6.99.3
@@ -197,8 +323,8 @@
 
 * Changes from 6.99.2 from [taniwha](https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/)'s changelog for [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads):
   * Minimum KSP version is now 1.12 (might be able to use in 1.11).
-  * As always, feedback and bug reports are welcome. Preferably github for the bug reports, and logs (KSP.log, make sure   LOG_INSTANT_FLUSH in settings.cfg is True. Player.log accepted only if KSP actually crashes as it is normally an unreadable   mess (and doesn't have timestamps)) or it didn't happen.
-  * While this is still in the .99 series, I would say that EL is pretty stable and can be considered late beta or even final   pre-release. It's more I have a few more things I want to get in before going to 7.0. Many many thanks to everyone who as given feedback and bug reports, and for putting up with my absence.
+  * As always, feedback and bug reports are welcome. Preferably github for the bug reports, and logs (KSP.log, make sure LOG_INSTANT_FLUSH in settings.cfg is True. Player.log accepted only if KSP actually crashes as it is normally an unreadable mess (and doesn't have timestamps)) or it didn't happen.
+  * While this is still in the .99 series, I would say that EL is pretty stable and can be considered late beta or even final pre-release. It's more I have a few more things I want to get in before going to 7.0. Many many thanks to everyone who as given feedback and bug reports, and for putting up with my absence.
   * Fix hiding EL's launch clamp (Louis Bach)
   * Fix incorrect vertical offset (5m) for survey builds
   * Fix inconsistent directory tree indentation
@@ -293,13 +419,13 @@
   * Add ModuleCargoPart to most parts, but only if KIS is not installed (based on the assumption that if KIS is installed, its storage options are considered to be superior)
   * Tweak the rocket builder's eject vectors, making exiting a "seat" less weird.
   * UI strings localized (always were in the new UI, but not in a config file: they're now loaded).
-  * Add Brazilian Portuguese translation (many thanks to [@Steven Marinelli](https://forum.kerbalspaceprogram.com/index.php?/  profile/221885-steven-marinelli/))
+  * Add Brazilian Portuguese translation (many thanks to [@Steven Marinelli](https://forum.kerbalspaceprogram.com/index.php?/profile/221885-steven-marinelli/))
   * Add agency localizations
   * Add support for subdirectories. I had over 150 craft files in my VAB (1.9.1 save). This... makes a very welcome difference.
-  * Wait for work sinks (currently just the various pads) to become ready before doing catch-up. This prevents an NRE in the   build control code that I was not able to reproduce myself. Many many thanks to [@Rodger](https://forum.kerbalspaceprogram.com/  index.php?/profile/153575-rodger/) (who ran into it) for his patience in testing (heavily modded JNSQ... load times are looooooong).
-  * Add support for stock inventory parts to the resource manager. This means that resources stored in tanks stored in cargo   containers are now counted correctly (only one level deep, though, so tanks in containers in containers won't be counted   properly (same as KIS)). This is the reason for abandoning older versions of KSP.
-  * As always, feedback and bug reports are welcome. Preferably github for the bug reports, and logs (KSP.log, make sure   LOG_INSTANT_FLUSH in settings.cfg is True. Player.log accepted only if KSP actually crashes as it is normally an unreadable   mess (and doesn't have timestamps)) or it didn't happen.
-  * While this is still in the .99 series, I would say that EL is pretty stable and can be considered late beta or even final   pre-release. It's more I have a few more things I want to get in before going to 7.0. Many many thanks to everyone who as given feedback and bug reports, and for putting up with my absence (gallivanting between The Bubble and Colonia, mostly in a DBX, both above and below the galactic plane, and a lot of work done on QuakeForge).
+  * Wait for work sinks (currently just the various pads) to become ready before doing catch-up. This prevents an NRE in the build control code that I was not able to reproduce myself. Many many thanks to [@Rodger](https://forum.kerbalspaceprogram.com/index.php?/profile/153575-rodger/) (who ran into it) for his patience in testing (heavily modded JNSQ... load times are looooooong).
+  * Add support for stock inventory parts to the resource manager. This means that resources stored in tanks stored in cargo containers are now counted correctly (only one level deep, though, so tanks in containers in containers won't be counted properly (same as KIS)). This is the reason for abandoning older versions of KSP.
+  * As always, feedback and bug reports are welcome. Preferably github for the bug reports, and logs (KSP.log, make sure LOG_INSTANT_FLUSH in settings.cfg is True. Player.log accepted only if KSP actually crashes as it is normally an unreadable mess (and doesn't have timestamps)) or it didn't happen.
+  * While this is still in the .99 series, I would say that EL is pretty stable and can be considered late beta or even final pre-release. It's more I have a few more things I want to get in before going to 7.0. Many many thanks to everyone who as given feedback and bug reports, and for putting up with my absence (gallivanting between The Bubble and Colonia, mostly in a DBX, both above and below the galactic plane, and a lot of work done on QuakeForge).
 
 ### ***EXPERIMENTAL***
 
@@ -355,7 +481,7 @@
 
 * Add
   * French (Français)
-    * thank you to [izeau (Jean Dupouy)](https://github.com/izeau)!
+    * merci beaucoup [izeau (Jean Dupouy)](https://github.com/izeau)!
     * <fr-fr.cfg>
 * updates #19 - Localization - Master
 * closes #31 - Localization - French (Français) <fr-fr.cfg>
@@ -536,7 +662,7 @@
 * 30 Mar 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
 
-### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL  
+### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
 ### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
 
@@ -545,7 +671,7 @@
 * [Resources.cfg] v1.0.3.0
   * removed creeping crawler metal bugs as reported by DarinDev1000
   * thank you to [DarinDev1000](https://github.com/DarinDev1000)!
-  * B9PartSwitch) crept into several :NEEDS - bad B9
+  * B9PartSwitch crept into several :NEEDS - bad B9
   * fixes #92 - [Bug 🐞]: Metal Containers are not working for me
 * [ghostparts.cfg] v1.0.0.1
   * squashed extra brace `{`
@@ -649,7 +775,7 @@
   * closes #78 - Localize [B9TankTypes.cfg] v1.0.2.0
 * [OreTanksSwitch.cfg] v1.02.0
   * [SCSwitch]
-    * [switcherDescription] was = Tank Type, now is #SCON-switcherDescription // Tank Type
+    * [switcherDescription] was = Tank Type, now is #SCON-B9-desc // Tank Type
     * [SCRocketParts]
       * [title] was = Rocket Parts, is now = #EL_RocketParts_displayName
       * added:
@@ -670,7 +796,7 @@
   * closes #79 - [OreTanksSwitch.cfg] v1.02.0
 * [en-us.cfg] v1.2.1.0
   * Add B9 Part Switch section
-    * #SCON-switcherDescription = Tank Type
+    * #SCON-B9-desc = Tank Type
     * #SCON-combo-title = Ore+Metal+RP
   * closes #80 - Update [en-us.cfg] v1.2.1.0
 
@@ -809,14 +935,14 @@
     * -description {}
     * description = #KBPS-Storage-Ore-desc
 * [KKAOSS_Smelter.cfg] v1.02.0
-  * ConverterName = #SCON-Metal-ConverterName // Metal
-  * StartActionName = #SCON-Metal-StartActionName // Start Metal Refining
-  * StopActionName = #SCON-Metal-StopActionName // Stop Metal Refining
+  * ConverterName = #SCON-act-metal-name // Metal
+  * StartActionName = #SCON-act-metal-strt // Start Metal Refining
+  * StopActionName = #SCON-act-metal-stop // Stop Metal Refining
   * resourceOutputName = #SimpleConstruction_Metal_displayname // Metal
 * [ISRU.cfg] v1.1.0.0
-  * ConverterName = #SCON-Metal-ConverterName // Metal
-  * StartActionName = #SCON-Metal-StartActionName // Start Metal Refining
-  * StopActionName = #SCON-Metal-StopActionName // Stop Metal Refining
+  * ConverterName = #SCON-act-metal-name // Metal
+  * StartActionName = #SCON-act-metal-strt // Start Metal Refining
+  * StopActionName = #SCON-act-metal-stop // Stop Metal Refining
   * resourceOutputName = #SimpleConstruction_Metal_displayname // Metal
 * [en-us.cfg]v1.2.0.0
   * KerbalPlanetaryBaseSystems
@@ -847,13 +973,13 @@
 ### Status
 
 * Issues/Milestones
-  * closes #63 - [Bug &#55357;&#56350;]:  KPBS Smelter not heating
+  * closes #63 - [Bug 🐞]: KPBS Smelter not heating
   * closes #64 - SimpleConstruction! (SCON) 4.0.99.2-prerelease A Little Too Spicy
   * closes #65 - 4.0.99.2 Verify Legal Mumbo Jumbo
   * closes #66 - 4.0.99.2 Update Documentation
   * closes #67 - 4.0.99.2 Social Media
 * Pull Requests
-  * closes #68 -  Version 4.0.99.2-prerelease - A Little too Spicy - contributed by zer0Kerbal
+  * closes #68 - Version 4.0.99.2-prerelease - A Little too Spicy - contributed by zer0Kerbal
 
 ---
 
@@ -862,7 +988,7 @@
 * 26 Feb 2022
 * Release for Kerbal Space Program [KSP 1.12.3]
 
-### Updated
+### Updated 4.0.99.1
 
 * [Tanks.cfg]
   * blame: Version 4.0.9.9.1-prerelease
@@ -885,47 +1011,36 @@
   * add ISRU localizations
   * add header/footer
   * seems USI hasn't localized Karbonite/KarbonitePlus
-    * [#SCON-Karbonite-ConverterName] = Karbonite
-    * [#SCON-Karbonite-StartActionName] = Karbonite Refining: Start
-    * [#SCON-Karbonite-StopActionName] = Karbonite Refining: Stop
+    * [#SCON-act-karbonite-name] = Karbonite
+    * [#SCON-act-karbonite-strt] = Karbonite Refining: Start
+    * [#SCON-act-karbonite-stop] = Karbonite Refining: Stop
     * [#SCON_Karbonite_displayname] = Karbonite
 
 * Spawn Location
   * no reports of further bad behavior
   * closes #38 - Correct Spawn location
 
-### Created
+### Created 4.0.99.1
 
 * [ghostparts.cfg] v1.0.0.0
   * has a shelf life and will go away
   * creates hidden parts that should not show in editor, but available for in flight craft.
   * closes #57 - [Bug 🐞]: [Tanks.cfg] changing stock part name
 
-### Backend
+### Backend 4.0.99.1
 
 * folder maintenance
 * moved Patches --> Compatibility
 * update automation to latest version
 * convert _release.json to schema 1.0.2.1
 
-### Kerbal Changelog
+### Kerbal Changelog 4.0.99.1
 
 * convert [Changelog.kcl]
   * from Kerbal Changelog format to GitHub flavored markdown
   * closes #59 - Convert Changelog.cfg
 
-### Status
-
-* Issues/Milestones
-  * closes #56 - 4.0.99.1 Social Media
-  * closes #55 - 4.0.99.1 Update documentation
-  * closes #54 - 4.0.99.1 Verify Legal MumboJumbo
-  * closes #53 - Release 4.0.99.1-prerelease `<A Tiny Hammer>`
-  * closes #50 - (Short List) SimpleConstruction Version 4.0.99.1-prerelease due to new version of EL: 6.99.1
-* Pull Requests
-  * closes #48 - 4.0.9.9.1 prerelease - A Bigger Hammer
-
-### Docs/
+### Docs/ 4.0.99.1
 
 * update [readme.md] v1.6.5.6
 * update [changelog.md] v1.4.1.0
@@ -949,8 +1064,17 @@
   * float - ProductivityFactor = 1f;
   * float - UnmannedProductivity;
 
-### Status
+### Status 4.0.99.1
 
+* Issues/Milestones
+  * closes #56 - 4.0.99.1 Social Media
+  * closes #55 - 4.0.99.1 Update documentation
+  * closes #54 - 4.0.99.1 Verify Legal MumboJumbo
+  * closes #53 - Release 4.0.99.1-prerelease `<A Tiny Hammer>`
+  * closes #50 - (Short List) SimpleConstruction Version 4.0.99.1-prerelease due to new version of EL: 6.99.1
+* Pull Requests
+  * closes #48 - 4.0.9.9.1 prerelease - A Bigger Hammer
+* Issues
 * #42 - 4.0.9.9 beta
 * #48 - 4.0.9.9.1 prerelease - A Bigger Hammer
 * #52 - 4.0.9.9.1
@@ -983,7 +1107,7 @@
 * DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 * ExtraplanetaryLaunchpads .dll to 6.99.0.0 for KSP 1.9.1
 
-### Added
+### Added 4.0.9.9
 
 * SSPX.cfg -> StationPartsExpansionRedux.cfg
   * :NEEDS[StationPartsExpansionRedux,]
@@ -995,13 +1119,13 @@
 * Stock Drills [Drills.cfg]
   * add tiny ore tank
 
-### 4.0.9.9 Minor Housekeeping
+### Minor Housekeeping 4.0.9.9
 
 * patch linting/dusting (mostly removing construction dust (comments))
 * please note: ELControlReferenceSC is has gone away.
 * ghostparts.cfg has been removed
 
-### Update
+### Update 4.0.9.9
 
 * Back end
   * add auto JSON
@@ -1010,7 +1134,7 @@
 * EL
   * new UI
 
-### [Resources.cfg]
+### [Resources.cfg] 4.0.9.9
 
 * add icon to stock [ore]
 * [ore],[metal],[RocketParts]
@@ -1022,7 +1146,7 @@
   * adjust [volume]
   * fix localization of RocketParts if {Community Resource Pack} installed
 
-### [Tanks.cfg]
+### [Tanks.cfg] 4.0.9.9
 
 * metal tanks
   * adjust [cost] and [entryCost]
@@ -1032,18 +1156,18 @@
   * adjust [cost] and [entryCost]
   * remove adjustment for [amount] and [maxAmount]
 
-### Added (WIP)
+### Added (WIP) 4.0.9.9
 
-* Add CCK support (WIP))
-* Add Agency (WIP))
+* Add CCK support (WIP)
+* Add Agency (WIP)
 * Continue Localization work
 * Added SimpleConstruction! Flag
 
-### Removed
+### Removed 4.0.9.9
 
 * ghostparts.cfg
 
-### Status
+### Status 4.0.9.9
 
 * closes #5 - pull changes from main - contributed by zer0Kerbal
 * closes #6 - wait out beta period
@@ -1235,10 +1359,11 @@
 * many other small updates
 
 ---
+---
 
 ## Version 4.0.1.0 - [KSP 1.4.4] [2018 06 24]
 
-### by EricKerman (Ericwi)[https://github.com/EricKerman/SimpleConstruction]
+### by EricKerman [Ericwi](https://github.com/EricKerman/SimpleConstruction)
 
 * Updated EL to version 6.1.0
 * Fixed Large Ports
