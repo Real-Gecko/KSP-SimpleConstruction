@@ -2,11 +2,11 @@
 
 | modName    | SimpleConstruction! (SCON)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | GPL-3.0+ARR                                                         |
+| license    | GPL-3.0+ARR                                                       |
 | author     | matterbeam, RealGecko, EricWi and zer0Kerbal                      |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SimpleConstruction)     |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)    |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)   |
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
@@ -480,7 +480,7 @@
 
 * Add
   * French (Français)
-    * thank you to [izeau (Jean Dupouy)](https://github.com/izeau)!
+    * merci beaucoup [izeau (Jean Dupouy)](https://github.com/izeau)!
     * <fr-fr.cfg>
 * updates #19 - Localization - Master
 * closes #31 - Localization - French (Français) <fr-fr.cfg>
@@ -774,7 +774,7 @@
   * closes #78 - Localize [B9TankTypes.cfg] v1.0.2.0
 * [OreTanksSwitch.cfg] v1.02.0
   * [SCSwitch]
-    * [switcherDescription] was = Tank Type, now is #SCON-switcherDescription // Tank Type
+    * [switcherDescription] was = Tank Type, now is #SCON-B9-desc // Tank Type
     * [SCRocketParts]
       * [title] was = Rocket Parts, is now = #EL_RocketParts_displayName
       * added:
@@ -795,7 +795,7 @@
   * closes #79 - [OreTanksSwitch.cfg] v1.02.0
 * [en-us.cfg] v1.2.1.0
   * Add B9 Part Switch section
-    * #SCON-switcherDescription = Tank Type
+    * #SCON-B9-desc = Tank Type
     * #SCON-combo-title = Ore+Metal+RP
   * closes #80 - Update [en-us.cfg] v1.2.1.0
 
@@ -934,14 +934,14 @@
     * -description {}
     * description = #KBPS-Storage-Ore-desc
 * [KKAOSS_Smelter.cfg] v1.02.0
-  * ConverterName = #SCON-Metal-ConverterName // Metal
-  * StartActionName = #SCON-Metal-StartActionName // Start Metal Refining
-  * StopActionName = #SCON-Metal-StopActionName // Stop Metal Refining
+  * ConverterName = #SCON-act-metal-name // Metal
+  * StartActionName = #SCON-act-metal-strt // Start Metal Refining
+  * StopActionName = #SCON-act-metal-stop // Stop Metal Refining
   * resourceOutputName = #SimpleConstruction_Metal_displayname // Metal
 * [ISRU.cfg] v1.1.0.0
-  * ConverterName = #SCON-Metal-ConverterName // Metal
-  * StartActionName = #SCON-Metal-StartActionName // Start Metal Refining
-  * StopActionName = #SCON-Metal-StopActionName // Stop Metal Refining
+  * ConverterName = #SCON-act-metal-name // Metal
+  * StartActionName = #SCON-act-metal-strt // Start Metal Refining
+  * StopActionName = #SCON-act-metal-stop // Stop Metal Refining
   * resourceOutputName = #SimpleConstruction_Metal_displayname // Metal
 * [en-us.cfg]v1.2.0.0
   * KerbalPlanetaryBaseSystems
@@ -1010,9 +1010,9 @@
   * add ISRU localizations
   * add header/footer
   * seems USI hasn't localized Karbonite/KarbonitePlus
-    * [#SCON-Karbonite-ConverterName] = Karbonite
-    * [#SCON-Karbonite-StartActionName] = Karbonite Refining: Start
-    * [#SCON-Karbonite-StopActionName] = Karbonite Refining: Stop
+    * [#SCON-act-karbonite-name] = Karbonite
+    * [#SCON-act-karbonite-strt] = Karbonite Refining: Start
+    * [#SCON-act-karbonite-stop] = Karbonite Refining: Stop
     * [#SCON_Karbonite_displayname] = Karbonite
 
 * Spawn Location
@@ -1357,6 +1357,7 @@
 * updated LaunchPad textures
 * many other small updates
 
+---
 ---
 
 ## Version 4.0.1.0 - [KSP 1.4.4] [2018 06 24]
