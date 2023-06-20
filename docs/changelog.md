@@ -26,15 +26,14 @@ CC BY-ND 4.0 by zer0Kerbal
 ## Version 4.0.99.34-prerelease `<Preventative Maintenance>` edition
 
 * 📌 Pinned
-  * new prereleases of SimpleConstruction! (SCON) ONLY available on [CurseForge][CURSFG:url]
+  * new prereleases of SimpleConstruction! (SCON) ONLY available on [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction)
   * Dependencies:
     * [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
-    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
 * [Launchpad.dll] 6.99.3 PRERELEASe (minimum KSP version: 1.12.x)
-  * SCON will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
+  * SCON will remain prerelease until [taniwha](https://github.com/taniwha) releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
 * [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html) and is based on work by taniwha, thank you!
   * Known issue(s)
-    * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
+    * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`](https://github.com/taniwha)
     * Kerbalism compatibility is considered EXPERIMENTAL.
     * bypassing the PD Launcher for starting the game might result
       * builds may require no RocketParts and time to complete
