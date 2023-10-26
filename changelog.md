@@ -91,7 +91,7 @@
   * Translation guides
     * [readme-ru.md] v1.0.1.0
     * [quickstart-ru.md] v1.0.0.0
-    * Спасибо [evanisrael](https://github/evanisrael)
+    * Спасибо [evanisrael](https://github.com/evanisrael)
 * Update
   * header, give credit, lint, reorganize, add
   * [de.cfg] v1.0.3.0
@@ -663,7 +663,7 @@
 
 ### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
-### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
+### WARNING: Only [CurseForge][CURSFG:url] version will include .dll’s
 
 ### Fixed
 
@@ -717,7 +717,7 @@
 
 ### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
-### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
+### WARNING: Only [CurseForge][CURSFG:url] version will include .dll’s
 
 ### Fixed
 
@@ -749,7 +749,7 @@
 
 ### DO A CLEAN INSTALL: DELETE EXISTING THEN RE-INSTALL
 
-### WARNING: Only [CurseForge][CRSFG:url] version will include .dll’s
+### WARNING: Only [CurseForge][CURSFG:url] version will include .dll’s
 
 ### Updated
 
@@ -1510,6 +1510,6 @@
 
 * Reduced productivity multipliers: MPL from x7 to x5, Crewed parts from x4 to x3. This was to reduce the much too short construction times that came from chaining together several MPLs in playtesting.
 
-[CRSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "CurseForge"
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "CurseForge"
 
 <!-- CC BY-ND 3.0 Unported by zer0Kerbal>
