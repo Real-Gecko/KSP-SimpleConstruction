@@ -55,7 +55,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ### Changes 4.0.99.35
 
-#### Compatibility 4.0.99.34
+#### Compatibility 4.0.99.35
 
 * Add
   * [Realistic Progression One (RP-1)](https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*/)
@@ -63,7 +63,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * Thank you [Xt007](https://forum.kerbalspaceprogram.com/profile/197003-*/)
   * Should be considered experimental
 
-#### Localization 4.0.99.34
+#### Localization 4.0.99.35
 
 * Update
   * header, give credit, lint, reorganize, add
@@ -79,17 +79,17 @@ CC BY-ND 4.0 by zer0Kerbal
 * updates #31 - Localization - French (Français) <fr-fr.cfg>
 * Updates #34 - Localization - German (Deutsch) <de.cfg>
 
-#### Documentation 4.0.99.34
+#### Documentation 4.0.99.35
 
 * Update
-  * [readme.md] v4.0.99.34
-  * [releaseNotes.md] v4.0.99.34
+  * [readme.md] v4.0.99.35
+  * [releaseNotes.md] v4.0.99.35
 
 ### Status 4.0.99.34
 
 * Issues
-  * closes #190 - SimpleConstruction! (SCON) 4.9.99.35-prerelease `<Xt007: Realistic Progression One>` edition
-  * closes #191 - 4.9.99.35 Additional Tasks
+  * closes #190 - SimpleConstruction! (SCON) 4.0.99.35-prerelease `<Xt007: Realistic Progression One>` edition
+  * closes #191 - 4.0.99.35 Additional Tasks
 
 ---
 
