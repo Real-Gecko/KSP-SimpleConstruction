@@ -116,7 +116,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Contracts for these glorious parts
 > * Sample crafts/subassemblies
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
-> * Converting from FireSpitter to Stock and/or KSPWheel  
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][G:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
@@ -228,12 +227,12 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 > Forum: [Thread][forum] - Source: [GitHub][G:url] - Download [CurseForge][C:url]  
 > License: [![License][LIC:shd]][LIC:url]
 
-#### Maintainer (2) - [`EricWI`][ericwi]
+#### Maintainer (2): [`EricWI`][ericwi]
 >
 > [Thread][2:thr] - [GitHub][2:dnl] - Source: [GitHub][2:src]  
 > License: [![License][2:shd]][2:url] [![License][2:log]][2:url]
 
-#### Author (1) - [`RealGecko`][realgecko]
+#### Author (1): [`RealGecko`][realgecko]
 >
 > [Thread][1:thr] - [SpaceDock][1:dnl] - Source: [GitHub][1:src]  
 > License: [![License][1:shd]][1:url] [![License][1:log]][1:url]  
