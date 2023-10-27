@@ -46,16 +46,12 @@
 
 * Add
   * [Realistic Progression One (RP-1)](https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*/)
+  * RP-1.cfg
   * Thank you [Xt007](https://forum.kerbalspaceprogram.com/profile/197003-*/)
   * Should be considered experimental
 
 #### Localization 4.0.99.34
 
-* Add
-  * Translation guides
-    * [readme-ru.md] v1.0.1.0
-    * [quickstart-ru.md] v1.0.0.0
-    * Спасибо [evanisrael](https://github.com/evanisrael)
 * Update
   * header, give credit, lint, reorganize, add
   * [de.cfg] v1.0.4.0
