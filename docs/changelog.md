@@ -23,6 +23,76 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/59)                                   |
 | ckan       | SimpleConstruction                                                |
 
+## Version 4.0.99.35-prerelease `<Xt007: Realistic Progression One>` edition
+
+* 📌 Pinned
+  * new prereleases of SimpleConstruction! (SCON) ONLY available on [CurseForge][CURSFG:url]
+  * Dependencies:
+    * [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
+* [Launchpad.dll] 6.99.3 PRERELEASE (minimum KSP version: 1.12.x)
+  * SCON will remain in prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease
+* [WIP] XPL/SC/NSSC manual [link](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html) and is based on work by taniwha, thank you!
+  * Known issue(s)
+    * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
+    * Kerbalism compatibility is considered EXPERIMENTAL.
+    * bypassing the PD Launcher for starting the game might result
+      * builds may require no RocketParts and time to complete
+      * other odd behavior
+      * We are aware of this and any assistance with this issue would be appreciated.
+  * SPECIAL THANK YOU TO [eengie](https://www.reddit.com/user/eengie/)
+
+* Released
+  * 26 Oct 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 4.0.99.35
+
+* NEW:
+  * [Realistic Progression One (RP-1)](https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*/)
+  * Thank you [Xt007](https://forum.kerbalspaceprogram.com/profile/197003-*/)
+  * Should be considered experimental
+
+### Changes 4.0.99.35
+
+#### Compatibility 4.0.99.34
+
+* Add
+  * [Realistic Progression One (RP-1)](https://forum.kerbalspaceprogram.com/index.php?/topic/190040-*/)
+  * RP-1.cfg
+  * Thank you [Xt007](https://forum.kerbalspaceprogram.com/profile/197003-*/)
+  * Should be considered experimental
+
+#### Localization 4.0.99.34
+
+* Update
+  * header, give credit, lint, reorganize, add
+  * [de.cfg] v1.0.4.0
+  * [en-us.cfg] v1.2.4.1
+  * [fr-fr.cfg] v1.0.4.0
+  * [nl-nl.cfg] v1.0.4.0
+  * [zh-cn.cfg] v1.0.4.0
+* updates #18 - Localization - English <en-us.cfg>
+* updates #19 - Localization - Master
+* Updates #21 - Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
+* updates #27 - Localization - Dutch (Nederlands) <nl-nl.cfg>
+* updates #31 - Localization - French (Français) <fr-fr.cfg>
+* Updates #34 - Localization - German (Deutsch) <de.cfg>
+
+#### Documentation 4.0.99.34
+
+* Update
+  * [readme.md] v4.0.99.34
+  * [releaseNotes.md] v4.0.99.34
+
+### Status 4.0.99.34
+
+* Issues
+  * closes #190 - SimpleConstruction! (SCON) 4.9.99.35-prerelease `<Xt007: Realistic Progression One>` edition
+  * closes #191 - 4.9.99.35 Additional Tasks
+
+---
+
 ## Version 4.0.99.34-prerelease `<Preventative Maintenance>` edition
 
 * 📌 Pinned
