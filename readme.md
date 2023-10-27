@@ -1,20 +1,20 @@
 <!-- readme.md v4.0.99.34
 SimpleConstruction! (SCON)
 created: 17 Jul 2017
-updated: 18 Jun 2023
+updated: 26 Oct 2023
 
-TEMPLATE: readme.md v1.7.4.2
+TEMPLATE: readme.md v1.7.6.0
 created: 17 Jul 2017
-updated: 18 May 2023
+updated: 07 Aug 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-# [SimpleConstruction! (SCON)][CURSFG:url]
+# [SimpleConstruction! (SCON)][C:url]
 
-[![SimpleConstruction! (SCON)][SHD:mod]][CURSFG:url]  
+[![SimpleConstruction! (SCON)][SHD:mod]][C:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
+[![Curseforge][C:shd]][C:url] [![GitHub][G:shd]][G:url] [![Pages][SHD:pgs]][pages]
 
-![MOD-NAME][SHD:dll]
+![SimpleConstruction! (SCON)][SHD:dll]
 
 This addon aims to provide simple craft building capability in flight mode with stock parts and streamlined IRSU mining for Kerbal Space Program.
 
@@ -54,7 +54,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Cabin notes by [zer0Kerbal][zedk]
 
-* Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease and so new prereleases ONLY available on [CurseForge][CURSFG:url]
+* Will remain prerelease until [taniwha][taniwha] releases Extraplanetary Launchpads as *release* instead of alpha/beta/prerelease and so new prereleases ONLY available on [CurseForge][C:url]
 * I have not personally tested the patches
 * Known issue(s)
   * If the offset/rotation gizmo's are used on the docking ports, the spawn location might be off. This is a known issue and a feature request has been sent to [`taniwha`][taniwha]
@@ -64,7 +64,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
->* the latest version of this readme is always found on [GitHub][GITHUB:url]
+>* the latest version of this readme is always found on [GitHub][G:url]
 >* [ChangeLog][chlog] for more details of changes
 >* [Discussions][discu] or [forums][forum] for discussions and news
 >* [FAKQ][fakq]
@@ -76,7 +76,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Documentation
 
-* this is the FULL [Extraplanetary Launchpads PDF](http://taniwha.org/~bill/EL_Manual.pdf) manual and not written specifically for [SimpleConstruction!][CURSFG:url] and is dated
+* this is the FULL [Extraplanetary Launchpads PDF](http://taniwha.org/~bill/EL_Manual.pdf) manual and not written specifically for [SimpleConstruction!][C:url] and is dated
 * an unfinished/experimental (heavily wip) html version is available [here](https://zer0kerbal.github.io/NotSoSimpleConstruction/FAKQ/stakes.html)
 
 <details>
@@ -93,7 +93,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
 >* ![Dutch](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png) Dutch - bedankt [x13x54](https://github.com/x13x54)
 >* ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français) - merci beaucoup [izeau (Jean Dupouy)](https://github.com/izeau)
->* ![Chinese (简体中文)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png) Chinese (简体中文) - xièxiè - *wèizhī* (谢谢 - 未知)
+>* ![Chinese (简体中文)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png) Chinese (简体中文) - xièxiè - *wèizhī* (谢谢 - 未知) unknown
 >* ***your translation here***
 
 #### [Extraplanetary Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
@@ -117,7 +117,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Sample crafts/subassemblies
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][G:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Installation Directions
@@ -144,6 +144,8 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 
 #### Suggests
+
+* [list][mlist] of other addons by [zer0Kerbal][zedK]
 
 * that benefit SimpleConstruction! (SCON)
   * [Kaboom! (BOOM)](https://curseforge.com/kerbal/ksp-mods/Kaboom) <i><small>another way to not go to space today</small></i>
@@ -222,7 +224,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 #### Author (3) - [`zer0Kerbal`][zedk]
 >
-> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge][CURSFG:url]  
+> Forum: [Thread][forum] - Source: [GitHub][G:url] - Download [CurseForge][C:url]  
 > License: [![License][LIC:shd]][LIC:url]
 
 #### Maintainer (2): [`EricWI`][ericwi]
@@ -267,6 +269,7 @@ Comment, click, like, share, up-vote, subscribe
 [forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstruction! (SCON)"
 [issue]: https://github.com/zer0Kerbal/SimpleConstruction/issues "GitHub Issues"
 [markt]: https://zer0kerbal.github.io/SimpleConstruction/Marketing "Marketing Slicks"
+[mlist]: https://zer0kerbal.github.io/zer0Kerbal/AddonListing.html "zer0Kerbal mod list"
 [notic]: https://zer0kerbal.github.io/SimpleConstruction/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/SimpleConstruction "GitHub Pages"
 [parts]: https://zer0kerbal.github.io/SimpleConstruction/PartsCatalog "Parts Catalog"
@@ -309,11 +312,11 @@ Comment, click, like, share, up-vote, subscribe
 [LIC:sp:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
 
 <!--- release links -->
-[CURSFG:url]: https://curseforge.com/kerbal/ksp-mods/simpleconstruction "Curseforge"
-[CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
+[C:url]: https://curseforge.com/kerbal/ksp-mods/simpleconstruction "Curseforge"
+[C:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
-[GITHUB:url]: https://github.com/zer0Kerbal/SimpleConstruction/ "GitHub"
-[GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
+[G:url]: https://github.com/zer0Kerbal/SimpleConstruction/ "GitHub"
+[G:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 <!-- Kerbal Space Program -->
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
@@ -328,22 +331,6 @@ Comment, click, like, share, up-vote, subscribe
 [taniwha]: https://forum.kerbalspaceprogram.com/index.php?/profile/57176-*/ "Taniwha"
 [zedk]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-<!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
-[PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
-[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
-
-<!-- Localization -->
-[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
-[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Brazialian (Português Brasil)"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "Simplified Chinese (中文)"
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "danke - German (Deutsch)"
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "merci French (Français)"
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "bedanke - Dutch"
-
 [curseforge]: https://curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
@@ -351,6 +338,12 @@ Comment, click, like, share, up-vote, subscribe
 [youtube]: https://www.youtube.com/@zer0Kerbal
 [steam]: https://steamcommunity.com/id/zeroKerbal
 [projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
+
+<!-- financial support -->
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
+[PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
+[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 
 #### Connect with me
 
