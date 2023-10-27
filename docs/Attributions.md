@@ -77,6 +77,7 @@ Kindly help out [`taniwha][taniwha] and translate! [Github Repo](https://github.
 
 ### Special Thanks
 
+* Lisias for [ModularManagement](https://legacy.curseforge.com/kerbal/ksp-mods/modularmanagement)
 * sarbian for [ModuleManager](https://forum.kerbalspaceprogram.com/threads/55219-*).
 * cybutek for [KSP-AVC](https://forum.kerbalspaceprogram.com/threads/79745-*).
 * RoverDude for [Community Resource Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/83007-*/)
